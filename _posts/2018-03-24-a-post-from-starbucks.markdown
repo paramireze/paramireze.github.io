@@ -8,11 +8,4 @@ Good morning. Take a deep breath in. Feel the sensations on your skin, back, nec
 
 I bet you are wondering what any of this has to do with a tech blog. Well, I have no idea. There are no rules here. Fine, the old bait and switch. You came here to learn about software development, or at the least a different perspective. Instead, you hear the rantings of a young old guy. I am not apologetic. I am not sorry nor do I feel bad. I feel nothing. I feel stuck here in time expressing ideas that I didn't know existed until I wrote it down. Software development does that for me too. There is a strange silence in my mind after coding one of the various pet project apps I have. None of which are close to being complete. I start over frequently and sometimes just enjoy the act of coding more than completing some project. I consider it keeping the tools sharp so I can more quickly adjust to the movements of coding.
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul> 
 
