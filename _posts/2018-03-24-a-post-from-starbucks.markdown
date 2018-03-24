@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rantings of a Old Young Developer"
+title:  "Rantings of an Old Young Developer"
 date:   2018-03-22 20:51:58 -0500
 categories: jekyll update
 ---
