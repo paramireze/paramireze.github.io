@@ -26,3 +26,5 @@ In the latest exercis, we learned how to use the `saveInstanceState()` which wil
 okay fine, this is what we are learning
 
 ![this is a diagram about lifecycles and stuff!]({{ "https://snag.gy/fjncas.jpg" }})
+
+Still learning, fascinating stuff
