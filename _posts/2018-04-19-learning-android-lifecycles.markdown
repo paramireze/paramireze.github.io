@@ -6,16 +6,22 @@ categories: Android development
 ---
 
 Android has their own unique lifecycle when it comes to running an app. There are seven different methods/states that are used to help manage resources. 
-<ul>
+
+
 {% highlight ruby %}
-<li>onCreate()</li>
-<li>onStart()</li>
-<li>onResume()</li>
-<li>onPause()</li>
-<li>onStop()</li>
-<li>onDestroy()</li>
+
+
+- onCreate()
+- onStart()
+- onResume()
+- onPause()
+- onStop()
+- onDestroy()
+
 {% endhighlight %}
+
 </ul>
+
 These are the various lifecycle states that any app can be in. They can happen multiple times depending on the users interactions. For example, if the user decides to check tinder and open a new window, then the app will execute the `onPause()` then `onStop()` methods.  
 
 In the latest exercis, we learned how to use the `saveInstanceState()` which will save state information with a collection key-value pairs after the `onPause` and before `onStop()` 
