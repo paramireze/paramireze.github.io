@@ -7,7 +7,7 @@ categories: Android development
 
 Android has their own unique lifecycle when it comes to running an app. There are seven different methods/states that are used to help manage resources. 
 
-{% highlight %}
+{% highlight ruby %}
 <ul>
 <li>onCreate()</li>
 <li>onStart()</li>
@@ -27,4 +27,3 @@ okay fine, this is what we are learning
 
 ![this is a diagram about lifecycles and stuff!]({{ "https://snag.gy/fjncas.jpg" }})
 
-Still learning, fascinating stuff
