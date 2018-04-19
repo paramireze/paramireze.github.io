@@ -20,7 +20,6 @@ Android has their own unique lifecycle when it comes to running an app. There ar
 
 {% endhighlight %}
 
-</ul>
 
 These are the various lifecycle states that any app can be in. They can happen multiple times depending on the users interactions. For example, if the user decides to check tinder and open a new window, then the app will execute the `onPause()` then `onStop()` methods.  
 
