@@ -14,3 +14,5 @@ I see `public`, `private`, `protected` being used. I understand well how those a
 - `final`: the value cannot be changed after it is intialized. Also known as a constant
 
 - `static final`: means only one instance of the variable no matter how many classes are built.  
+
+- `void`: no return value! so simple and yet so foreign
