@@ -5,7 +5,10 @@ date:   2018-04-18 20:42:58 -0500
 categories: Android development
 ---
 
-Android has their own unique lifecycle when it comes to running an app. There are seven different methods/states that are used to help manage resources. 
+One thing that never occured to me until this lesson, is how much mobile apps must constantly be changing states. When dealing with web applications, a user session is stored in a browser until closed or whatnot. 
+
+It makes sense to me that the state of an mobile app must always be ready to conserve resources. I didn't realize that when a user rotates their screen, the entire app is `reStarted()`. To help manage resources, android uses several methods
+
 
 
 {% highlight ruby %}
@@ -20,12 +23,12 @@ Android has their own unique lifecycle when it comes to running an app. There ar
 
 {% endhighlight %}
 
+Each of these methods are called depending on the user interaction with their device.
 
-These are the various lifecycle states that any app can be in. They can happen multiple times depending on the users interactions. For example, if the user decides to check tinder and open a new window, then the app will execute the `onPause()` then `onStop()` methods.  
+In the latest exercis, we learned how to use the `saveInstanceState()` which will save state information with a collection key-value pairs after the `onPause` and before `onStop()` method call. 
 
-In the latest exercis, we learned how to use the `saveInstanceState()` which will save state information with a collection key-value pairs after the `onPause` and before `onStop()` 
-
-okay fine, this is what we are learning
+In our exercise, we override the `saveInstanceState()` to store query results so that if the user rotates their screen, they do not lose their data. 
+Diagram showing lifecycle.
 
 ![this is a diagram about lifecycles and stuff!]({{ "https://snag.gy/fjncas.jpg" }})
 
