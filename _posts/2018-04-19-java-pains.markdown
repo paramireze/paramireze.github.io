@@ -5,9 +5,9 @@ date:   2018-04-19 08:00:58 -0500
 categories: Android development
 ---
 
-The first thing I am noticing when developing is all the various declaration types when it comes to variables, constants.
+The first thing I am noticing when learning Java is all the various declaration types when it comes to variables, constants, methods and functions. I am use to weakly typed languages like PHP and javascript where programmers can easily code in jibberish.
 
-I see `public`, `private`, `protected` being used. I understand well how those are used. Glad to see them. However, I do not understand `final`, `void`, `static`. 
+I see `public`, `private`, `protected` being used and remember well from my education how they are used. However, I do not understand `final`, `void`, `static`. 
 
 - `static`: only one variable instance exists for all objects. They share the variable
  
