@@ -23,7 +23,8 @@ I see `public`, `private`, `protected` being used and remember well from my educ
 I am stuck again. I am trying to learn about android aSyncTaskLoader and can't get past Anonymous Inner Classes. I have no way of learning more advanced concepts without understanding the basics of Java OOD. 
 
 Anonymous inner classes are useful in writing implementation classes for listener interfaces in graphics programming. A top voted answer on stackoverflow says he uses `anonymous inner classes` to attach event handlers and only for one-offs. Otherwise, he recommends making a separate class that implements
-{$ highlight ruby %}
+
+{% highlight ruby %}
 
 * Single object is created without a name
 * Useful for making an instance of an object for extras such as overloads
