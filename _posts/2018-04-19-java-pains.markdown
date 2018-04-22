@@ -29,7 +29,7 @@ Anonymous inner classes are useful in writing implementation classes for listene
 * Useful for making an instance of an object for extras such as overloads
 * Avoid creating a subclass
 
-{% endhighlighting %} 
+{% endhighlight %} 
 
 ![Anonymous Inner Class Diagram]({{ "/assets/inner_classes.jpg" }})
 
