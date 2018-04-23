@@ -5,6 +5,8 @@ date:   2018-04-20 18:42:58 -0500
 categories: Android development
 ---
 
+Exercise: [Exercise 5 - leveraging Loaders]({{ "https://classroom.udacity.com/courses/ud851/lessons/ed13cc93-2861-43bf-b7ed-395a166ab975/concepts/29dfb358-58ec-4364-8f1d-74488de38424#" }})
+
 My brain is broken. Damnit... What is up with multithreading? This last tutorial is absolutely silly. there are 23 different todo's with crazy looking syntax. Once again, I need to rant a bit so I can make sense of this madness. 
 
 # Summary
@@ -37,9 +39,16 @@ It is possible that AsyncTask can run duplicate threads in the background if a u
 
 If everything I wrote isn't enough, this lesson also discusses activities and fragments interchangably. There is such a thing called `fragmentActivity`. These are most commonly used to create multi-pane UI. It can be thought of as a sub-activity with its own lifecycle.
 
+# Bundles
+
+In this exericise, bundle is specifically used to pass load data for later. Whe n the screen rotates `onSaveInstanceState(Bundle outstate) method is invoked and the activity is destroyed. We then call `onCreate(Bundle savedInstanceState)` method to create the activity using the data from the previous activity.
+
 # Loaders
 
 Some of the challenges that arise when dealing with multiple threads is them communicating with one another. For example, threads can continue to run despite the Main UI Thread stopping for whatever reason. As a result, loaders can help improve the user experience by managing the various threads.
+
+
+One [stack overflow post]({{https://stackoverflow.com/questions/22934823/what-is-the-difference-between-a-bundle-and-an-intent}}) says that the java framework could use java `map`, however, `map` is not guaranteed to store serialiable objects. `Bundles` restricts the type of objects to ensure `serializability`.
 
 `AsyncTaskLoader` is a lot like `AsyncTask` except it is a bit better. It behaves within the lifecycles of fragments/activities.
 
