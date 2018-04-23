@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Introduction to Loaders"
+date:   2018-04-20 18:42:58 -0500
+categories: Android development
+---
+
+My brain is broken. Damnit... What is up with multithreading? This last tutorialis absolutely silly. there are 23different todo's with crazy looking syntax. Once again, I need to rant a bit so I can make sense of this madness. 
+
+# Summary
+The key to android development is making the main (UI) thread as lightweight as possible. That means a developer should try to offload none UI tasks to different threads. In my latest tutorial, the best way to achieve that is through the use of loaders.
+
+# Concepts for this lesson
+
+
+`aSyncTask` is a threading library that creates a class that handles tasks and operations that need to be done in the background asyncronously. Some comments on stackoverflow recommend using `Volley`, especially if you are going to be using a restAPI
+
+`Service` Is for background services that run for a long time.
+
+
+
+`Loaders` supposidly similar to `AsyncTask` except it is better.
+
+ 
