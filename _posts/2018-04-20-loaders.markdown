@@ -12,8 +12,7 @@ The key to android development is making the main (UI) thread as lightweight as 
 
 # `AsyncTask`
 
-
-`aSyncTask` is a threading library that creates a class that handles tasks and operations that need to be done in the background asyncronously. Ideally, these should be short operations. 
+`AsyncTask` is a threading library that creates a class that handles tasks and operations that need to be done in the background asyncronously. Ideally, these should be short operations. 
 {% highlight ruby %}
 Asynchronous task is defined by three gnereric types 
 
@@ -37,7 +36,19 @@ It is possible that AsyncTask can run duplicate threads in the background if a u
 # Fragments
 
 If everything I wrote isn't enough, this lesson also discusses activities and fragments interchangably. There is such a thing called `fragmentActivity`. These are most commonly used to create multi-pane UI. It can be thought of as a sub-activity with its own lifecycle.
+
 # Loaders
+
+Some of the challenges that arise when dealing with multiple threads is them communicating with one another. For example, threads can continue to run despite the Main UI Thread stopping for whatever reason. As a result, loaders can help improve the user experience by managing the various threads.
+
+`AsyncTaskLoader` is a lot like `AsyncTask` except it is a bit better. It behaves within the lifecycles of fragments/activities.
+
+{% highlight ruby %}
+
+- loaders persist and chache results across configuration changes to prevent duplicate queries
+- Loaders can implement an observer to monitor changes in the underlying data source such as `CursorLoader` and `ContentObserver` which trigger reloads when data changes.
+
+{% endhighlight %}
 
 
 
