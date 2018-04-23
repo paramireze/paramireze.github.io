@@ -5,20 +5,41 @@ date:   2018-04-20 18:42:58 -0500
 categories: Android development
 ---
 
-My brain is broken. Damnit... What is up with multithreading? This last tutorialis absolutely silly. there are 23different todo's with crazy looking syntax. Once again, I need to rant a bit so I can make sense of this madness. 
+My brain is broken. Damnit... What is up with multithreading? This last tutorial is absolutely silly. there are 23 different todo's with crazy looking syntax. Once again, I need to rant a bit so I can make sense of this madness. 
 
 # Summary
 The key to android development is making the main (UI) thread as lightweight as possible. That means a developer should try to offload none UI tasks to different threads. In my latest tutorial, the best way to achieve that is through the use of loaders.
 
-# Concepts for this lesson
+# `AsyncTask`
 
 
-`aSyncTask` is a threading library that creates a class that handles tasks and operations that need to be done in the background asyncronously. Some comments on stackoverflow recommend using `Volley`, especially if you are going to be using a restAPI
+`aSyncTask` is a threading library that creates a class that handles tasks and operations that need to be done in the background asyncronously. Ideally, these should be short operations. 
+{% highlight ruby %}
+Asynchronous task is defined by three gnereric types 
 
-`Service` Is for background services that run for a long time.
+- Params - 
+- Progress
+- Result
+
+Asynchronous consists of four steps 
+
+- onPreExecute
+- doInBackground
+- onProgressUpdate
+- onPostExecute
+
+{% endhighlight %}
+
+# Problems with `AsyncTask`
+
+It is possible that AsyncTask can run duplicate threads in the background if a user restarts an activity. Basically, if the user rotates their screen or something, and the activity is destroyed and then recreated, then the original `AsyncTask` will continue to run despite the activity no longer existing.
+
+# Fragments
+
+If everything I wrote isn't enough, this lesson also discusses activities and fragments interchangably. There is such a thing called `fragmentActivity`. These are most commonly used to create multi-pane UI. It can be thought of as a sub-activity with its own lifecycle.
+# Loaders
 
 
 
-`Loaders` supposidly similar to `AsyncTask` except it is better.
 
  
