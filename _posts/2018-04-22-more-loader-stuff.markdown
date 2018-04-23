@@ -5,11 +5,10 @@ date:   2018-04-22 18:42:58 -0500
 categories: Android development
 ---
 
-In the last exercise, we practice handling activity states after being destroyed and re built. Loaders and Load Managers allow us to store session state data so we are not duplicating processes. In this exercise, we continue to do the same thing however a bit more cleanly
 
 To understand this lesson we need to make sure we understand how load managers work. `LoaderManager` has three methods `onCreateLoader()`, `onLoadFinished`, `onLoadReset()`. 
 
-![Loader, LoadManager and Activity Diagram]({{ "../assets/loader_diagram.png" }})
+![Loader, LoadManager and Activity Diagram]({{ "/assets/loader_diagram.png" }})
 
 This exericise is working with the loadManager to cache data in the `onLoadFinish()` 
 
