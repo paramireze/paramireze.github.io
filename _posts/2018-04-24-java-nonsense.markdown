@@ -15,4 +15,6 @@ According to stackoverflow, a `class` is a template for creating objects
 
 `Entities` is an object that represents something that has an identity that the system is interested in such as customers and/or accounts. `Entities` are annotated as an `Entity`.  Also, `Entities` represent a table in a relational database, and each entity represents a row in that table.
 
+`Entity Manager` is an api for accessing database ina particular unit of work. It is used to create and remove persistent entity instances, to find entities by their primary key id, and to query over all entities. 
 
+`Persistence Context` is a set of entity instances that is managed by the entity manager. 
