@@ -4,7 +4,10 @@ title: "Time to implement a Loader into weather app"
 date: 2018-04-24 18:45:40 -0500
 categories: More Loader Stuff
 ---
-In the latest exercise, we want to offload most of the logic into loaders. This will free up the main ui thread, allowing for better resource management. This means much faster load times when the app state changes after being destroyed.
+[sunshine exercise 5.01]({{ "https://classroom.udacity.com/courses/ud851/lessons/ed13cc93-2861-43bf-b7ed-395a166ab975/concepts/f0467b0c-62d7-4551-8ece-c56769f46643" }})
+
+In this exercise we are moving from `AsyncTask` to `AsyncTaskLoader`. `AsyncTask` is not good for resource management when it comes to changing activity states. For example, if the user rotates their screen, then the app is recreated from scratch and all data has to be reloaded. `AsyncTaskLoader` will cache the state of the activity so in the event of a state change, the data is readily available.
+
 
 lets get some things out of the way. Our fancy pants app passes in a `callback` to the `initLoader` class within the `LoadManager.java`. My initial understanding from the documentation is that the `initLoader` is called everytime a state is changed. From what I can tell, the main purpose of this class is to execute the `onLoadFinished()` once the loader has a) been started b) data is loaded. This allows for 
  
