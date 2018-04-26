@@ -10,7 +10,7 @@ lets get some things out of the way. Our fancy pants app passes in a `callback` 
  
 To best understand the workflow of loadmanagers, i found a useful diagram
 
-![load manager image]({{ "LoaderManager_Loader.png" }})
+![load manager image]({{ "/assets/LoaderManager_Loader.png" }})
 
 # Old Behavior
 Use the `loadWeatherData()` in the main thread. 
