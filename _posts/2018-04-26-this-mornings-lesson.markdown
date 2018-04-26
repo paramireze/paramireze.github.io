@@ -4,6 +4,7 @@ title: "Back to the basics"
 date: 2018-04-26 18:45:40 -0500
 categories: Android development
 ---
+
 [sunshine exercise 6.01]({{ "https://classroom.udacity.com/courses/ud851/lessons/1392b674-18b6-4636-b36b-da7d37a319e3/concepts/2b863b87-8bef-4cb1-b5e0-17c12b73a2a8" }})
 
 Hello world,
