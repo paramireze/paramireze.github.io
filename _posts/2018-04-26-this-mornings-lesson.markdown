@@ -9,8 +9,6 @@ categories: Android development
 
 Hello world,
 
-How is everyone? I am well except I feel like I am getting my ass kicked by the latest lesson trying to set up a basic activity, layout and menu item. Here I am delving deep into LoaderManagers thinking I am becoming an expert.
+Today, I got started setting up a settings activity so users are able to customize their experience. In this lesson Igot to create a menu, add a menu items, and attach a click handler to that button that will bring the user to the settings page. Easy peasy!
 
-In this lesson, I learned that there are two steps to adding a menu item. 1) you need to override the `onCreateOptionsMenu()`. 2) use `MenuInflater` to convert the menu from xml to a java object. This takes place inside the activity class. 
-
-Told you this was back to the basics. No fancy diagrams or big code blocks. Familiarity is king when it comes to learning a new language and the most basic concepts are equally important as the more advanced. 
+![workflow diagram]( {{ "/assets/exercise6.1.png" }} )
