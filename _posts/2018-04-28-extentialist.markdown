@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Existentism "
+title: "Existentialism"
 date: 2018-04-28 14:00:00 -0600
 categories: philosophy
 ---
