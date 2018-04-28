@@ -11,6 +11,8 @@ This is the first time I used a framework like Jekyll. I will be going over the 
 Markdown answers the question, how do I display html without writing it? Markdown allows a website to render Rich text using plain text. 
 
 # Markdown Extra
+Markdown extra lets your blog posts do some pretty cool stuff. I like that I am able to use variables to tag and categorizes my posts. I am able to then use those labels and tags and use conditional statements and loops to display them. 
+
 here is a copy pasta from `[wikipedia]({{ "https://en.wikipedia.org/wiki/Markdown" }})`
 
 It adds the following features to Markdown:
