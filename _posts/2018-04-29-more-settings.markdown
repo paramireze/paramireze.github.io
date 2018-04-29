@@ -8,4 +8,5 @@ categories: Android development
  
 ![Home Page]({{ "/assets/exercise-06-05-blue-screen.png" }})
 ![Settings Page]({{ "/assets/exercise-06-05-settings-screen.png" }})
+![Workflow Diagram]({{ "/assets/exercise-06-05-diagram.png" }})
 
