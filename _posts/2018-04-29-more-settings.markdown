@@ -5,7 +5,7 @@ date: 2018-04-29 16:31:01 -0600
 categories: Android development
 ---
 
-My goal is to allow a user to modify the appication using preference settings. To achieve this goal, 
+My goal is to allow a user to modify the application using preference settings. To achieve this goal, 
 
 1. application must provide the user with form fields for selecting preferences 
 2. make it so the application updates itself, reflecting the user selected changes. 
