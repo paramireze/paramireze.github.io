@@ -15,4 +15,7 @@ For the second point, this exercise teaches us to use `SharedPreferences` api to
 
 ![Workflow Diagram]({{ "/assets/exercise-06-05-diagram-2.png" }})
 
+We use the `PreferenceFragment`. It has defaults that work with the `SharedPreferences` api such as saving and loading list. 
 It is good practice to use `Fragments` when creating UI Panes such as user preferences. `Fragments` are a sub-activity that has its own lifecycles. This is especially useful when creating a modular application since the activity has no outside dependencies to run its logic. 
+
+
