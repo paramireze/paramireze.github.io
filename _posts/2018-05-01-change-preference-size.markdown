@@ -38,7 +38,7 @@ The documentation doesn't say much else and I am not able to see what the prefer
 In this exercise, we made an editable text box using `EditTextPreference`. It will display an edit box to the user and whatever value they enter will be stored in `SharedPreference`. 
 
 # Edit Text Preference Screenshot
-![Screenshot]({{ "/assets/edit_text_screenshot.png" }}
+![Screenshot]({{ "/assets/edit_text_screenshot.png" }})
 
 I found a nifty diagram which is close to ones I made in the past. It shows how an activity can inject a fragment into an activity to create a more <jargony word> modularized </jargony word> UI panes
 
