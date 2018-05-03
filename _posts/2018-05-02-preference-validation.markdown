@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adding Preference Validation"
-date: 2018-05-08 07:10:01 -0600
+date: 2018-05-02 07:10:01 -0600
 categories: Android development
 ---
 
