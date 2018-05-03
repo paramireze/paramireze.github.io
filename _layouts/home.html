@@ -15,19 +15,13 @@ layout: default
       {%- for post in site.posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        asdf-	{{ post.categories }}
+        <span class="post-meta">{{ post.date | date: date_format }}</span> - {{ post.categories }}
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
-          {%- if.post.categories -%}  
-	    {{ post.categories }}
-	  {%- endif -%}
-          {{ post.excerpt }}
-        {%- endif -%}
+        {{ post.excerpt }}
       </li>
       {%- endfor -%}
     </ul>
