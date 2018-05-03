@@ -20,9 +20,7 @@ layout: default
 	<!-- lets prefix each post with the category -->
         <a class="post-link" href="{{ post.url | relative_url }}">
 		
-		{% for category in post.categories %}
-   		<h3> {{ category | first | strip_html }} </h3>
-		{% endfor %} 
+   		<h3> {{ post.category | first | strip_html }} </h3>
 		<br />
 	</a>
 	{{ post.title | escape }} 
