@@ -21,8 +21,6 @@ layout: default
 	<!-- lets prefix each post with the category -->
         <a class="post-link" href="{{ post.url | relative_url }}">
 		
-   		<h3> {{ post.categories | escape }} </h3>
-		<div>{{ post.title | escape }}</div> 
 	</a>
         {{ post.excerpt }}
       </li>
