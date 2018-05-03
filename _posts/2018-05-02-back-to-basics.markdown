@@ -3,6 +3,7 @@ layout: post
 title: "Back to the basics"
 date: 2018-05-02 19:46:01 -0600
 categories: Android development
+asdf: Android Development
 ---
 
 In this exercise, the tutorial had me add a Settings Activity and a link in the menu bar to that page. To achieve this goal, I did the following
