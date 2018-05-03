@@ -18,14 +18,15 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
        
 	<!-- lets prefix each post with the category -->
-          <a class="post-link" href="{{ post.url | relative_url }}">
+        <a class="post-link" href="{{ post.url | relative_url }}">
 		
 		{% for category in site.categories %}
-   		<h1>{{ category | first | strip_html }}</h1>
+   		<h1> {{ category | first | strip_html }} </h1>
 		{% endfor %} 
-		{{ post.title | escape }}
-          </a>
-        
+		<br />
+	</a>
+	{{ post.title | escape }} 
+        <br />
         {{ post.excerpt }}
         {%- if site.show_excerpts -%}
         {%- endif -%}
