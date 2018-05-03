@@ -21,13 +21,9 @@ layout: default
         <a class="post-link" href="{{ post.url | relative_url }}">
 		
    		<h3> {{ post.categories | escape }} </h3>
-		<br />
+		<div>{{ post.title | escape }}</div> 
 	</a>
-	{{ post.title | escape }} 
-        <br />
         {{ post.excerpt }}
-        {%- if site.show_excerpts -%}
-        {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
