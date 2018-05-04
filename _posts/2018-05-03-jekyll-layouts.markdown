@@ -5,10 +5,37 @@ date: 2018-05-03 16:44:00 -0600
 categories: "Jeykll"
 ---
 
-This blog uses the Jekyll Framework. It uses Markdown language so bloggers are able to create rich content. For example, I can `highlight` stuff just like that :) 
+#Good morning
+It has been fun learning exactly  what `Jekyll` is. Jeykll is a blogging framework that allows people to build  content management system (CMS) using folders and files. This is a different approach to building a CMS than wordpress because wordpress's uses a database.
 
-Jekyll also allows for users to modify the layouts of their posts. This is done by overriding the default layout in the theme by creating a copy. 
+Not having to deal with a database offers some cool benefits. However, for the sake of sticking to theme of this particular post, I will discuss that more in another post. Besides, I am still learning the framework and will be able to give a better analysis later on.
 
-The concept of overriding the defaults is a powerful tool when it comes to creating a website that requires little maintenance. You keep an original copy of the original theme files and make modification to them in a separate location. That way theme developers are able to make updates without directly interfering with your custom styling and logic. 
+# Changing the home page
+Today, I changed the layout of the home page. I show an excerpt and category title so it is more clear what my content is about without having to click in.
 
-Jekyll has great documentation and makes the process easy. I highly recommend anyone with any html experience to try it for themselves. 
+# Before
+![Before]({{ "/assets/jekyll/layout_before_category.png" }})
+
+# After
+![After]({{ "layout_add_category.png" }})
+
+I was able to do this by overriding the default layout page `home.html`. This file is located outside of my project in a theme folder. 
+
+{% highlight ruby %}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ post.categories | join: ' ' }}  <span class="post-meta"> - {{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {{ post.excerpt }}
+        <hr />
+      </li>
+{% endhighlight %}
+
+I had to create a copy of the theme's `home.html` file and paste it into a location inside my project following `jekylls` directory structure convention. In this case, I had to create a `_layout` folder at the root level and place `home.html` inside of it. 
+
+Jekyll is able to detect my local version of `home.html` using `Liquid templating language`. Basically, `Liquid` allows users to override the default theme layout by creating a local version in their project. The framework knows to check your project first and then the original theme after.
+
