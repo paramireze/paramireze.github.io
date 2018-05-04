@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating Layouts by Overriding the Defaults"
-date: 2018-04-28 16:44:00 -0600
+date: 2018-05-03 16:44:00 -0600
 categories: "Jeykll"
 ---
 
