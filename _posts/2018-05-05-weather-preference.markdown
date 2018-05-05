@@ -5,11 +5,11 @@ date: 2018-05-05 07:34:00 -0600
 categories: "Android development"
 ---
 
-In this exercise, we allow users to use preferences to determine where they want to get their weather data from. Much like previous exercises, we will be using the `SharedPreferences` api to handle storing and communicating data. Our jobs will be to correctly set up the files and call the well documented methods to do the work for us. 
+In this exercise, we allow users to use preferences to determine where they want to get their weather data from. As we have done in previous exercises, we will be using the `SharedPreferences` api to handle storing and communicating data. Our jobs will be to correctly set up the files and call the well documented methods to do the work for us. 
  
 ![Location Preference]({{ "/assets/android/may/preference_diagram.png" }})
 
-Looking at the image in the diagram, you will see the location isset to `Mountain View, CA 94043`. Where is the app getting that information from? Equally important is what happens when you change that location and click `ok`? In this post, we will be exploring how the application is handling data being sent to and from the application. 
+Looking at the image in the diagram, you will see the location is set to `Mountain View, CA 94043`. Where is the app getting that information from? Equally important is what happens when you change that location and click `ok`? In this post, we will break down how exactly the data is being stored and communicated. 
 
 # where is the preference getting the location?
 
@@ -27,4 +27,7 @@ In the click event workflow diagram below, you see that the informaiton the user
 
 ![Location Click Workflow Diagram]({{ "/assets/android/may/preference_click_diagram.png" }})
 
-All this is possible because we are using the `SharedPreferences` API which handles all the transfer and storage of data when the user is adding/updating preferences. 
+We are ablet to set the summary for a preference using the `setSummary()` method on the `preference`.
+
+# Conclusion
+This exercise was quite simple in concept, however, there is a lot of java code being written that can be quite intimidating. I find that diagraming out how the classes and methods are being called is a helpful tool for understanding how the application is behaving.  
