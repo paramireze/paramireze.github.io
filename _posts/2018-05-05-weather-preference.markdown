@@ -21,6 +21,6 @@ Well that is easy, it is the default string from `Strings.xml` :)
     <!-- Default postal code for location preference [CHAR LIMIT=NONE] -->
     <string name="pref_location_default" translatable="false">Mountain View, CA 94043</string>
 
-{% endhighlighting %}j
+{% endhighlight %}
 
 
