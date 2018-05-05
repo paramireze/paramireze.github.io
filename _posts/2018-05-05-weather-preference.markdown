@@ -5,9 +5,8 @@ date: 2018-05-05 07:34:00 -0600
 categories: "Android development"
 ---
 
-In this exercise, we further customize the users preference expience by giving them control of two important features. A) they are able to set the location in which the default weather app receives its data. B) Users are able to set the unit of meaturement for temperature. Like always, I am learning and enjoy using graphs to organize my thoughts. WIthout further ado
-
-
+In this exercise, we allow users to use preferences to determine where they want to get their weather data from. Much like previous exercises, we will be using the `SharedPreferences` api to handle storing and communicating data. Our jobs will be to correctly set up the files and call the well documented methods to do the work for us. 
+ 
 ![Location Preference]({{ "/assets/android/may/preference_diagram.png" }})
 
 Looking at the image in the diagram, you will see the location isset to `Mountain View, CA 94043`. Where is the app getting that information from? Equally important is what happens when you change that location and click `ok`? In this post, we will be exploring that because that is the main focus of the exercise.
