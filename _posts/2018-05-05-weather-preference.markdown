@@ -23,4 +23,6 @@ Well that is easy, it is the default string from `Strings.xml` :)
 
 {% endhighlight %}
 
+# what happens when the user updates the location? 
 
+![Location Click Workflow Diagram]({{ "/assets/android/may/preference_click_diagram.png" }})
