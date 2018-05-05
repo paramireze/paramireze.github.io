@@ -30,4 +30,4 @@ In the click event workflow diagram below, you see that the informaiton the user
 We are ablet to set the summary for a preference using the `setSummary()` method on the `preference`.
 
 # Conclusion
-This exercise was quite simple in concept, however, there is a lot of java code being written that can be quite intimidating. I find that diagraming out how the classes and methods are being called is a helpful tool for understanding how the application is behaving.  
+This exercise was quite simple in concept, however, there is a lot of java code being written that can be quite intimidating. I find that I can easily get caught up trying to figure out java code and lose sight of what it is exactly I am trying to accomplish. I recommend anyone out there trying to learn a new language to use diagramming tool, such as `draw.io`, to help understand how the classes and methods are communicating.  
