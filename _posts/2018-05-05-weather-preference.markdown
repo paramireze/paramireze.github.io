@@ -9,7 +9,7 @@ In this exercise, we allow users to use preferences to determine where they want
  
 ![Location Preference]({{ "/assets/android/may/preference_diagram.png" }})
 
-Looking at the image in the diagram, you will see the location isset to `Mountain View, CA 94043`. Where is the app getting that information from? Equally important is what happens when you change that location and click `ok`? In this post, we will be exploring that because that is the main focus of the exercise.
+Looking at the image in the diagram, you will see the location isset to `Mountain View, CA 94043`. Where is the app getting that information from? Equally important is what happens when you change that location and click `ok`? In this post, we will be exploring how the application is handling data being sent to and from the application. 
 
 # where is the preference getting the location?
 
