@@ -24,5 +24,8 @@ Well that is easy, it is the default string from `Strings.xml` :)
 {% endhighlight %}
 
 # what happens when the user updates the location? 
+In the click event workflow diagram below, you see that the informaiton the user entered is sent to the `onSharedPreferenceChange` method inside the `SettingsFragment`. We set the preference settings using a method called `setPreferenceSummary()`.
 
 ![Location Click Workflow Diagram]({{ "/assets/android/may/preference_click_diagram.png" }})
+
+All this is possible because we are using the `SharedPreferences` API which handles all the transfer and storage of data when the user is adding/updating preferences. 
