@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting up a Database Connection"
-date: 2018-05-06 15:34:00 -0600
+date: 2018-05-07 07:34:00 -0600
 categories: "Android development"
 ---
 
@@ -10,7 +10,6 @@ I will be learning how to use a `SQLite Database` for the next set of tutorials.
 In the first two tutorials, there is a lot of methods and classes being called. I created a diagram to show all the parts we set up so my application is ready to communicate with a database.
 
 ![Database Connection Diagram]({{ "/assets/android/may/database_tutorial_diagram.png" }})
-
 
 
 For me, one of the major challenges to learning Android development is also learning Java. I have worked with Java frameworks before such as Groovy Grails and Spring MVC, however, I never had to design a java application. Lot of my posts will be discussing some of the various Java OOD concepts that I am lacking such as interfaces and abstract classes. 
@@ -23,28 +22,15 @@ Context is an interface that allows various resources to communicate with one an
 
 
 # Abstract Class 
-I must have read three articles and half a dozen stackoverflow articles on abstract classes, however, I find myself not fully grasping the concept. I believe I need to do some java application design work before I truly get it. 
+I must have read three articles and half a dozen stackoverflow articles on abstract classes, however, I find myself not fully grasping the concept. I have the definition and use cases of the abstract class memorized but I never achieved the 'AHA' moment that I feel when I grok something. I believe I need to do some java application design work before I truly get it. 
 
-# RecyclerView.Adapter
 
 # Static vs Non-Static Methods
-Does the value the static method produce change if the object properties are different? if the answer is yes, then you need to create a `non-static` method. 
-
-
-`static` method belongs to the class itself - use this if the method does not have dependencies such as any code outside of its method.
-`non-static` (instance) method belongs to each object. You will need to instantiate the object
-
-
+To best understand what `static` and `non-static` methods are, I find that knowing when to use them is king. If your method returns a value that could possibly change depending on the state of the object, then make a `non-static` method. Otherwise, `static` methods will suffice and save you resources too. 
 
 # Class vs Object vs Instance
 `Class` is the blue print that creates an object
 `Object` is a software bundle of related state and behavior. Objects combine properties and methods 
 `Instance` is pretty much the same as an object far as programmers are concerned and instance/objects can be used interchangably.
   
-# GuestViewHolder class
-
-Inner class to hold the views needed to display a single item in the recycler-view
-
-extends RecyclerView.ViewHolder
-
 
