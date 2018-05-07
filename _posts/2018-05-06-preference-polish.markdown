@@ -15,4 +15,4 @@ As I complete these activities, I am finding that I get confused when it comes t
 
 3. Preference Object - object used to create the ui preference for a preference activity. The preference key will be stored in `sharedPreference`.
 
- 
+If you haven't noticed already, the word preference is used a lot and can be confusing when trying to identify the individual parts.  
