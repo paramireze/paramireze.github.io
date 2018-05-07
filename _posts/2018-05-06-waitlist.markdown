@@ -21,12 +21,9 @@ In this tutorial, the exercise has us use a cursor to store a query result set o
 Context is an interface that allows various resources to communicate with one another. Context stores global information about the application state. That is particularly handy when building new objects, access `SharedPreferences`, and accessing intents. The documentation on `Context` is absolutely insane and I am happy to stop here with this hyper simplified explanation. 
 
 
-# Abstract Class 
-I must have read three articles and half a dozen stackoverflow articles on abstract classes, however, I find myself not fully grasping the concept. I have the definition and use cases of the abstract class memorized but I never achieved the 'AHA' moment that I feel when I grok something. I believe I need to do some java application design work before I truly get it. 
-
-
 # Static vs Non-Static Methods
-To best understand what `static` and `non-static` methods are, I find that knowing when to use them is king. If your method returns a value that could possibly change depending on the state of the object, then make a `non-static` method. Otherwise, `static` methods will suffice and save you resources too. 
+I find that knowing when to use `static` and `non-static` methods is the easiest way for me to understand them. If your method returns a value that could possibly change depending on the state of the object, then make a `non-static` method. Otherwise, `static` methods will suffice and save you resources too. 
+
 
 # Class vs Object vs Instance
 `Class` is the blue print that creates an object
