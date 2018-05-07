@@ -5,6 +5,9 @@ date: 2018-05-06 15:34:00 -0600
 categories: "Android development"
 ---
 
+I will be learning how to use a `SQLite Database` for the next set of tutorials. I personally have a fascination with databases. My favorite part of any new project has always been the designing of a well normalized database. I find that if I get that part right, then writing the code is easy.
+
+In the first two tutorials, there is a lot of methods and classes being called. I created a diagram to show all the parts we set up so my application is ready to communicate with a database.
 
 ![Database Connection Diagram]({{ "/assets/android/may/database_tutorial_diagram.png" }})
 
@@ -20,19 +23,24 @@ Context is an interface that allows various resources to communicate with one an
 
 
 # Abstract Class 
-Abstract classes are similar to interfaces. It hides the internal implementation and shows the functionlity to users. 
+I must have read three articles and half a dozen stackoverflow articles on abstract classes, however, I find myself not fully grasping the concept. I believe I need to do some java application design work before I truly get it. 
 
-1. Share some methods among other classes.  
-2. you can declare non-static and non-final methods inside of an abstract class.
 # RecyclerView.Adapter
 
 # Static vs Non-Static Methods
+Does the value the static method produce change if the object properties are different? if the answer is yes, then you need to create a `non-static` method. 
+
+
+`static` method belongs to the class itself - use this if the method does not have dependencies such as any code outside of its method.
+`non-static` (instance) method belongs to each object. You will need to instantiate the object
+
+
 
 # Class vs Object vs Instance
 `Class` is the blue print that creates an object
-`Instance` is a single and unique unit of a class. For example, you can have to instances of the same class if you instantiate it twice
 `Object` is a software bundle of related state and behavior. Objects combine properties and methods 
-
+`Instance` is pretty much the same as an object far as programmers are concerned and instance/objects can be used interchangably.
+  
 # GuestViewHolder class
 
 Inner class to hold the views needed to display a single item in the recycler-view
