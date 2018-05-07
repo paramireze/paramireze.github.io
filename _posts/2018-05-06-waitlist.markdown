@@ -5,11 +5,12 @@ date: 2018-05-06 15:34:00 -0600
 categories: "Android development"
 ---
 
-I am all done with the tutorial for preferences and now making applications communicate with an SQLite database. I am two tutorials in and there is a lot of classes and methods being called. I created a diagram of all the players involved.
 
 ![Database Connection Diagram]({{ "/assets/android/may/database_tutorial_diagram.png" }})
 
-I feel confident that overtime I will better understand all the moving parts. It look forward trying to claw my way through these tutorials until the moment I go "ah ha!". Until then, I will write about new things that I have not come across before and hope I learn something in the process.
+
+
+For me, one of the major challenges to learning Android development is also learning Java. I have worked with Java frameworks before such as Groovy Grails and Spring MVC, however, I never had to design a java application. Lot of my posts will be discussing some of the various Java OOD concepts that I am lacking such as interfaces and abstract classes. 
 
 # Cursor
 In this tutorial, the exercise has us use a cursor to store a query result set on the waitlist table. I read on stackoverflow that cursor stands for cursory-logic, meaning it will iterate over a result set.
@@ -19,9 +20,18 @@ Context is an interface that allows various resources to communicate with one an
 
 
 # Abstract Class 
-Okay, this is where my lack of Java knowhow starts to become apparaent. According to google,wikipedia and whatever else, an abstract class is a way of providing methods
+Abstract classes are similar to interfaces. It hides the internal implementation and shows the functionlity to users. 
 
+1. Share some methods among other classes.  
+2. you can declare non-static and non-final methods inside of an abstract class.
 # RecyclerView.Adapter
+
+# Static vs Non-Static Methods
+
+# Class vs Object vs Instance
+`Class` is the blue print that creates an object
+`Instance` is a single and unique unit of a class. For example, you can have to instances of the same class if you instantiate it twice
+`Object` is a software bundle of related state and behavior. Objects combine properties and methods 
 
 # GuestViewHolder class
 
