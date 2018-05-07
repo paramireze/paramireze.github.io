@@ -5,7 +5,7 @@ date: 2018-05-06 15:34:00 -0600
 categories: "Android development"
 ---
 
-I will be learning how to use a `SQLite Database` for the next set of tutorials. I personally have a fascination with databases. My favorite part of any new project has always been the designing of a well normalized database. I find that if I get that part right, then writing the code is easy.
+I will be learning how to use a `SQLite Database` for the next set of tutorials. I personally have a fascination with databases. My favorite part of any new project has always been the designing of a well normalized database. I find that if I get that part right, then writing the application logic is so much easier.
 
 In the first two tutorials, there is a lot of methods and classes being called. I created a diagram to show all the parts we set up so my application is ready to communicate with a database.
 
