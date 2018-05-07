@@ -5,13 +5,21 @@ date: 2018-05-06 15:34:00 -0600
 categories: "Android development"
 ---
 
-This tutorial is all about setting up your application to communicate with a SQLite database. As a php developer, I have always used mysql and postgres. 
+I am all done with the tutorial for preferences and now making applications communicate with an SQLite database. I am two tutorials in and there is a lot of classes and methods being called. I created a diagram of all the players involved.
 
 ![Database Connection Diagram]({{ "/assets/android/may/database_tutorial_diagram.png" }})
 
+I feel confident that overtime I will better understand all the moving parts. It look forward trying to claw my way through these tutorials until the moment I go "ah ha!". Until then, I will write about new things that I have not come across before and hope I learn something in the process.
+
 # Cursor
+In this tutorial, the exercise has us use a cursor to store a query result set on the waitlist table. I read on stackoverflow that cursor stands for cursory-logic, meaning it will iterate over a result set.
 
 # Context
+Context is an interface that allows various resources to communicate with one another. Context stores global information about the application state. That is particularly handy when building new objects, access `SharedPreferences`, and accessing intents. The documentation on `Context` is absolutely insane and I am happy to stop here with this hyper simplified explanation. 
+
+
+# Abstract Class 
+Okay, this is where my lack of Java knowhow starts to become apparaent. According to google,wikipedia and whatever else, an abstract class is a way of providing methods
 
 # RecyclerView.Adapter
 
