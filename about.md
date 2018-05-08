@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# Paul Ramirez
-## Ruby Rails Developer
+## Paul Ramirez - Ruby Rails Developer
 
 I have recently fell deeply in love with all things development related. It all began with Udacity tutorials for Android development. I was deeply impressed with how well thought out the classes were. They were intuitive and challenging at the same time. 
 
