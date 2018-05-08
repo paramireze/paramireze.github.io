@@ -6,9 +6,9 @@ permalink: /about/
 
 ## Paul Ramirez - Ruby Rails Developer
 
-I am deeply in love with all things development related. It all began with Udacity tutorials for Android development. I was impressed with how well thought out the classes were and began to noticed benefits in my code at work and personal projects. My goal is to never stop learning and be able to teach/help out others whenever possible. 
+As the title suggests, this is where I go to learn. My goal is to help retain the things I learned from tutorials and project work by creating posts discussing each lesson. I have found that the process of writing posts forces me to organize my thoughts so I can word it in a way that would make sense to someone else. It also helps me identify areas in which I am weak in just from not being able to easily write about a given subject. 
 
- 
+These posts are usually thought spaghetti and not meant to be structured for any formal educational material.  
 
 
 
