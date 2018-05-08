@@ -15,7 +15,7 @@ In the first two tutorials, there is a lot of methods and classes being called. 
 For me, one of the major challenges to learning Android development is also learning Java. I have worked with Java frameworks before such as Groovy Grails and Spring MVC, however, I never had to design a java application. Lot of my posts will be discussing some of the various Java OOD concepts that I am lacking such as interfaces and abstract classes. 
 
 # Cursor
-In this tutorial, the exercise has us use a cursor to store a query result set on the waitlist table. I read on stackoverflow that cursor stands for cursory-logic, meaning it will iterate over a result set.
+In this tutorial, the exercise has us use a cursor to store a query result set on the waitlist table. I read on stackoverflow that cursor stands for cursory-logic, meaning it will iterate over a result set. Cursor is an interfacethat that provides many methods to run on the query result set. 
 
 # Context
 Context is an interface that allows various resources to communicate with one another. Context stores global information about the application state. That is particularly handy when building new objects, access `SharedPreferences`, and accessing intents. The documentation on `Context` is absolutely insane and I am happy to stop here with this hyper simplified explanation. 
@@ -25,9 +25,38 @@ Context is an interface that allows various resources to communicate with one an
 I find that knowing when to use `static` and `non-static` methods is the easiest way for me to understand them. If your method returns a value that could possibly change depending on the state of the object, then make a `non-static` method. Otherwise, `static` methods will suffice and save you resources too. 
 
 
-# Class vs Object vs Instance
-`Class` is the blue print that creates an object
+# Class vs Object vs Instance `Class` is the blue print that creates an object
 `Object` is a software bundle of related state and behavior. Objects combine properties and methods 
 `Instance` is pretty much the same as an object far as programmers are concerned and instance/objects can be used interchangably.
   
+# Adapter Pattern
+Wikipedia says that the  adapter pattern is also known as a wrapper. Unfortunately, I don't know what a wrapper is either. Wiki states
 
+> allows the interface of an existing class to be used as another interface.[1] It is often used to make existing classes work with others without modifying their source code.
+
+# Interface
+an interface is the entry points into an objects methods that are accessible to the outside world. Interfaces are meant to define the behaviors of a given object. For example, if you have a bicycle object, you might see
+
+{% highlight ruby %}
+
+interface bicycle 
+	
+	void doWheely(bool newValue)
+
+	void rideGnarlyTrail(bool trueOrFalse)
+
+	void addYearsToLife(int newValue)
+
+	void smile(int newValue)
+
+}
+
+class bikeRideWithFriends implements bicycle {
+
+	void doWheely(bool trueOrFalse) {
+		doWheely = trueOrFalse;
+	}
+
+}
+
+{% endhighlight %}
