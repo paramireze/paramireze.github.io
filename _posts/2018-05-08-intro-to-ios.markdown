@@ -7,7 +7,11 @@ categories: IPhone Development
 
 ## Intro 
 
-I know what you're thinking. What the hell happened to android? well, that is a tough question to answer. Basically, my workplace has an ios app that is currently unsupported and see an excellent opportunity to learn mobile development, contribute to work, and impress some folks. Hopefully I don't need to take the recommended month long training program to get the updates I need to make changes to the work application. 
+I know what you're thinking. What the hell happened to android? Hey what the hell did hpapen to android? Didn't I just spend the last two months following a series of tutorials learning views, layouts, preferences, shared resources, multi threading with async and async loader?
+
+To answer the question, my workplace has an ios app that is currently unsupported. This provides me with an excellent opportunity to learn mobile development, contribute to work, and earn some mobile developer cool points. Hopefully I don't need to take the recommended month long training program to get the updates I need to make changes to the work application. 
+
+## first set of lessons - intro to xcode and swift 
 
 These initial lessons are quick and will be covering a lot of ground. First, since this is my first time working with swift, lets discuss what swift is. According to apple's swift page, 
 
@@ -15,5 +19,10 @@ These initial lessons are quick and will be covering a lot of ground. First, sin
 
 The first thing I have noticed is there are no semi-colons. yay!
 
-## The AppDelegate.swift 
+### Storyboards
+visual representations of the appearance and flow of your application. Storyboards show a visual representation of the UI
+
+### Interface Builder
+Used to create drag and drop windows, buttons and text fields without writing any code
+
 
