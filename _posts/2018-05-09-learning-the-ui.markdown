@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning the IOS UI"
+title: "Basic iOS UI Design Principles"
 date: 2018-05-09 07:20:50 -0500
 categories: iOS Development 
 ---
