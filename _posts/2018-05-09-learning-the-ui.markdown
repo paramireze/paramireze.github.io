@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning the IOS UI"
-date: 2018-05-08 07:20:50 -0500
+date: 2018-05-09 07:20:50 -0500
 categories: IPhone Development 
 ---
 
