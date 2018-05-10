@@ -5,8 +5,6 @@ date: 2018-05-08 08:40:50 -0500
 categories: IPhone Development 
 ---
 
-## Intro 
-
 I know what you're thinking. What the hell happened to android? Hey what the hell did hpapen to android? Didn't I just spend the last two months following a series of tutorials learning views, layouts, preferences, shared resources, multi threading with async and async loader?
 
 To answer the question, my workplace has an ios app that is currently unsupported. This provides me with an excellent opportunity to learn mobile development, contribute to work, and earn some mobile developer cool points. Hopefully I don't need to take the recommended month long training program to get the updates I need to make changes to the work application. 
