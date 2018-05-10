@@ -15,3 +15,6 @@ Creating the generic persistence API solved the problem of data persistence bein
 
 To answer the question, "what is JPA?", it is a specification that set guidelines for communications through the use of protocols, standards, and naming conventions. 
 
+## Philip's ORM Implementation
+
+Philips uses `harbinger.sdk.query` which is an extension of `hibernate`. There documentation describes it as a wrapper around the JPA query standard. 
