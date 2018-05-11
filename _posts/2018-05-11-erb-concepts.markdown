@@ -17,9 +17,9 @@ the current version of Ruby is 2.5.1
 ### Ruby Interpreter 
 The original interpreter for Ruby is `Matz` (aka MRI), named after `Yukihiro Matsumoto`, the ruby creator. `Matz` last stable version is back in 1.8.7 in 2013.
 
-[Yukihiro Matsumoto]({{ "/assets/rails/may/matsumoto.jpg" }})
+![Yukihiro Matsumoto]({{ "/assets/rails/may/matsumoto.jpg" }})
 
-### The ruby name
+### The Ruby Name
 it came from an online chat exchange between Matsumoto and Keiju Ishitsuka in 93. Matsumoto chose Ruby because it is the birthstone of one of his collegues. 
 
 ### Ruby Instance Variables
@@ -28,6 +28,6 @@ To pass a values to a view, such as query results, we use pre-fix a variable wit
 ### Object Self
 `Self` is a way of references the object that owns the code that is executing. 
 
-### links
+### Links
 For the project I am working on, I had to read up on documentation for best practices when it comes to creating a link using ruby rails. The `link_to` is a method found in the `URL Helper`. According to the ruby documenation 'It provides a set of methods for making links and getting URL's that depend on the routing subsystem'. 
 
