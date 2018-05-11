@@ -15,7 +15,7 @@ the current version of Ruby is 2.5.1
 ### Ruby Interpreter 
 The original interpreter for Ruby is `Matz` (aka MRI), named after `Yukihiro Matsumoto`, the ruby creator. `Matz` last stable version is back in 1.8.7 in 2013.
 
-[Yukihiro Matsumoto]({{ "/assets/images/rails/may/matsumoto.jpg" }})
+[Yukihiro Matsumoto]({{ "/assets/rails/may/matsumoto.jpg" }})
 
 ### The ruby name
 it came from an online chat exchange between Matsumoto and Keiju Ishitsuka in 93. Matsumoto chose Ruby because it is the birthstone of one of his collegues. 
