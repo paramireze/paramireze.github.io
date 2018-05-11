@@ -4,7 +4,8 @@ title: "Constraint Layout continued"
 date: 2018-05-11 07:20:50 -0500
 categories: iOS Development 
 ---
-Today we work more with constraint layout. We are able to position UI elements in relative position to one another. For example, we set up constraints for a label by adding a constraint from the label to the button. That way I am able to control the layout no matter the device. 
+I was able to position the UI elements on the page using constraints. I made sure they display as I want them for all devices. I achieved this goal by setting up constraints for each of the layouts. I linked each element to one another as opposed to the position relative to the screen. It is important to do it this way since the user can switch from landscape to potrait.
+
 
 So far, all our buttons and labels have been done using Apple's `UI Kit`. UI kit provides preconfigured UI elements to allow developers to create a UI quickly.
 
