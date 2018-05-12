@@ -18,3 +18,7 @@ I have a basic understanding of the listed methods. I read that `viewDidLoad` is
 
 These methods are not accessible through the `UIView`, only the `UIViewController`. 
 
+## viewDidLoad vs viewWillAppear
+
+`viewDidLoad` is when the view is first loaded into cache. It is not yet displayed. `viewWillAppear` method is executed just  before the view is displayed, making it ideal for hidding/showing html page elements.
+
