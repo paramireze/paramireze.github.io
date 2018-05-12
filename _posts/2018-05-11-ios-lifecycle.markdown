@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "iOS Life Cycle"
-date: 2018-05-11 09:20:50 -0500
+date: 2018-05-11 20:20:50 -0500
 categories: iOS Development 
 ---
 
