@@ -5,9 +5,8 @@ date: 2018-05-12 06:50:50 -0500
 categories: iOS Development 
 ---
 
-The LLVM compiler is different from others because their compiler technology consists of a set of libraries. As a result, the LLVM compiler is able to handle problems that other compilers are not able to. `XCode` uses the `Clang front end` to parse the source code and then hands it off to LLVM's backend compiler which converts it to machine language.
-
-The major advantage the LLVM offers is the ability for the optimization logic to remain independant of the front/back end. This means that the front/back end technology can be changed, upgrade, improved, swapped, etc. It also means the LLVM compiler can evolve as the other technologies do. 
+The LLVM is made up of a set of open source project libraries. The major advantage the LLVM offers is the ability for the optimization logic to remain independant of the front/back end. This means that the front/back end technology can be changed, upgrade, improved, swapped, etc. It also means the LLVM compiler can evolve independantly without having to be held back by the limitations of front/backend technologies. 
+ 
 ![LLVM Optimizer]({{ "/assets/ios/may/compiler.png" }})
 
 
