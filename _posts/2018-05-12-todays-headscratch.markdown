@@ -5,5 +5,5 @@ date: 2018-05-12 13:15:00 -0500
 categories: Ruby Rails development
 ---
 
-I have a ruby rails project and have a bit of a challenge to take on. I am querying a databaes for a list of reports. The query populates an array of reports which I iterate over and display on the view. The problem I am having is, in each report there is formatting to indicate a new line. For example, if the word `SUBJECT:` is in the reports, it should go on a new line. But how the heck do I do that? 
-When I was in college, I had a regular expression class and I was a borderline not an amatuer. I don't remember any of that stuff now. I hate to study up on my reg ex and only use it this once and never touch the stuff again. ... hmm now that I think of it, that is a good problem to have ;)
+I am building a new application for work using ruby rails. The project requires that I use an already existing database. This is the first time i have had to do this. The application I am building is primarily a data driven website using the existing databases's information. That means I will not be designing and creating models for the ORM. I find myself a bit surprised how different it is to develop this way. I have almost exclusively done domain/model-driven-development which means I spend a large amount of time putting up front thought into my applications and designing the models. For this project, it is the opposite. I am going straight into the coding since i already have all the database decisions already made. I find this experience to be highly interesting and fun. 
+
