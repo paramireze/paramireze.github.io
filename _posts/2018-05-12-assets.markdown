@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Assets and Constraints"
+date: 2018-05-12 07:40:50 -0500
+categories: iOS Development 
+---
+
+- image assets
+- resolving constraint conflicts
