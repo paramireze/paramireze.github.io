@@ -9,3 +9,4 @@ In one of the tutorials, I noticed I was having a difficult time understanding h
 
 ![Stackview demo screenshot]({{ "/assets/ios/may/stack_view.png" }})
 
+From what I have read with my limited knowledge, stackviews is an alternative to `autolayout`. `Autolayouts` will dynamically calculate the gui elements for you. However, the problem is you have to then set constraints for each of those elements. It can then become difficult to move elements around or make changes since those constraints would then be broke by changes. Also, I read that autolayout adds a lot of complexity to an applications interface. Just something to be aware of... autolayout baaaddd, stackview goooood.... me smash!
