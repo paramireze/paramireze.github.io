@@ -5,7 +5,7 @@ date: 2018-05-22 07:30:00 -0500
 categories: iOS Development 
 ---
 
-On my application, I added the recording functionality to the `recordAudio` action inside the viewController. I am able to easily do this using `AVFoundation`. `AVFoundation` is a framework specific for handling audiovisual media in iOS apps. As a developer, I can use `AVFoundations` build in classes, and the class methods to record, save and play audio recordings for my app.
+I added the recording functionality to the `recordAudio` action inside the viewController. I am able to easily do this using `AVFoundation`. `AVFoundation` is a framework specific for handling audiovisual media in iOS apps. As a developer, I can use `AVFoundations` built in classes, and the class methods to record, save and play audio recordings for my app.
 
 {% highlight ruby %}
 import AVFoundation
@@ -42,10 +42,10 @@ class ViewController: UIViewController {
 ## AVFoundation Concepts
 
 ### NSSearchPathForDirectoriesInDomains` 
-creates a directory of search paths that the application can use to create the filePath. the `Filepath` is a parameter used to instantiate the `AVAUDIORecorder class
+creates a directory of search paths that the application can use to create the filePath. the `Filepath` is a parameter used to instantiate the `AVAudioRecorder` class
 
 
-### `AVAudioRecorder` 
+### AVAudioRecorder 
 is a class that allows an application to use an iOS audio device. When the user clicks the record audio button, our action will provide the filepath location and the settings as parameters when instantiating the `AVAudioRecorder` class. Once instantiated, we then call its functions isMeteringEnabled(), preparedToRecord(), and record() to enable the recording functionality
 
 
