@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Integrated Health Enterprise" 
+date: 2018-05-30 07:30:50 -0500
+categories: SIIM 
+---
+
+I am flying out to D.C. to participate in this years 2018 SIIM Hackathon with my gangster IT co-workers. We will be building a communications api for funsies that will help track follow-up non-critical (FUNC) actionable findings made by our beloved Radiologists. The goal would be to pull in all follow-ups and manage the data. It is unclear to me as of now what we will do with that data once we have it. Presummably, health care professionals would be able to schedule and assign responsibility for those follow up actions. 
+
+## What I think will need to happen
+Pull in follow up actionable items into a single data source
+Once we have the data, create a dashboard for a medical professional to easily review
+Medical professional would review actionable items and contact care providers to assign responsibiity
+Medical professional would then update the record with either approved or denied
+
+Questions?
+once we consolidate the follow-ups into a single location, what happens next?
+how does responsibility get assigned?
+will there be a single point of contact to handle follow-ups? Who views the data?
+do we need an interface?
+
