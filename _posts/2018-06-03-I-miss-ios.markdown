@@ -1,12 +1,17 @@
 ---
 layout: post
-title: "New Reality"
+title: "A New Reality"
 date: 2018-06-03 21:30:00 -0500
 categories: Personal Development 
 ---
 
-I usually dedicate 2 - 4 hours a day to mobile development. 1-2 hours before and after work and usually much more on the weekends if I am not at work. This may sound like bragging or maybe it sounds sad to you. To me, that is just reality. I think that way. I dream that way. I am not sure why I am that way. My best guess is that it is the only thing that makes sense to me.  
+Last January, I decided to learn mobile development. At first with android and then iOS. My life has taken on radical changes since then. For one, I drink a lot less alcohol. I no longer felt capable of depriving myself of sleep, money, and body hydration when I could be working on tutorials. It was extremely tough for me to say "No" to my friends. I imagined they would be upset if I did which is a weird thing to think in retrospect. All of my friends have been supportive and have shown excitment to see me when I do feel motivated to go out for a drink.  
 
-I hadn't always been that way. I use to only develop things as a means for a paycheck. I would work hard when I was on the clock and then put all that away when the day was over. I use to go out with friends frequently and do things that I would use to consider fun. 
+I sleep less. My alarm is set for 5:00 am, however, I wake up around 4:45am. I usually can't wait to get my day started. My morning routine is to hit the gym at 5am when they open and then run to the coffee shop to work on tutorials. I also like to be in bed sometimes around 10pm
 
-If I had to say the thing that I have noticed the most since taking up software development obsessively, is I am less lonely. I know it sounds counter intuitive, however, for the first time I feel like i have something to communicate. Spending long periods of time building something, being creative, allows me to feel connected to others. 
+I no longer have the patience to do long workout sessions. Instead I will do short 20-30 minute workout sessions. I will usually hit up two or three HIIT classes at my gym in a week. Overall, I think I am doing well far as maintaining the gainz ;)
+
+ 
+
+
+
