@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Reality of Work"
+date: 2018-06-03 21:30:00 -0500
+categories: iOS Development 
+---
+
+It wasn't long ago that I dedicated 2 - 4 hours a day to mobile development. two hours before work and two hours after. This may sound like bragging or maybe it sounds sad to you. To me, that is just reality. I think that way. I dream that way. I am deeply in love with software development. 
+
+The way I see it, I have a valuable skill that I learned from years of school and work. I could only use that knowledge for work and work only. Or I could weild that power for myself as well. So I have and it amazes me how rewarding it can be to master something. Not just master it but use that mastery to improve other people's lives. 
+
+I hadn't always been that way. I use to only develop things as a means for a paycheck. I would work hard when I was on the clock and then put all that away when the day was over. I use to go out with friends frequently and do things that I would use to consider fun. 
+
+If I had to say the thing that I have noticed the most since taking up developing obsessively, is I am less lonely. I know it sounds counter intuitive, however, for the first time I feel like i have something to communicate. Spending long periods of time building something, being creative, allows me to feel connected to others. 
