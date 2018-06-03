@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Reality of Work"
+title: "New Reality"
 date: 2018-06-03 21:30:00 -0500
-categories: iOS Development 
+categories: Personal Development 
 ---
 
 It wasn't long ago that I dedicated 2 - 4 hours a day to mobile development. two hours before work and two hours after. This may sound like bragging or maybe it sounds sad to you. To me, that is just reality. I think that way. I dream that way. I am deeply in love with software development. 
