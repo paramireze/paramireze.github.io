@@ -5,13 +5,29 @@ date: 2018-06-02 18:30:50 -0500
 categories: Travel 
 ---
 
-Tampa is approximately 80 miles south west of Orlando, connected by the I-4 interstate. Tampa borders the gulf of Mexico and is known as an estuary, a place that the saline levels are between that of sea and fresh water. To the south is Fort Meyer and an residential island Boca Grande. IF youcontinue south, you will eventually run into the everglades and the florida keyshowever, that is well over 300 miles away. 
+Tampa is approximately 80 miles south west of Orlando, connected by the I-4 interstate. Tampa borders the gulf of Mexico and is known as an estuary, a place that the saline levels are between that of sea and fresh water. To the south is Fort Meyer and an residential island Boca Grande.  
 
 It seems Florida has a super popular governor named Rick Scott. He is in every since a scott walker when it comes to politics, including rejecting federal funding for high speed rail systems. 
 
-I will be visiting my cousin in hillsborough county. It is the fourth most populated county in florida. The economy there is primarily driven by trade, transportation, business. Strawberries is their #1 agriculture money maker.
+I will be visiting my cousin in hillsborough county. It is the fourth most populated county in florida. Hillsborough has two unicorporated communities (no local municipal corporation) called Brandon and Plant City. Hillsborough mines phosphate which 90% of its use is for fertilizer. 
 
-According to the hillsborough county wiki page, the are is primarily democratic leaning. 
+Plant City is known as the winter strawberry of the world and hosts the Florida Strawberry festival in late winter and Brandon is a highly populate area surrounding the bay. 
+
+There are some major attraction in the area. The Florida aquarium is a free place to visit in downtown tampa. Busch Gardens is north of downtown tampa in Williambsburg. It is an amusement park with a reputation for having exhilirating rides. 
+## florida aquarium
+
+## busch gardens
+
+
+
+### Random things I read about but didn't write about  
+The bayshore boulevard is 4.5 miles long with reportedly great views
+
+### Brandon 
+
+
+### Plant City 
+
 
 ## Harbor Island
 
@@ -36,7 +52,10 @@ Known as `The Skyway` to locals. Interesting facts
 
 
 ![Causeway Bridge]({{ "/assets/images/old_causeway.jpg" }})
+The causeway is the northern most bridge across the old tampa bay. It connects tampa with Clearwater.
 
 ![Good ole Bob Graham]({{ "/assets/images/good_ole_bob_graham.jpg" }})
 Bob Graham is the former governor of Florida from 1979 to 1987. He made considerable contributions to education and preserving natural wildlife. After being governor, his most notable contributions to florida was his role in the BP spill clean up effort as co-chair. He is an author of three books all nonfiction political related. 
+
+
 
