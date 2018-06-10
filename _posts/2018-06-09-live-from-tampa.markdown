@@ -8,5 +8,7 @@ categories: Tampa
 ## Arco-Iris Restaurant Inc
 plantanos meduros
 pulomilly steak w/ brown rice and beans
+![Acro Iris Restaurant]({{ '/assets/images/tampa/arco-iris-restaurant.jpg' }})
 
+## The Beach is happening
 ![Caddys Beach]({{ '/assets/images/tampa/caddys_on_the_beach.png' }})
