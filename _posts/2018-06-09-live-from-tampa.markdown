@@ -12,3 +12,15 @@ pulomilly steak w/ brown rice and beans
 
 ## The Beach is happening
 ![Caddys Beach]({{ '/assets/images/tampa/caddys_on_the_beach.png' }})
+
+## Nico's Food Truck
+![Nicos]({{ '/assets/images/tampa/nico_food.jpeg' }})
+![Nicos truck]({{ '/assets/images/tampa/food_truck.jpeg' }})
+## Ben Greenfield
+
+
+## Enchillada 
+
+
+## The secret
+podcast/audiobook - joe dispensa breaking the habit of being you
