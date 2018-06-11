@@ -1,18 +1,21 @@
 ---
 layout: post
-title: "Intro to Cuban food 101"
+title: "The Tampa Experience"
 date: 2018-06-10 09:02:50 -0500
 categories: Tampa
 ---
+I had an interesting flight to Tampa. United had to delay my flight two hours because they were waiting for food to arrive for catering. I am guessing there must be some regulation that flights are not allowed to not have food when flying or something because having a full 737 wait two hours so I can eat a bag of pretzels is weird. 
 
-I went to an authentic cuban restaurant in downtown tampa. I ordered their Pallomilla steak with plantanos meduros (ripe banana). The meal came with rice and beans with butter bread. 
+When the plane finally did land, some of the passengers were clapping and cheering, with all the frustration that must come when being delayed.
 
-In spanish, palomillo means moth or butterfly which describes the look of the thin, evenly split  steak. A traditional steak is marinated in garlic, lime juice, salt and pepper and then pan-fried.
-### Palomilla Steak
+My cousin found me waiting outside the united entrance to the airport and scoped me up. The plan was for us to eat at a restaurant. My cousin recommended Bahama Breeze which was reportedly fantastic food, however, everyone and their moms was trying to get a seat. Instead, we continued onward to an authentic Cuban restaurant instead.
+ 
+## Arco-Iris Restaurant Inc
+I ordered their steak, rice, beans, and plantains dishes. I was especially hungry after traveling for an extra two hours and was happy to see how much steak was served with my meal, especially considering the menu is fairly inexpensive. I was also surprised how savory the plantains were. They must have fried it because they looked closer to chicken than it did to a plant.
+ 
+plantanos meduros
+pulomilly steak w/ brown rice and beans
 ![Acro Iris Restaurant]({{ '/assets/images/tampa/arco-iris-restaurant.jpg' }})
-
-### Plantanos Maduros
-![Plantanos Maduros]({{ '/assets/images/tampa/plantanos-maduros.jpg' }})
 
 ## The Beach is happening
 I slept well Saturday night. The room had thick curtains that blocked out all light and the bed was firm and not too soft. I started the day with a morning jog around the gated community. I was greeted by a neighbor walking her dog. The morning was beautiful. It has been a while since I have seen so many tropical trees and plants and spent a quite a bit of time studying the foreign plant life. 
