@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intro to Cuban food 101"
+title: "Intro to Cuban Food 101"
 date: 2018-06-10 09:02:50 -0500
 categories: Tampa
 ---
@@ -8,43 +8,12 @@ categories: Tampa
 I went to an authentic cuban restaurant in downtown tampa. I ordered their Pallomilla steak with plantanos meduros (ripe banana). The meal came with rice and beans with butter bread. 
 
 In spanish, palomillo means moth or butterfly which describes the look of the thin, evenly split  steak. A traditional steak is marinated in garlic, lime juice, salt and pepper and then pan-fried.
+
 ### Palomilla Steak
 ![Acro Iris Restaurant]({{ '/assets/images/tampa/arco-iris-restaurant.jpg' }})
 
 ### Plantanos Maduros
 ![Plantanos Maduros]({{ '/assets/images/tampa/plantanos-maduros.jpg' }})
-
-## The Beach is happening
-I slept well Saturday night. The room had thick curtains that blocked out all light and the bed was firm and not too soft. I started the day with a morning jog around the gated community. I was greeted by a neighbor walking her dog. The morning was beautiful. It has been a while since I have seen so many tropical trees and plants and spent a quite a bit of time studying the foreign plant life. 
-
-The lawns their use St. Augustine grass which is a super thick, carpet like grass that is good at blocking out weeds. I guess that type of grass takes a lot of water for it to thrive and requires some maintenance.
-
-I got to meet my cousins husband that morning. He is a fire fighter for Pinella county. He finished working a 24 hour shift. We shook hands and he makes a fantastic coffee called bullet proof coffee using coconut oil and organic butter. 
-
-My cousin made us a frittata using brocoli, onion, tomato, basil leaves, and egg. She used a cast iron skillet on the stove top until the egg solidified and then put the skillet in the oven until finished.
-
-Once fed, caffeinated and ready, we headed over to Caddy's on the beach. We drove over the incredible skybridget that allowed people that connected both ends of the harbor. Driving over it can be a bit terrifying since the lanes aren't too wide. There is also quite a bit of elevation. 
-
-It was a bit difficult finding parking and some lady tried to turn into us while crossing an intersection. We got lucky and found someone leaving in a parking lot near the beach. My cousin was not taking chances and got out to make sure no one tried to the steal our score. 
-
- 
-
-![Caddys Beach image]({{ '/assets/images/tampa/caddys-beach.jpg' }})
-We found a spot near the beach and set up our towels. The water was a refreshing cool temperature with sandbars near the shore line. we would enjoy our beverages sitting on a sandbar looking at the large clouds roll over the horizing. There were all sorts of people around and couldn't help be fascinated by the oddness of it all. On guy looked like Mickey Rouke if he gained 50lbs of muscle and spent 4 hours a day tanning. I didn't know white people could get that dark. 
-
-![Caddys Beach]({{ '/assets/images/tampa/caddys_on_the_beach.png' }})
-
-After spending several hours drinking, swimming, laughing, we headed home. My cousin being her stopped a spanish food truck where I ordered my first ever Arepa meal. Arepa's is a dough made of ground maize or cooked flour. I had mine with beef, chicken and cheese. I did not need to be foodie to tell that this was something special. 
-
-
-## Nico's Food Truck
-![Nicos]({{ '/assets/images/tampa/nico_food.jpeg' }})
-![Nicos truck]({{ '/assets/images/tampa/food_truck.jpeg' }})
-## Ben Greenfield
-
-
-## Enchillada 
-
 
 ## The secret
 podcast/audiobook - joe dispensa breaking the habit of being you
