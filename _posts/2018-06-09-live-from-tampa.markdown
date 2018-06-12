@@ -11,6 +11,11 @@ Making good Plantains (Plantanos Meduros) only requires frying them until gold. 
 
 It is easy to make your plantains into tostones (toasted). You flatten it with a plate and fry until golden. You then take it out, cool it off in water, and fry each side for one minute.
 
+## Arepas
+Spanish foods do not use the traditional breads that I find around the grocery stores, instead they use corn based bready material for their foods. `Arepa's` are popular in Venezuela and Columbia and made out of Maize dough. They are made in the shape of a tortilla wrap but thicker in depth. 
+ 
+## Cachapa
+I also enjoyed a cachapa during my visit. It is best described as a tasty pancake with a layer of cheese on top. A cachapa is made using fresh corn dough similarily to arepas. 
 
 ### Palomilla Steak
 From what I read, Palomilla steak is  marinated using lime, salt, pepper, and garlic then pan fried. 
