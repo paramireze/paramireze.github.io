@@ -27,6 +27,7 @@ From what I read, Palomilla steak is  marinated using lime, salt, pepper, and ga
 I also ordered their plantanos maduros. I am fascinated how different the meal tasted. 
 
 Making good Plantains (Plantanos Meduros) only requires frying them until gold. Some will continue to fry them until they are a darker color. It is easy to make your plantains into tostones (toasted). You flatten it with a plate and fry until golden. You then take it out, cool it off in water, and fry each side for one minute.
+
 ![Plantanos Maduros]({{ '/assets/images/tampa/plantanos-maduros.jpg' }})
 
 
