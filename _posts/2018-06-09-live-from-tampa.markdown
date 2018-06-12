@@ -9,10 +9,14 @@ My visit to Tampa has taught me a lot in the ways of spanish cooking. Most meals
 
 
 ## Arepas
-Spanish foods do not use the traditional breads that I find around the grocery stores, instead they use corn based bready material for their foods. `Arepa's` are popular in Venezuela and Columbia and made out of Maize dough. They are made in the shape of a tortilla wrap but thicker in depth. 
- 
+Arepas is a corn based dough shaped into a thick pancake. They make for a good choice if you are looking for a gluten free. You are able have your arepa stuff with  meat, cheese, and/or veggies. Arepa's are popular in Venezuela and Columbiaand are often sold on the streets.  
+
+![arepa]({{ '/assets/images/tampa/arepa.jpg' }})
+
 ## Cachapa
-I also enjoyed a cachapa during my visit. It is best described as a tasty pancake with a layer of cheese on top. A cachapa is made using fresh corn dough similarily to arepas. 
+I ordered a Cachapa at Nico's food cart and was told that cachapa is just like an arepa except there is sugar added. Also, Arepas are made using a precooked, ground corn flour where as a cachapa uses fresh corn and cornmeal.  
+
+![cachapa]({{ '/assets/images/tampa/cachapa.jpg' }})
 
 ## Palomilla Steak
 From what I read, Palomilla steak is  marinated using lime, salt, pepper, and garlic then pan fried. 
