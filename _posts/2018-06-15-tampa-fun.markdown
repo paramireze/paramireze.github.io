@@ -26,9 +26,7 @@ My most acommodating hosts brought me to the beach to enjoy a day of drinks and 
 
 I was intrigued from the various walks of life that visited upon the beach life, especially the occassional Beefcake that patrolled the beach wearing dark leathery tanned skin and long hair. 
 
-![Caddys]({{ '/assets/images/tampa/caddys_on_the_beach.png' }})
-
-![Caddys]({{ '/assets/images/tampa/caddys-beach.jpg' }})
+![Caddys]({{ '/assets/images/tampa/beach.jpg' }})
 
 ### Weeki Wachee Springs
 In Wisconsin, we have Sauna's and hot tubs to keep us warm in the winters. In Florida, they have cold water springs that keep them cool in the summer. We visited one such spring. Touching the waters would instantly cover your skin in goose bumps.I could feel the the soreness/inflammation in my legs go away as the waters temporarly numbed my pain. 
@@ -50,4 +48,4 @@ It was difficult deciding on what to order since there was a variety of restaura
 The Cheese Cake Factory is located on the outskirts of International Mall. Being from a small'ish city in Wisconsin, I did not realize this was a thing. There was an excellent variety of cheesecakes to select from. Almost all slices are over 1000 calories. 
 
  
-![Cheese]({{ '/assets/images/tampa/cheese_factory.jpg' }})
+![Cherry Cheesecake]({{ '/assets/images/tampa/cherry.png' }})
