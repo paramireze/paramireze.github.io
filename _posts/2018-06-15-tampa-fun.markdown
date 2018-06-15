@@ -9,21 +9,16 @@ I like the skyline at any given point when in Tampa. There is always an armada o
 
 ![cloud]({{ '/assets/images/tampa/cloud.jpg' }})
 
+## Riverwalking on the River walk
+Tampa has recently added the tampa riverwalk which runs over the hillsborough river, parallel to the land. The river walk was wide enough to drive a car over and groups of people could easily get around, enjoying the scenic views, including the University of Tampa.
 
-## Culture
-I found myself fascinated with Ybor City, which is a historic neighborhood in Tampa, near downtown. The night life there is vibrant. The roads are narrow and the streets are alive with activity. Their is a trolly system that runs through with many murals to see along the buildings. The community their is diverse with many types of shops and restaurants. 
+![Riverwalk]({{ '/assets/images/tampa/river_walk.jpg' }})
 
-## Downtown
-Sound of YBor is downtown Tampa. Along the shore of the bay is bayshore blvd. Bayshore is a long stretch of road lined up with beautiful homes on one side and a scenic view of the bay on the other. There are palm trees lined up along both sides with a nice spacious walking path along the water. 
+## Hixon Park
+Just off the riverwalk was the newly built Curtis Hixon park, named after a former Tampa Mayor who died in office. The 8 acre park spans from the shoreline and well into downtown Tampa along side the children museum and across the street from the Sykes tower. Palm trees are lit up with lights as well as other features. I have been told that it is not uncommon for concerts to take place in the park and other festivities.
 
-Tampa has recently added the tampa riverwalk which runs over the hillsborough river, parallel to the land. The river walk was wide enough to drive a car over and groups of people could easily get around, enjoying the scenic views. 
+![Hixon]({{ '/assets/images/tampa/hixon_park1.jpg' }})
 
-River taxi's would park alongside the riverwalk. I was able to clearly see the beautiful architecture that made up University of Tampa. Just off the riverwalk was the newly built Curtis Hixon park, named after a former Tampa Mayor who died in office. The 8 acre park spans from the shoreline and well into downtown Tampa along side the children museum and across the street from the Sykes tower. Palm trees are lit up with lights as well as other features. I have been told that it is not uncommon for concerts to take place in the park and other festivities.
-
-## Happening Places
-Tampa is an old city with many culture roots that can be seen in the shipyards, coast lines and the surrounding cities. Tampa is also a growing city with much to offer in the ways of trending modern culture.  
-
-There is no shortage of entertainment
 
 ### Caddy's Beach 
 
@@ -36,11 +31,13 @@ I was intrigued from the various walks of life that visited upon the beach life,
 ![Caddys]({{ '/assets/images/tampa/caddys-beach.jpg' }})
 
 ### Weeki Wachee Springs
-In Wisconsin, we have Sauna's and hot tubs to keep us warm in the winters. In Florida, they have cold water springs that keep them cool in the summer. We visited such a spring and the cold water was a shock to our systems. I could feel the soreness in my legs and back disappear as the properties of the cold water stole away the inflammation from age and abuse.
+In Wisconsin, we have Sauna's and hot tubs to keep us warm in the winters. In Florida, they have cold water springs that keep them cool in the summer. We visited one such spring. Touching the waters would instantly cover your skin in goose bumps.I could feel the the soreness/inflammation in my legs go away as the waters temporarly numbed my pain. 
+
+![Weeki Wachee]({{ '/assets/images/tampa/weeki.jpg' }})
 
 We also enjoyed a rendition of the `Little Mermaid` put on by live actors. The theater was underground with a window into the spring. Actors, dressed in mermaid suits swam before us as music played from the speakers around us. I cried, I laughed, I channeled my hatred at the stupid wicked witch who cursed Ariel. Eventually, love won out and defeated the evil witch. Bravo!  
 
-![Weeki Wachee]({{ '/assets/images/tampa/weeki.jpg' }})
+![Little Mermaid]({{ '/assets/images/tampa/mermaid.jpg' }})
 
 ### Armature Works 
 The Armature Works is a renovated factory turned into a spacious market place for restaurants, bars, smoothy and coffee shops. The building is located downtown along the shoreline, up and across from the University of Tampa. 
