@@ -9,12 +9,12 @@ My visit to Tampa has taught me a lot in the ways of spanish cooking. Most meals
 
 
 ## Arepas
-Arepas is a corn based pancake like substance that can be stuff with veggies, meats, cheeses. They make for a good choice if you are looking for a bready like gluten free meal. Arepa's can be typically found being made and sold by street vendors on the streets of Venezuela and Columbia.  
+Arepas is a corn based pancake like substance that can be stuff with veggies, meats, cheeses. They make for a good choice if you are looking for a bready like gluten free meal. Arepa's can be typically found being made and sold by street vendors in Venezuela and Columbia.  
 
 ![arepa]({{ '/assets/images/tampa/arepa.jpg' }})
 
 ## Cachapa
-Cachapa's are similar to Arepas with a couple of small differences. Cachapa's are used iwth precooked ground corn flour instead of fresh corn and cachapa's are typically sweatened by adding sugar. Otherwise, they almost look a like and easily confused for one another. 
+Cachapa's are similar to Arepas with a couple of small differences. Cachapa's are uses precooked ground corn flour instead of fresh corn and cachapa's are typically sweatened by adding sugar. Otherwise, they almost look a like and easily confused for one another. 
 
 ![cachapa]({{ '/assets/images/tampa/cachapa.jpg' }})
 
