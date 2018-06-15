@@ -5,11 +5,11 @@ date: 2018-06-15 09:02:50 -0500
 categories: Travel
 ---
 
-I like the skyline at any given point when in Tampa. There is always an armada of low hanging cumulonimbus clouds rolling across the horizon. On occasion, one of those clouds will blow up and reach high into the stratosphere.
+I enjoyed the skyline at any given point when in Tampa. There is always an armada of low hanging cumulonimbus clouds rolling across the horizon. On occasion, one of those clouds will blow up and reach high into the stratosphere.
 
 ![cloud]({{ '/assets/images/tampa/cloud.jpg' }})
 
-## Riverwalking on the River walk
+## The River walk
 I was lucky enough to spend an evening with my cousin walking down the riverwalk that runs along the hillsborough river, downtown Tampa. I enjoyed staring out across the University of Miama and some of the bigger buildings owned by the news companies. There was a river taxi that pedestrians could hop on and cyclist that can easily manuever there way through. 
 
 
