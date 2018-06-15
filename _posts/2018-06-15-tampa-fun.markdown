@@ -5,14 +5,10 @@ date: 2018-06-15 09:02:50 -0500
 categories: Travel
 ---
 
-It is difficult to discuss traveling without comparing it to the differences in my daily routines from home. I guess what I struggled with most is the absence of structure from my routines. 
+I like the skyline at any given point when in Tampa. There is always an armada of low hanging cumulonimbus clouds rolling across the horizon. On occasion, one of those clouds will blow up and reach high into the stratosphere.
 
-Traveling has also taught me that I am capable of adopting new routines quickly and I believe I have good judgement in regards to which routines I pick up. For example, my cousin and her husband are both health conscious far as living right. I was able to quickly switch to their recommended diet and my energy levels stayed quite high the entire trip.
-
-Visiting my family in Florida has taught me that I live a very structured life. I sleep at certain times, I have rituals, patterns and other things. Traveling undoes all that and forced me to improvise quite a bit. 
-
-## Tampa vs Madison
-
+![cloud]({{ '/assets/images/tampa/clouds.jpg' }})
+ 
 Tampa is a beautiful city. The design of the city seems well thought out far as building layout and roads. It definitely has traffic issues, however, that seems to be an impossible problem to solve when dealing with large cities and Tampa seems to have ways of navigating around heavy traffic if you are familar with the area.
 
 ## Culture
