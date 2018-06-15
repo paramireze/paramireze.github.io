@@ -7,7 +7,7 @@ categories: Travel
 
 I like the skyline at any given point when in Tampa. There is always an armada of low hanging cumulonimbus clouds rolling across the horizon. On occasion, one of those clouds will blow up and reach high into the stratosphere.
 
-![cloud]({{ '/assets/images/tampa/clouds.jpg' }})
+![cloud]({{ '/assets/images/tampa/cloud.jpg' }})
  
 Tampa is a beautiful city. The design of the city seems well thought out far as building layout and roads. It definitely has traffic issues, however, that seems to be an impossible problem to solve when dealing with large cities and Tampa seems to have ways of navigating around heavy traffic if you are familar with the area.
 
