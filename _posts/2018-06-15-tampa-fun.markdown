@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visiting Family"
+title: "Visiting Tampa"
 date: 2018-06-15 09:02:50 -0500
 categories: Travel
 ---
@@ -8,8 +8,7 @@ categories: Travel
 I like the skyline at any given point when in Tampa. There is always an armada of low hanging cumulonimbus clouds rolling across the horizon. On occasion, one of those clouds will blow up and reach high into the stratosphere.
 
 ![cloud]({{ '/assets/images/tampa/cloud.jpg' }})
- 
-Tampa is a beautiful city. The design of the city seems well thought out far as building layout and roads. It definitely has traffic issues, however, that seems to be an impossible problem to solve when dealing with large cities and Tampa seems to have ways of navigating around heavy traffic if you are familar with the area.
+
 
 ## Culture
 I found myself fascinated with Ybor City, which is a historic neighborhood in Tampa, near downtown. The night life there is vibrant. The roads are narrow and the streets are alive with activity. Their is a trolly system that runs through with many murals to see along the buildings. The community their is diverse with many types of shops and restaurants. 
