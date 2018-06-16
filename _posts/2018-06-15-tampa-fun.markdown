@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Visiting Tampa"
+title: "Life in Tampa"
 date: 2018-06-15 09:02:50 -0500
 categories: Travel
 ---
@@ -10,26 +10,39 @@ I enjoyed the skyline at any given point when in Tampa. There is always an armad
 ![cloud]({{ '/assets/images/tampa/cloud.jpg' }})
 
  
-# Saturday 
+## Saturday 
 Most my Saturday was spent traveling from Madison -> Chicago -> Tampa. My cousin Tumoyia picked me up from Tampa airport and we were reunited for the first time in 30 years. 
 
 My flight was delayed a few times and managed to create quite the appetite. Tumoyia brought me to an authentic cuban restaurant called `Acroiris`. I ordered the Palomilla Steak and Plantanos Maduros (fried plantains). I enjoyed the Plantains so much that Tumoyia and I would later make some at home. 
 
-# Sunday
+## Sunday
 I woke up early and went for a morning jog to explore the neighborhood. I was fascinated by the plant life, especially the tropical trees and the St. Augustine grass. 
 
 Tumoyia made a bacon, egg and veggie frittata for breakfast using a cast iron pan on the stove top and then the oven. She is smart about using quality ingredients that promote health such as organic and glutten free products. 
 
 That morning I got to meet Tumoyia's husband Jason. He is a fitness junkie who loves anything nutrition and exercise related. I learned a lot from our conversations and have since adjusted my diet and exercise routines.
  
-## Caddy's Beach 
+# Caddy's Beach 
 We headed off to the coastal city of `St. Pete's`. We stopped at a place called `Caddy's` beach and enjoyed the gulf of Mexico. The three of us sat on a nearby sandbar, enjoying our drinks while waves washed over our backs and chest. I was intrigued by the many types of people, especially the occassional Beefcake that patrolled the beach wearing dark leathery tanned skin and long bleached stringy hair. They reminded me of the WWF wrestlers that I once idoloized back in the 80's. 
 
+# John's Pass
 We eventually made our way to a beautiful boardwalk village called `John's Pass`. The place was a playground for tourists and locals. I thought it was cool how people would park their boats for food and drinks.  
 
-We stopped at `The Hut Bar and Grill`. The inside of the place was truly a site and enjoyed the local craft brew beer. 
+We stopped at `The Hut Bar and Grill`. The inside of the place was truly a site and enjoyed the local craft beer. 
 
-![Hut Bar]({{ '/assets/images/tampa/hut_bar.jpg' }})
+![Hut Bar]({{ '/assets/images/tampa/jons_place.jpg' }})
+
+On the way home, we stopped at `Nico's` food truck. I got to experience my first `cachapa` which tasted like a cheese filled pancake with Chicken.
+
+ 
+## Monday
+The day started with Tumoyia cooking breakfast for everyone. She showed me how to make omelets which I would later do myself. She cooked up some bacon as a side and served some `bullet proof coffee`. I learned to make bullet proof coffee by adding butter and coconut oil to the coffee and then blending it. 
+
+The day was nice and relaxing for the most part. We stopped at the store and picked up food. I got a week long membership at `The Worx` gym, just down the road from Tumoyia's place. Tumoyia and I went to `Liborios` restaurant to pick up some spanish food. I ordered their pulled chicken, arroz amarillo, and tostones. I think i paid close to $10 and the food lasted me three meals. 
+
+The evening was spent getting shot in the face a lot learning to play `Fortnight`. Jason and I took turns playing while we played Battle Royale mode. 
+
+![Fortnight]({{ '/assets/images/tampa/Fortnight-Battle-Royal.jpg' }}) 
 
 ## The River walk
 I was lucky enough to spend an evening with my cousin walking down the riverwalk that runs along the hillsborough river, downtown Tampa. I enjoyed staring out across the University of Miama and some of the bigger buildings owned by the news companies. There was a river taxi that pedestrians could hop on and cyclist that can easily manuever there way through. 
