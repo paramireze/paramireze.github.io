@@ -60,11 +60,13 @@ We had plans to meet Tumoyia's friend Andrea out for food and drinks later in th
 
 The fun having took place at the `Green Lemon` near downtown Tampa. Tumoyia and I sat outside for a bit waiting for a table and noticed the Mural `You are Beautiful` written on the side of the building. It strongly resembled that of the one in Madison.  
 
-## Madison
+# Madison
+located at the `Parched Eagle` off of East Wash, Madison.
 ![You are beautiful Madison]({{ '/assets/images/tampa/you_are_beautiful.jpg' }})
 
-## Tampa
-![You are beautiful Tampa]({{ '/assets/images/tampa/you_are_still_beautiful.jpg' }})
+# Tampa
+Green Lemon bar on North Howard Ave
+![You are beautiful Tampa]({{ '/assets/images/tampa/you_are_also_beautiful.jpg' }})
 
 We headed out to `St. Pete's` to do some site seeing. It was fun taking the `I-275` bridge over the bay getting there. 
 
