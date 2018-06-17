@@ -11,7 +11,7 @@ There is always an armada of low hanging cumulonimbus clouds rolling across the 
 
  
 ## Saturday 
-Most of my Saturday was spent traveling from Madison -> Chicago -> Tampa. My cousin Tumoyia picked me up from Tampa airport and we were reunited for the first time in 30 years. I sat shotgun and enjoyed hearing about her work and other aspects of her life.
+Most of my Saturday was spent traveling from Madison -> Chicago -> Tampa. My cousin Tumoyia picked me up from Tampa airport and we were reunited for the first time in 30 years. I sat shotgun and enjoyed catching up. 
 
 Tumoyia being Tumoyia correctly thought it wise to re-introduce me to spanish foods and brought me to `Acroiris`. I ordered the Palomilla Steak and Plantanos Maduros (fried plantains) and quickly realized what authentic cuban food can taste like. I enjoyed the Plantains so much that Tumoyia and I would later make some for funsiez. 
 
@@ -23,9 +23,11 @@ Breakfast consisted of a Bacon, Egg, Veggie Frittata made by my cuz. She skillfu
 That morning I got to meet Tumoyia's husband Jason. He works for the city of St. Pete as a fire fighter. He is also a fitness enthusiast who enjoys video games, meaning we had nothing in common ;)
   
 # Caddy's Beach 
-My most gracious hosts decided that my first full day in tampa should be spent on the beach, enjoying the beach while sipping on drinks. We went to `Caddy's on the Beach` which resided on the coast of Gulf of Mexico in the coastal city `St. Petersburg`.
+My most gracious hosts decided that my first full day in tampa should be spent on the beach. We went to `Caddy's on the Beach` which resided on the coast of Gulf of Mexico in the coastal city `St. Petersburg`.
 
-After getting drinks, we  sat on a sandbar while waves washed over our backs. I was intrigued by the many types of people, especially the occassional Beefcake that patrolled the beach wearing dark leathery tanned skin and long bleached stringy hair. They reminded me of the WWF wrestlers that I once idoloized back in the 80's. 
+We went inside the bar, ordered drinks, and sat on a nearby sand bar where we stared off into the vast sky while waves washed over our backs. 
+
+I was fascinated by the many types of people that , especially the occassional Beefcake that patrolled the beach wearing dark leathery tanned skin and long bleached stringy hair. They reminded me of the WWF wrestlers that I once idoloized back in the 80's. 
 
 ![Caddys]({{ '/assets/images/tampa/beach.jpg' }})
 
@@ -71,7 +73,8 @@ located at the `Parched Eagle` off of East Wash, Madison.
 `Green Lemon` off of North Howard Ave
 ![You are beautiful Tampa]({{ '/assets/images/tampa/you_are_also_beautiful.jpg' }})
 
-![Caddys]({{ '/assets/images/tampa/Coincidence-i-think-not.jpg' }})
+# a Coincidance?
+![a coincidance]({{ 'https://www.youtube.com/watch?v=nBHkIWAJitg' }})
 
 
 ## The River walk
