@@ -4,8 +4,7 @@ title: "Life in Tampa"
 date: 2018-06-15 09:02:50 -0500
 categories: Travel
 ---
-
-There is always an armada of low hanging cumulonimbus clouds rolling across the horizon. On occasion, one of those clouds will blow up and reach high into the stratosphere.
+The thing I like most about Tampa is the low hanging clouds that roll across the horizon at any given point. 
 
 ![cloud]({{ '/assets/images/tampa/cloud.jpg' }})
 
@@ -27,7 +26,7 @@ My most gracious hosts decided that my first day in tampa should be spent drinki
 
 Once we ordered our drinks, we headed off into the waters to sit on a nearby sand bar. We chilled out and sat on a nearby sandbar. Every few seconds a wave would crash into our backs, keeping us cool during the mid-day summer weather.   
 
-The Beach Life brings all sorts of people. I was fascinated by the occassional Beefcake that patrolled the beach while brandishing their dark leathery tanned skin and long sun-bleached stringy hair, resembling the WWF wrestlers that I idoloized back in the 80's. 
+The Beach Life brings all sorts of people. I was fascinated by the occassional Beefcake that patrolled the beach while brandishing dark leathery tanned skin and long sun-bleached stringy hair, resembling the WWF wrestlers that I idoloized back in the 80's. 
 
 ![Caddys]({{ '/assets/images/tampa/beach.jpg' }})
 
