@@ -4,8 +4,7 @@ title: "Life in Tampa"
 date: 2018-06-15 09:02:50 -0500
 categories: Travel
 ---
-The thing I like most about Tampa is the low hanging clouds that roll across the horizon at any given point. 
-
+Tampa is a charming city that makes you feel like you are living in a 80's detective show. The clouds 
 ![cloud]({{ '/assets/images/tampa/cloud.jpg' }})
 
  
