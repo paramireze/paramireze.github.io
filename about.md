@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![paul avatar]({{ "/assets/images/paul-avatar.png" }})
+![paul avatar]({{ "/assets/images/profile/bfd.JPG" }})
 
 You found me, welcome to my site! This is a place where I go to organize my thoughts on subjects I have learned. My posts are meant to be an informal summerization of tutorials and lessons I have learned from educational videos and/or work. 
 
