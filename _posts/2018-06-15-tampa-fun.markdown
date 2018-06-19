@@ -4,6 +4,7 @@ title: "Life in Tampa"
 date: 2018-06-15 09:02:50 -0500
 categories: Travel
 ---
+
 ![cloud]({{ '/assets/images/tampa/cloud.jpg' }})
 
 My write up on my week long Tampa visit to hang out with family. 
@@ -98,7 +99,9 @@ Our walk downtown ventured to `Hixon Park` where concerts are sometimes held. Th
 
 ## Thursday
 # Uncle George
-I got to meet my uncle who I hadn't seen since I last saw Tumoyia. He greets me and gifts Tumoyia with a painting of paris. The painting has what looks like a street with shops and the Eiffle Tower is in the distant background. My uncle is much like my mom in the sense his life was not easy and it shows in his age. In some ways, it seems to have made him more resiliant. He has a calm smile that is unwavering.  
+I got to meet my uncle who I hadn't seen since I last saw Tumoyia. He greets me and gifts Tumoyia with a painting of Paris. The painting is appropriate considering Tumoyia had recently visited there and has since been fascinated by the place. The painting has what looks like a street with shops and the Eiffle Tower is in the distant background. My uncle life has not been easy and it shows. It has made him resiliant which can be seen from his cool calm unwavering smile.  
+
+![Uncle George]({{ '/assets/images/tampa/uncle_george.jpg' }})
 
 # Armature Works
 We visited a newly renovated old factory building turned into an indoor open market with restaurants, bars, and other shops. Jason, Tumoyia and I ate at `Graze` which is also in Madison. The interior was impressive far as design and overall atmosphere.
