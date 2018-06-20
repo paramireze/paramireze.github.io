@@ -5,7 +5,7 @@ date: 2018-06-20 08:00:00 -0500
 categories: iOS Development 
 ---
 
-In the post, I seek to find the answer to the question "What is the difference between a `control`, a `delegate`, and a `gesture recognizer`. 
+In this post I would like to answer the question "What is the difference between a `control`, a `delegate`, and a `gesture recognizer`. The three are major compontents to user interaction with the `UIKit Framework` and it is not clear to me their responsibilities.
 
 # Control
 A control is an object assigned to a view that will interact with the user. For example, when a user taps into a text field, a control object will signal that the phone's keyboard should pop. 
