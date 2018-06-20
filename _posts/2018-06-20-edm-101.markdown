@@ -10,12 +10,7 @@ When it comes to Electronic Dance Music (EDM), there are a few things you should
 ## Trap Music
 According to wikipedia, `Trap is typified by double or triple-time sub-divided hi-hats, heavy, sub-bass layered kick drums from the Roland TR-808 drum machine, layered synthesizers and an overal dark, ominous or bleak atmosphere.`
 
-I have no idea what any of that meant which means I should probably break things down a bit to get a better picture of what trap music is
+Trap music originated from southern hip hop style that mixed with some dubstep. 
+# Time Signature
 
-# double or triple-time
-
-# sub-divided hi-hats
-
-# sub-bass layered kick drums
-
-# Roland TR-808 drum machine
+![Time Signature]({{ '/assets/images/music/time_signature.png' }})
