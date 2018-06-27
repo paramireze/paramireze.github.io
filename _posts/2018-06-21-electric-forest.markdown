@@ -5,7 +5,7 @@ date: 2018-06-21 21:00:01 -0600
 categories: music
 ---
 
-![Bassnectar]({{ '/assets/images/music/electric_forest/bassnectar.jpg' }})
+![Bassnectar]({{ '/assets/images/music/electric_forect/bassnectar.jpg' }})
 
 Getting to Electric forest was a bit of a challenge. Nick got off work around 4pm and we were on the road sometime around 6pm. It was a long drive and didn’t reach the festival grounds until 4am. There was some weird snafu once we got there making it so we couldn’t set up tent until 6am. Luckily for us, the sun was coming up so we could see well ;)
 
