@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Creating a Custom View"
+date: 2018-06-26 08:00:00 -0500
+categories: iOS Development 
+---
+
+The app will allow users to rate their meals using a 5 star rating system. I will be creating a custom control within a `stackview` on the main storyboard. I will put the UI elements for the 5 star rating system in there. Within the stackview, I use `init(frame:)` for programatically initializing the view. 
+
+
+
+
