@@ -10,14 +10,25 @@ The app will allow users to rate their meals using a 5 star rating system. I wil
 # Archives and Serialization
 Convert objects and values to and from property list, JSON, and other flat binary representations
 
-# init(Frame:)
-initializes and returns a newly allocated view object with the specified frame rectangle
-
-# NSCoding
-a protocol that enables an object to be encoded and decoded for archiving and distribution
-
 {% highlight ruby %}
 override init(frame: CGRect) {
     <#code#>
 }
 {% endhighlight %}
+
+# init(Frame:)
+initializes and returns a newly allocated view object with the specified frame rectangle
+
+{% highlight ruby %}
+required init(coder: NSCoder) {
+	super.init(coder: coder)
+}
+{% endhighlight %}
+
+# NSCoding
+a protocol that enables an object to be encoded and decoded for archiving and distribution
+
+## Core Graphics
+
+# CGRect
+A structure that contains the location and dimensions of a rectangle
