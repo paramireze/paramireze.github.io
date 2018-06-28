@@ -14,10 +14,8 @@ override init(frame: CGRect) {
 }
 {% endhighlight %}
 
-# init(Frame:)
-initializes and returns a newly allocated view object with the specified frame rectangle
+`init(Frame:)` - initializes and returns a newly allocated view object with the specified frame rectangle
 
-## 
 {% highlight ruby %}
 required init(coder: NSCoder) {
 	super.init(coder: coder)
