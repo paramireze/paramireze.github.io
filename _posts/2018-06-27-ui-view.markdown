@@ -27,4 +27,12 @@ Convert objects and values to and from property list, JSON, and other flat binar
 
 `NSCoding` - a protocol that enables an object to be encoded and decoded for archiving and distribution
 
+## Adding buttons to the Custom Control
 
+{% highlight ruby %}
+// Create the button
+let button = UIButton()
+button.backgroundColor = UIColor.red
+{% endhighlight %}
+
+`UIButton()` - convenience initializer that calls `init(frame:)` and passes in a zero-sized rectangle.
