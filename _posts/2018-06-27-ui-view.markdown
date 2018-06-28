@@ -5,8 +5,19 @@ date: 2018-06-26 08:00:00 -0500
 categories: iOS Development 
 ---
 
-The app will allow users to rate their meals using a 5 star rating system. I will be creating a custom control within a `stackview` on the main storyboard. I will put the UI elements for the 5 star rating system in there. Within the stackview, I use `init(frame:)` for programatically initializing the view. 
+The app will allow users to rate their meals using a 5 star rating system. I will be creating a custom control within a `UI stackview` on the main storyboard. I will put the UI elements for the 5 star rating system in the custom control. 
 
+# Archives and Serialization
+Convert objects and values to and from property list, JSON, and other flat binary representations
 
+# init(Frame:)
+initializes and returns a newly allocated view object with the specified frame rectangle
 
+# NSCoding
+a protocol that enables an object to be encoded and decoded for archiving and distribution
 
+{% highlight ruby %}
+override init(frame: CGRect) {
+    <#code#>
+}
+{% endhighlight %}
