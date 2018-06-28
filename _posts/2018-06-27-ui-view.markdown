@@ -5,11 +5,9 @@ date: 2018-06-26 08:00:00 -0500
 categories: iOS Development 
 ---
 
-The app will allow users to rate their meals using a 5 star rating system. I will be creating a custom control within a `UI stackview` on the main storyboard. I will put the UI elements for the 5 star rating system in the custom control. 
+I will be creating a 5 star rating system so app users are able to rate their meals. I will use a `Stack View` to hold the star system and then add logic to a custom control to update their feedback.
 
-# Archives and Serialization
-Convert objects and values to and from property list, JSON, and other flat binary representations
-
+## Adding Initializer Placeholders
 {% highlight ruby %}
 override init(frame: CGRect) {
     <#code#>
@@ -19,16 +17,16 @@ override init(frame: CGRect) {
 # init(Frame:)
 initializes and returns a newly allocated view object with the specified frame rectangle
 
+## 
 {% highlight ruby %}
 required init(coder: NSCoder) {
 	super.init(coder: coder)
 }
 {% endhighlight %}
 
-# NSCoding
-a protocol that enables an object to be encoded and decoded for archiving and distribution
+# Archiving and Serialization 
+Convert objects and values to and from property list, JSON, and other flat binary representations
 
-## Core Graphics
+`NSCoding` - a protocol that enables an object to be encoded and decoded for archiving and distribution
 
-# CGRect
-A structure that contains the location and dimensions of a rectangle
+
