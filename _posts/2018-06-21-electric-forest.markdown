@@ -9,7 +9,13 @@ categories: music
 
 Getting to `Electric Forest` was a bit of a challenge. Nick got off work around 4pm and we were on the road sometime around 6pm. It was a long drive and didn’t reach the festival grounds until 4am. There was some weird snafu once we got there making it so we couldn’t set up tent until 6am. Luckily for us, the sun was coming up so we could see well ;)
 
-The Festival itself is truly an amazing event. There are seven stages that have some of the most talented artists jamming out. It can be overwhelming knowing which to see. The festival grounds is littered with beautiful structures, artwork and people. Talented dancers dressed in exotic garb can be found twirling LED lights. 
+![Entering Festival]({{ '/assets/images/music/electric_forect/entering.jpg' }})
+
+I can't begin to describe how incredible the festival is. There are seven stages with an all-star lineup of muscians, each of whom can draw large crowds on their own such as `Bassnectar`, `Clozee`, `Washed Out`, `Refus de Sol`, `Cheese String Incident`. 
+
+![Artist]({{ '/assets/images/music/electric_forect/artist.jpg' }})
+
+ The festival grounds is littered with beautiful structures, artwork and people. Talented dancers dressed in exotic garb can be found twirling LED lights. 
 
 There was never a moment in any given day that people weren’t partying with music blasting. It was not uncommon for me to wake up the next morning and find hundreds of party goers that never went to sleep from the night before. I would sometimes wonder to those parties and would notice how everyone attending seemed to be completely oblivious to the world except for the music.  
 
