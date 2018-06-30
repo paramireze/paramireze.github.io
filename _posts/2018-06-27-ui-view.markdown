@@ -5,9 +5,15 @@ date: 2018-06-26 08:00:00 -0500
 categories: iOS Development 
 ---
 
-I will be creating a 5 star rating system so app users are able to rate their meals. I will use a `Stack View` to hold the star system and then add logic to a custom control to update their feedback.
+I am adding a 5 star rating system to the meal tracker app. I will use a custom control that will hold and display the logic required. Essentially, I create a `UIStackView` subclass to create an independant, modularized view that can be injected independantly into any view. 
 
-## Adding Initializer Placeholders
+So far, I have the ugly red button. I will be working to 
+
+![custom control]({{ '/assets/ios/june/custom_control.png' }})
+
+## Key concepts
+
+# Adding Initializer Placeholders
 {% highlight ruby %}
 override init(frame: CGRect) {
     <#code#>
@@ -36,3 +42,5 @@ button.backgroundColor = UIColor.red
 {% endhighlight %}
 
 `UIButton()` - convenience initializer that calls `init(frame:)` and passes in a zero-sized rectangle.
+
+
