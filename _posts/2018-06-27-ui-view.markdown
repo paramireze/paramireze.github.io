@@ -7,7 +7,7 @@ categories: iOS Development
 
 I am adding a 5 star rating system to the meal tracker app. I will use a custom control that will hold and display the logic required. Essentially, I create a `UIStackView` subclass to create an independant, modularized view that can be injected independantly into any view. 
 
-So far, I have the ugly red button. I will be working to 
+So far, I have the ugly red button but I will eventually have clickable stars in its place with event handlers tied to the `view controller`. 
 
 ![custom control]({{ '/assets/ios/june/custom_control.png' }})
 
