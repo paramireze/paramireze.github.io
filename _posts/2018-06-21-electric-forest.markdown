@@ -23,6 +23,10 @@ Exploring the festival grounds is an experience all in its own. There are large 
 
 There was never a moment in any given day that people weren’t partying with music blasting. It was not uncommon for me to wake up the next morning and find hundreds of party goers that never went to sleep from the night before. I would sometimes wonder to those parties and would notice how everyone attending seemed to be completely oblivious to the world except for the music.  
 
+![Peace]({{ '/assets/images/music/electric_forect/peace.jpg' }})
+
+![Chromeo]({{ '/assets/images/music/electric_forect/chromeo.jpg' }})
+
 ## Daytime Activities 
 # Lake Michigan
 One of the little things that makes Electric Forest special is being able to exit and reenter the fetival grounds. It is unusual and Nick and I took full advantage. We would visit a nearby beach off Lake Michigan each morning and rid ourselves of the previous days filth. Laying down listening to the waves was a good repreive from the many thousands that resided in the festival grounds. It was also nice being able to stop by a store  for fresh fruits, ice, and other goods at reasonable prices. 
