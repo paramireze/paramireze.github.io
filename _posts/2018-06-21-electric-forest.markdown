@@ -38,5 +38,8 @@ Nick and I played `Cathedral` for hours each day. Our neighbors would often stop
 
 ![Cathedral]({{ '/assets/images/music/electric_forect/cathedral.jpg' }})
 
+# Pics from Reddit
+![sherwood]({{ '/assets/images/music/electric_forect/forestPic.jpg'}})
 
+![ranch]({{ '/assets/images/music/electric_forect/ranch.jpg' }})
 
