@@ -16,6 +16,6 @@ This years start took place at working draft brewery. There was a walking pub cr
 
 My friend `Mr. OTC` recently won a home brewing contest and had his beer on tap at `Working Draft` called `Basement Warfare`. It is a chocolate stout.
 
-![basement warfare]({{ '/assets/images/july/charles.jpg' }})
+![basement warfare]({{ '/assets/images/july/tara.png' }})
 
 
