@@ -7,7 +7,7 @@ categories: Adventuring
 
 # Meet Wasmund
 
-![The Wassabiman]({{ '/assets/images/2018/july/rpi/wasmund.jpg' }})
+![The Wassabiman]({{ '/assets/images/2018/rpi/wasmund.JPG' }})
 
 This year I will be visiting my good friend `Stephen Wasmund` in his home in `Salt Lake City, Utah`. He lives with his wife and her family. He was once living in `Madison` until he found a job position at the local university there. 
 
