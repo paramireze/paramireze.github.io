@@ -18,4 +18,20 @@ My friend `Mr. OTC` recently won a home brewing contest and had his beer on tap 
 
 ![basement warfare]({{ '/assets/images/july/tara.png' }})
 
+I drew a 6 of clubs and headed out on our bike poker ride shortly there after. we rode north east through the shorewood hills neighborhood and ended up at `Busses Bar`. The locals were surprised to see 15 cyclist come in and managed to handle it well. A guy named brian gave us pizza as well. 
+
+![busses]({{ '/assets/images/july/busses.jpg' }})
+
+I then drew a jack and we were off again. We rode east to `Sundown Saloon`. The place was spacious and I particularly liked the bar area itself with the mirror that gave the illusion of being half the size. 
+
+![sundown]({{ '/assets/images/july/sundown.png' }})
+
+I drew an Ace and we were off again, headed south this time. We went across cottage groove and buckeye rd, and stopped at 
+
+We stopped by `Nutfarmers` household to do an imprumptu beer check, however, he was closing shop for the night so we continued on our merry. At this time, there were about 7 cyclist left. 
+
+Our ride leader coordinated with the pub crawl coordinater and both groups met at baldwin street and grille for the final stop. I then lost miserably in the poker game and concluded the night there
+
+![baldwin]({{ '/assets/images/july/baldwin.png' }})
+
 
