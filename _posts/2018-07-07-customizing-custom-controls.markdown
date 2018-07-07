@@ -5,8 +5,8 @@ date: 2018-07-07 09:00:00 -0500
 categories: iOS Development 
 ---
 
-Dynamically generating buttons in the mobile app is a much different experience than typical form creation. Normally, i would use html elements and attributes to add buttons, and then add javascript to do any event handling or maybe make a form submit/link control. 
+Hey, things are starting to look like a normal app. I added some cool stuff such as the star images and transofring them into buttons. I added accessbility logic so blind & visually impaired can navigate the page. 
 
-The thing I like about swifts/xcodes way of creating custom controls is the separation of logic. I am able to tightly control the customizations for a specific area of the mobile app and keep everything nicely organized in a file. In this case, I am able to dynamically create the buttons, assign properties, and add event handler method that will asyncronously update the form behind the scenes. 
+Writing the code is an experience in itself because I could use a separate file to build all the view objects. Finally, I used `IBOutlet` to trigger the click event method when a user goes to rate their meal. All and all, it is looking fairly gangster at this point. 
 
-![star images]({{ '/assets/ios/july/starImages.png' }})
+![star images]({{ '/assets/ios/july/early_version.png' }})
