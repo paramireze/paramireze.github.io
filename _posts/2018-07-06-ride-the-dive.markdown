@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ride the Dive"
-date: 2018-06-21 21:00:01 -0600
+date: 2018-07-07 21:00:01 -0600
 categories: Adventuring 
 ---
 
@@ -13,3 +13,9 @@ Last years ride was the first time the event took place. It was hosted by both S
 This years start took place at working draft brewery. There was a walking pub crawl
 
 ![working draft]({{ '/assets/images/july/workingDraft.jpg' }})
+
+My friend `Mr. OTC` recently won a home brewing contest and had his beer on tap at `Working Draft` called `Basement Warfare`. It is a chocolate stout.
+
+![basement warfare]({{ '/assets/images/july/charles.jpg' }})
+
+
