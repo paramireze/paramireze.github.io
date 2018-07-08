@@ -7,40 +7,32 @@ categories: Adventuring
 
 ![Stiffy]({{ '/assets/images/july/stiffy.jpg' }})
 
-This was the second year of `Ride the Dive` poker bike ride event. The format for this event is simple. You stop at 5 bars and get a playing card at each stop. Who ever has the best hand by the end of the night wins the monies. 
-
+Meet Stiffy, he is the coordinator in chief of the second annual `Ride the Dive - Poker Ride` pub crawl. `Ride the Dive` means we ride to dive bars for our biking pub crawl. `Poker ride` means you get a card at each bar and who ever has the best poker hand at the 5th bar wins! 10$ buy in and winner take all.  
 
 ## working draft
 ![working draft]({{ '/assets/images/july/workingDraft.jpg' }})
 
-This years start took place at working draft brewery. The place just opened and has a great interior. The brewery is conveniently located right near `Central Park`.  
-
-My friend `Mr. OTC` recently won a home brewing contest and had his beer on tap at `Working Draft` called `Basement Warfare`. It is a chocolate stout. 
+The start took place at the home of the newest Madison brewery `Working Draft`. They specialize in IPA's and located at the heart of the east side of Madison, near `Central Park`. My good friend `OTC` had his beer on tap called `Basement Warfare`.  
 
 ![basement warfare]({{ '/assets/images/july/tara.png' }})
 
 ## busse's
 ![busses]({{ '/assets/images/july/busses.jpg' }})
 
-`Busses` is a small bar located off of Sherman ave. It is a bit cramped in the front of the bar, however, we went to the back room where they had a pool table and dart board. The locals were complaining that the pool table was tilted to one corner and did not advise playing. It was fun watching `WC`, `MLA`, and `Jeff Daniels`play darts. They needed to get the exact score to win and `Jeff Daniels`  managed to hit a 8 to win the game. It was a crazy good throw.
+We rode north east to `Busse's bar`. The bar looks as if it was built in someone's house and turned into a bar. We hung out in the backroom and played pool and darts. `Jeff Daniel` had a game winning dart throw by landing an 8, which was quite impressive given the skill level among our group. 
 
 ## sundown
-I then drew a jack and we were off again. We rode east to `Sundown Saloon`. The place was spacious and I particularly liked the bar area itself with the mirror that gave the illusion of being half the size. 
-
 ![sundown]({{ '/assets/images/july/sundown.png' }})
 
-I drew an Ace and we were off again, headed south this time. We went across cottage groove and buckeye rd, and stopped at 
-
-We stopped by `Nutfarmers` household to do an imprumptu beer check, however, he was closing shop for the night so we continued on our merry. At this time, there were about 7 cyclist left. 
+Next stop was `Sundown Saloon`. This is a bar I had not been to before. The place was much bigger than `Busses` and I enjoyed having room to sit and talk comfortably. More darts were played and beer was drank. I think My poker cards were crap and didn't much pay attention to what was going on far as the poker aspect. 
 
 ## snicks
-our forth stop took place at `Snicks sports pub`. I ordered some hopolicious and played ping pong with `MLA`, `WC`, and `Porkins`. We were pretty good and fun had 
-
 ![snicks]({{ '/assets/images/july/snicks.png' }})
 
+Is another bar I had not been to before and had the most fun here playing ping pong. The alcohol was noticeably kicking in at this point as our energy levels were going strong. 
+ 
 ## baldwin
-Our ride leader coordinated with the pub crawl coordinater and both groups met at baldwin street and grille for the final stop. I then lost miserably in the poker game and concluded the night there
-
 ![baldwin]({{ '/assets/images/july/baldwin.png' }})
 
+Final stop was at baldwin. We met up with another group of pub crawlers. I got to meet the newly married Trapper and his wife Rachael. Twas a good night
 
