@@ -22,5 +22,19 @@ Our plan now is to do the `Big Potato` 80 mile gravel ride event at `Rebecca's P
 Copy pasta from Rebecca's website 
 
 {% highlight ruby %}
-Rebecca Rusch is the “queen of pain” with a heart of gold. As a professional athlete for more than three decades, the seven-time world champion has continually tested her own limits. Rebecca has redefined the team dynamics of adventure racing, has achieved a first female ascent rock climbing El Capitan in Yosemite, river boarded down the Grand Canyon, pedaled through the night on an epic adventure across Italy, ridden to the summit of Africa’s legendary Mt. Kilimanjaro, and taught clinics and camps in her #JoinTheRusch effort to introduce more women to her sport. Rebecca is also the bestselling author of Rusch to Glory, event producer for Rebecca’s Private Idaho, a motivational speaker, a firefighter, and a cycling advocate. She has raised more than $100,000 for bike-related charities through her adventures and events. This summer, a Red Bull Media House feature film called Blood Road documented her personal journey along the 1,200-mile Ho Chi Minh Trail in search of her father. Click here to learn more about Rebecca and her efforts on behalf of Mines Advisory Group. American Consequences  |  79Every sport I've competed in honed the skills that were needed on this ride.""felt a lightness, happiness, and stillness that I’ve never felt while riding my bike. I was still moving the pedals like before, but I was free. I was no longer looking for something. I was completely at peace in the moment without having to strive for the next accomplishment. Looking for my father at the crash site was really about finding out and understanding who I am and what is important to me.As I finished my trip, the biggest, most shocking discovery was how much of our debris and unexploded ordnance is still there. Riding and looking at bomb craters along the trail and then finding out that villagers are still being killed every year was devastating. The war ended 42 years ago, but it is still killing people. As I spent more time with those villagers, I felt shameful for what happened there, and decided that I had to do something to help heal the scars of the war. Since returning, I have begun working with and fundraising for the Mines Advisory Group, a non-governmental organization that is working to clear landmines and unexploded ordnance from Laos and other countries. My inheritance and the biggest gift I received from Dad while riding the Ho Chi Minh Trail was to learn that I could use my bike for a bigger purpose than just winning races. 
+Rebecca Rusch is the “queen of pain” with a heart of gold. 
+As a professional athlete for more than three decades, the seven-time world 
+champion has continually tested her own limits. Rebecca has redefined the 
+team dynamics of adventure racing, has achieved a first female ascent rock climbing 
+El Capitan in Yosemite, river boarded down the Grand Canyon, pedaled through 
+the night on an epic adventure across Italy, ridden to the summit of Africa’s legendary 
+Mt. Kilimanjaro, and taught clinics and camps in her #JoinTheRusch effort to introduce 
+more women to her sport. Rebecca is also the bestselling author of Rusch to 
+Glory, event producer for Rebecca’s Private Idaho, a motivational speaker, 
+a firefighter, and a cycling advocate. She has raised more than 
+$100,000 for bike-related charities through her adventures and events. This summer, 
+a Red Bull Media House feature film called Blood Road documented her personal journey along 
+the 1,200-mile Ho Chi Minh Trail in search of her father. Click here to learn more about Rebecca 
+and her efforts on behalf of Mines Advisory Group. American Consequences  
+
 {% endhighlight %}
