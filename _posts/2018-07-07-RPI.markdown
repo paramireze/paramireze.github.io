@@ -15,6 +15,9 @@ Our plan now is to do the `Big Potato` 80 mile gravel ride event at `Rebecca's P
 
 ![Big Potato]({{ '/assets/images/2018/rpi/ride.jpg' }})
 
+![Map]({{ '/assets/images/2018/rpi/big_potato.png' }})
+
+![elevation]({{ '/assets/images/2018/rpi/elevation.png' }})
 ## meet crazy cyclist person `Rebecca Rusch` 
 
 ![Rebecca]({{ '/assets/images/2018/rpi/start.jpeg' }})
