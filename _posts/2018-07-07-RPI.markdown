@@ -15,29 +15,18 @@ Our plan now is to do the `Big Potato` 80 mile gravel ride event at `Rebecca's P
 
 ![Big Potato]({{ '/assets/images/2018/rpi/ride.jpg' }})
 
+The `Big Potato` bike route is a 94 mile, gravel and paved roads route in Idaho's mountainous terrain. 
+
 ![Map]({{ '/assets/images/2018/rpi/big_potato.png' }})
 
 ![elevation]({{ '/assets/images/2018/rpi/elevation.png' }})
-## meet crazy cyclist person `Rebecca Rusch` 
+
+## meet Rebecca
+
+She is a crazy person who does crazy expedition endurance events, primarily biking,however, she has done crazy kayaking and climbing expeditions as well. 
 
 ![Rebecca]({{ '/assets/images/2018/rpi/start.jpeg' }})
 
-Copy pasta from Rebecca's website 
+## Plans
 
-{% highlight ruby %}
-Rebecca Rusch is the “queen of pain” with a heart of gold. 
-As a professional athlete for more than three decades, the seven-time world 
-champion has continually tested her own limits. Rebecca has redefined the 
-team dynamics of adventure racing, has achieved a first female ascent rock climbing 
-El Capitan in Yosemite, river boarded down the Grand Canyon, pedaled through 
-the night on an epic adventure across Italy, ridden to the summit of Africa’s legendary 
-Mt. Kilimanjaro, and taught clinics and camps in her #JoinTheRusch effort to introduce 
-more women to her sport. Rebecca is also the bestselling author of Rusch to 
-Glory, event producer for Rebecca’s Private Idaho, a motivational speaker, 
-a firefighter, and a cycling advocate. She has raised more than 
-$100,000 for bike-related charities through her adventures and events. This summer, 
-a Red Bull Media House feature film called Blood Road documented her personal journey along 
-the 1,200-mile Ho Chi Minh Trail in search of her father. Click here to learn more about Rebecca 
-and her efforts on behalf of Mines Advisory Group. American Consequences  
-
-{% endhighlight %}
+This will be my first time in both `SLC` and in `Idaho`. 

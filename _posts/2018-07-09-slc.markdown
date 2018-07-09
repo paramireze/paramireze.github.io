@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Salt Lake City"
+date: 2018-07-09 08:00:00 -0500
+categories: Adventuring 
+---
+
+![slc]({{ '/assets/images/2018/slc/city.jpg' }})
+
+
