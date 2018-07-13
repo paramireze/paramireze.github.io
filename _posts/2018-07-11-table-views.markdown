@@ -9,7 +9,8 @@ categories: iOS Development
 
 ![show food reviews]({{ '/assets/ios/july/show_food_reviews.png' }})
 
-I am able to display three reviews using objects I created in my `MealTableViewController.swift`. I created three `Meal` objects using the initializer to set the default hard-coded properties that you see in the screenshot. 
+The screenshot shows data that I created by initializing three `meal` objects using static, hard-coded property values. 
+
 
 {% highlight ruby %} 
 
