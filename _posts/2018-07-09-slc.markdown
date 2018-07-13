@@ -7,4 +7,6 @@ categories: Adventuring
 
 ![slc]({{ '/assets/images/2018/slc/city.jpg' }})
 
+![slc]({{ '/assets/images/2018/slc/clouds.jpg' }})
+
 

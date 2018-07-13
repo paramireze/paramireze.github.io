@@ -13,3 +13,7 @@ This books aims to help the reader take control of creating change in their live
 
 Meditation can be a tool for identifying how we feel vs how we think. Feeling is for the body while thinking is for the brain. Meditation can help guide us to communicate thoughts to feelings and feelings to thoughts for a common goal such as happiness. Once we are able to communicate thoughts and feelings, you can establish a baseline for your emotions that is independant from the immediate environment. Ultimately, you will change your reality far as who you are as a person. Our brains have shown that new neuro pathways are created all the time. 
 
+## key concepts
+
+# The quantum self
+One of the points that `Joe` spends a chapter talking about is the `quantum self`. It has to do with how our observations interact with the world around us. He believes, if we train ourselves 
