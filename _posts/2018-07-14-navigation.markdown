@@ -18,6 +18,12 @@ Once we implement the `Navigation Controller`, a top portion of each view contro
 
 ![navigation title and add link]({{ '/assets/ios/july/nav_title_and_add_link.png' }})
 
+
+## Add the Segue
+so easy to do.
+
+![Add the Segue]({{ '/assets/ios/july/IN_addbutton_drag_2x.png' }})
+
 ## Final Result
 Hey we did it!
 
