@@ -16,6 +16,6 @@ The `Navigation Controller` becomes a container for the `Root View Controller` a
 ## Custumizing the Nav Bar
 Once we implement the `Navigation Controller`, a top portion of each view controller will be reserved for navigation controls. We are able to set the navigation title property for each view controller so each scene has a unique title. I think add a `+` link so users are able to navigate to the create meal controller
 
-![navigation title and add link]({{ 'nav_title_and_add_link.png' }})
+![navigation title and add link]({{ '/assets/ios/july/nav_title_and_add_link.png' }})
 
 
