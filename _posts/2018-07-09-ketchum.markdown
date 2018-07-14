@@ -7,3 +7,4 @@ categories: Adventuring
 
 ![ketchum]({{ '/assets/images/2018/ketchum/ketchum.jpg' }})
 
+![snowy ketchum]({{ '/assets/images/2018/ketchum/snow.jpg' }})
