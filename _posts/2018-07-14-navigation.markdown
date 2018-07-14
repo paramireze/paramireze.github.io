@@ -18,4 +18,8 @@ Once we implement the `Navigation Controller`, a top portion of each view contro
 
 ![navigation title and add link]({{ '/assets/ios/july/nav_title_and_add_link.png' }})
 
+## Final Result
+Hey we did it!
+
+![We Did it!]({{ '/assets/ios/july/app_with_nav_bar.png' }})
 
