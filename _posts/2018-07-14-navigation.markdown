@@ -5,7 +5,7 @@ date: 2018-07-14 09:00:00 -0500
 categories: iOS Development 
 ---
 
-adding navigation is done through the `navigation stack` using `navigation controllers`. We use `Segues` to communicate between each `navigation controller`. 
+This is my second iOS tutorial and now an expert ;). The general workflow seems to be create two view controllers. Get them fully operational far as UI layout and buttons clicks. Set up a data model and initialize data. Then you add Navigation. This makes a lot of sense and is a good workflow in general far as MVC style goes. 
 
 # Adding `Navigation Controller` the XCode way
 The `Navigation Controller` becomes a container for the `Root View Controller` aka the `Meal Table View Controller`. 
