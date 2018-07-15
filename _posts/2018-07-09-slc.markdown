@@ -30,7 +30,7 @@ Homeless project started in SLC. It provides assistance to homeless with housing
 # Wasatch Front 
 ![Wasatch image]({{ '/assets/images/2018/slc/wasatch.jpg' }})
 
-Chain of cities along the wasatch range 
+Chain of cities along the wasatch range. Pretty much means any urbanized area in SLC. 
 
 # Random Photos
 
