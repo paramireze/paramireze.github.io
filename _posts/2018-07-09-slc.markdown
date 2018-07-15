@@ -13,7 +13,6 @@ categories: Adventuring
 20k seated theater in west valley city. The theater is located in `West Valley City` where crime is a bit higher and housing costs are somewhat lower.
 
 
-![slc]({{ '/assets/images/2018/slc/clouds.jpg' }})
 
 # Mirror Lake 
 ![Mirror Lake]({{ '/assets/images/2018/slc/mirror-lake-panorama.jpg' }})
@@ -23,3 +22,18 @@ Mirror Lake evergreens are dying from a `Bark/Pine Beetle` Infestation. Several 
 ![piano]({{ '/assets/images/2018/slc/piano.jpg' }})
 
 a project for letting people to play piano.
+
+# The Road Home 
+![Road Home]({{ '/assets/images/2018/slc/road-home.jpg' }})
+Homeless project started in SLC. It provides assistance to homeless with housing, food, computers. 
+
+# Wasatch Front 
+![Wasatch image]({{ '/assets/images/2018/slc/wasatch.jpg' }})
+
+Chain of cities along the wasatch range 
+
+# Random Photos
+
+![slc]({{ '/assets/images/2018/slc/clouds.jpg' }})
+
+![slc]({{ '/assets/images/2018/slc/sunset.jpg' }})
