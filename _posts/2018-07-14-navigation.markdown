@@ -24,6 +24,9 @@ so easy to do.
 
 ![Add the Segue]({{ '/assets/ios/july/IN_addbutton_drag_2x.png' }})
 
+## Unwind a Segue
+I will be a `unwind segue` to return the meal object after the user has either saved or cancelled a new meal review. Segues use the `prepare(for:sender:)` method for custom logic to be executed before the segue is executed 
+
 ## Final Result
 Hey we did it!
 
