@@ -7,10 +7,16 @@ categories: iOS Development
 
 ![Segue]({{ '/assets/ios/july/segue.jpeg' }})
 
-TIL `segue` is to transition and `segway` is a product. Anyways, I am now at the point that I have two fully operational `View Controllers`. The next step to build the Meal Tracker app is to add a `Navigation Controller`. Navigation controllers provides the navigation controls for each scene. It will also manage a `View Controller` hierarchy.
+TIL that `segue` is "to transition" and `segway` is a name of the product. Anyways, I am now at the point where I have two fully operational `View Controllers`. 
+The next step to build the Meal Tracker app is to add a `Navigation Controller`. 
+Navigation controllers provides the navigation controls for each scene. 
+It will also manage a `View Controller` hierarchy.
 
 # View Controllers
-a `View Controller` is a view that handle navigation controls for a page. View controllers are organized in the Navigation Controllers `Navigation Stack`. The  navigation stack is how the various scenes are organized when someone uses the navigation controls. Developers can then use `segues` to manage adding or removing view controllers from the stack. 
+a `View Controller` is a view that handle navigation controls for a page. 
+View controllers are organized in the Navigation Controllers `Navigation Stack`. 
+The  navigation stack is how the various scenes are organized when someone uses the navigation controls. 
+Developers can then use `segues` to manage adding or removing view controllers from the stack. 
 
 
 ![View Controllers]({{ '/assets/ios/july/nav_diagram.png' }})
