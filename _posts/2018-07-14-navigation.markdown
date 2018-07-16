@@ -5,7 +5,7 @@ date: 2018-07-14 09:00:00 -0500
 categories: iOS Development 
 ---
 
-![Segue]({{ '/assets/ios/july/segues.jpeg' }})
+![Segue]({{ '/assets/ios/july/segue.jpeg' }})
 
 This is my second iOS tutorial and now an expert ;). The general workflow seems to be create two view controllers. Get them fully operational far as UI layout and buttons clicks. Set up a data model and initialize data. Then you add Navigation. This makes a lot of sense and is a good workflow in general far as MVC style goes. 
 
