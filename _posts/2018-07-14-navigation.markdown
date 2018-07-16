@@ -13,7 +13,7 @@ TIL `segue` is to transition and `segway` is a product. Anyways, I am now at the
 a `View Controller` is a view that handle navigation controls for a page. View controllers are organized in the Navigation Controllers `Navigation Stack`. The  navigation stack is how the various scenes are organized when someone uses the navigation controls. Developers can then use `segues` to manage adding or removing view controllers from the stack. 
 
 
-![View Controllers]({{ '/assets/ios/july/segue.jpeg' }})
+![View Controllers]({{ '/assets/ios/july/nav_diagram.png' }})
 
 # Adding `Navigation Controller` the XCode way
 The `Navigation Controller` becomes a container for the `Root View Controller` aka the `Meal Table View Controller`. 
