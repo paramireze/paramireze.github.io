@@ -7,6 +7,8 @@ categories: Adventuring
 
 ![slc]({{ '/assets/images/2018/slc/city.jpg' }})
 
-![slc]({{ '/assets/images/2018/slc/clouds.jpg' }})
+![skyline]({{ '/assets/images/2018/slc/clouds.jpg' }})
+
+![silver lake]({{ '/assets/images/2018/slc/silver.jpg' }})
 
 
