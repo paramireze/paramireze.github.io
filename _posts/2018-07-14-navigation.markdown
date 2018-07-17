@@ -8,16 +8,14 @@ categories: iOS Development
 ![Segue]({{ '/assets/ios/july/segue.jpeg' }})
 
 TIL that `segue` is "to transition" and `segway` is a name of the product. Anyways, I am now at the point where I have two fully operational `View Controllers`. 
-The next step to build the Meal Tracker app is to add a `Navigation Controller`. 
-Navigation controllers provides the navigation controls for each scene. 
-It will also manage a `View Controller` hierarchy.
+My next step will be to implement navigation using the `Navigation Controller`. 
+Navigation controller provides the controls at the top of each scene .
 
-# View Controllers
-a `View Controller` is a view that handle navigation controls for a page. 
-View controllers are organized in the Navigation Controllers `Navigation Stack`. 
-The  navigation stack is how the various scenes are organized when someone uses the navigation controls. 
-Developers can then use `segues` to manage adding or removing view controllers from the stack. 
+## The Navigation Stack
+Navigation controllers are used to manage view controllers in what is called a `Navigation Stack`. The navigation stack is essentially an array of view controllers that were added to the stack. When the user hits the back button, the view controller is removed from that array.
 
+## Modal Segues vs Push Segue
+If a user taps a meal from the table view, the app will open a details page that allows the user to update information. To make that happen, we would have to pass the selected `Meal` information to the details page. For that reason, I will need to use a `Modal Segue` to open that view controller. Using a `Modal Segue` navigation will create a parent & child view controller relationship since the `details page` will always be closely tied to a selected item from the parent page.
 
 ![View Controllers]({{ '/assets/ios/july/nav_diagram.png' }})
 
