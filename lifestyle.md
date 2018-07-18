@@ -6,7 +6,7 @@ permalink: /lifestyle/
 
 <div class="home">
   
-  <img src='/assets/images/profile/lifestyle.jpg' >
+  <img src='/assets/images/profile/lifestyle.jpg' alt="me">
   <p>
   You are welcome to follow my journey to experience life through simplistic means.
   </p>
@@ -16,7 +16,7 @@ permalink: /lifestyle/
   {% if site.posts.size > 0 %}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {% for post in site.categories.lifestyle %}
+      {% for post in site.categories.Lifestyle %}
           {% if post.url %}
               <li>
                 {% assign date_format = site.minima.date_format | default: "%b %d, %Y" %}
