@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Life without a Car"
+title: "A Thug Life"
 date: 2018-07-16 17:50:00 -0500
 categories: Lifestyle
 ---
