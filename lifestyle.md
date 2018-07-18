@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Lifestyle
 permalink: /lifestyle/
 ---
@@ -8,7 +7,7 @@ permalink: /lifestyle/
   
   <img src='/assets/images/profile/lifestyle.jpg' alt="me">
   <p>
-  You are welcome to follow my journey to experience life through simplistic means
+  You are welcome to follow my journey to experience life through simplistic means.
   </p>
 
   {{ content }}
