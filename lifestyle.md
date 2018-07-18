@@ -5,12 +5,9 @@ permalink: /lifestyle/
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
   
   <p>
-  You are welcome to follow me on my journey to experience life through simplistic means.
+  You are welcome to follow my journey to experience life through simplistic means.
   </p>
 
   {{ content }}
@@ -18,7 +15,7 @@ permalink: /lifestyle/
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for post in site.categories.lifestyle -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
