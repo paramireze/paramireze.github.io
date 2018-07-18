@@ -30,7 +30,7 @@ permalink: /lifestyle/
                   {{ post.excerpt }}
                 {% endif %}
               </li>
-          {%= endif %}
+          {% endif %}
       {% endfor %}
     </ul>
 
