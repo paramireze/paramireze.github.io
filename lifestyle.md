@@ -6,6 +6,7 @@ permalink: /lifestyle/
 
 <div class="home">
   
+  ![me]({{ '/assets/images/profile/lifestyle.jpg' }})
   <p>
   You are welcome to follow my journey to experience life through simplistic means.
   </p>
