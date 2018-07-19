@@ -2,7 +2,7 @@
 layout: post
 title: "Ketchum Idaho"
 date: 2018-07-09 09:00:00 -0500
-categories: Adventuring 
+categories: Travel 
 ---
 
 

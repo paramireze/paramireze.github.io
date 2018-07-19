@@ -13,6 +13,7 @@ layout: default
     <ul class="post-list">
       {% for post in site.posts %}
         {% unless post.categories contains 'Lifestyle' %}
+        {% unless post.categories contains 'Adventuring' %}
           <li>
             {% assign date_format = site.minima.date_format | default: "%b %d, %Y" %}
             {{ post.categories | join: ' ' }}  <span class="post-meta"> - {{ post.date | date: date_format }}</span>
@@ -24,6 +25,7 @@ layout: default
             {{ post.excerpt }}
             <hr />
           </li>
+        {% endunless %}
         {% endunless %}
       {% endfor %}
     </ul>

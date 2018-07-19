@@ -2,7 +2,7 @@
 layout: post
 title: "Ride the Dive"
 date: 2018-07-07 21:00:01 -0600
-categories: Adventuring 
+categories: Travel 
 ---
 
 ![Stiffy]({{ '/assets/images/july/stiffy.jpg' }})
