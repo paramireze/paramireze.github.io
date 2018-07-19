@@ -2,14 +2,19 @@
 layout: default
 ---
 
+<!-- Just some nice to have styles for the pager buttons -->
+<style>
+  ul.pager { text-align: center; list-style: none; }
+  ul.pager li {display: inline;border: 1px solid black; padding: 10px; margin: 5px;}
+</style>
+
 <div class="home">
-  {%- if page.title -%}
+
     <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
 
-  {{ content }}
+    {{ content }}
 
-  {%- if paginator.posts.size > 0 -%}
+  {
     <ul class="post-list">
       {%- for post in paginator.posts -%}
       <li>
@@ -43,6 +48,5 @@ layout: default
       {% endif %}
     </ul>
     {% endif %}
-  {%- endif -%}
 
 </div>
