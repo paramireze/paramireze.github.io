@@ -8,7 +8,7 @@ permalink: /lifestyle/
   
 {%- if site.posts.size > 0 -%}
     <ul class="post-list">
-        {%- for post in site.categories.lifestyle -%}
+        {%- for post in site.categories.Lifestyle -%}
             <li>
                 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                 {{ post.categories | join: ' ' }}  <span class="post-meta"> - {{ post.date | date: date_format }}</span> 
