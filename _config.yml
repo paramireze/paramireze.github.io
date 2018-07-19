@@ -23,6 +23,7 @@ github_username:  "paramireze"
 # Build settings
 markdown: kramdown
 theme: minima
+paginate: 10
 plugins:
   - jekyll-feed
 

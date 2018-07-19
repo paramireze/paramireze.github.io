@@ -6,6 +6,9 @@ permalink: /lifestyle/
                 
 ![paul avatar]({{ "/assets/images/profile/lifestyle.JPG" }})
 
+Hi, this is where I talk about stuff
+
+
 {%- if site.posts.size > 0 -%}
     
 {%- for post in site.categories.Lifestyle -%}
@@ -25,4 +28,3 @@ permalink: /lifestyle/
     
 {%- endif -%}              
         
-Hi, this is whwere I talk about stuff
