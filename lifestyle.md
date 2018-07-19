@@ -9,11 +9,11 @@ permalink: /lifestyle/
 Hi, this is where I talk about stuff
 
 
-{%- if site.posts.size > 0 -%}
+{% if site.posts.size > 0 %}
     
-{%- for post in site.categories.Lifestyle -%}
+{% for post in site.categories.Lifestyle %}
             
-{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+{% assign date_format = site.minima.date_format | default: "%b %d, %Y" %}
 {{ post.categories | join: ' ' }}  <span class="post-meta"> - {{ post.date | date: date_format }}</span> 
                 
 <a class="post-link" href="{{ post.url | relative_url }}">
@@ -23,8 +23,8 @@ Hi, this is where I talk about stuff
 {{ post.excerpt }}
                 
             
-{%- endfor -%}
+{% endfor %}
     
     
-{%- endif -%}              
+{% endif %}              
         
