@@ -2,6 +2,7 @@
 layout: post
 title: "A Year in Review"
 date: 2018-07-15 09:00:00 -0500
+published: false
 categories: [Lifestyle, work]
 ---
 

@@ -2,11 +2,12 @@
 layout: page
 title: Lifestyle
 permalink: /lifestyle/
+order: 1
 ---
                 
-![paul avatar]({{ "/assets/images/profile/lifestyle.JPG" }})
 
-Hi, this is where I talk about stuff
+
+Hi, this is where I talk about some of my unusual approaches of navigating life.
 
 
 {% if site.posts.size > 0 %}

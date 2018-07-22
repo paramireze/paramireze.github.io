@@ -2,6 +2,7 @@
 layout: page
 title: Travel
 permalink: /travel/
+order: 2
 ---
                 
 Hi, this is where I talk about travel and adventuring
