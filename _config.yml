@@ -26,7 +26,6 @@ theme: minima
 paginate: 10
 plugins:
   - jekyll-feed
-  - jekyll-paginate-v2
 
 
 # Exclude from processing.

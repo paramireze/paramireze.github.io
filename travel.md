@@ -1,17 +1,14 @@
 ---
 layout: page
-title: Lifestyle
-permalink: /lifestyle/
+title: Travel
+permalink: /travel/
 ---
                 
-![paul avatar]({{ "/assets/images/profile/lifestyle.JPG" }})
-
-Hi, this is where I talk about stuff
-
+Hi, this is where I talk about travel and adventuring
 
 {% if site.posts.size > 0 %}
     
-{% for post in site.categories.Lifestyle %}
+{% for post in site.categories.Travel %}
             
 {% assign date_format = site.minima.date_format | default: "%b %d, %Y" %}
 {{ post.categories | join: ' ' }}  <span class="post-meta"> - {{ post.date | date: date_format }}</span> 
@@ -20,8 +17,7 @@ Hi, this is where I talk about stuff
 {{ post.title | escape }}
 </a>
                 
-{{ post.excerpt }}
-                
+{{ post.excerpt }}              
             
 {% endfor %}
     

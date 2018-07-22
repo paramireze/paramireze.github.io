@@ -19,7 +19,7 @@ For this post, I will be going over each major project I worked on for the last 
 I am a software developer for the Department of Radiology at the School of Medicine and Public Health. My job description requires that I spent up to 70% of my time working on software development. 
 
 ## Exam Q&A
-Radiologists are like mushrooms. They are kept in the dark and fed shit ;). Sorry, I had to quote one of my favorite movies. I blame the Infectious Groove beer I am drinking. When a radiologist is looking at an image, they can optionally leave feedback about the qualityof the image they are looking at. There are times when a technologist will do a good or bad job of scanning body parts and the Exam QA allows Radiologists to communicate their feedback as to their scan quality. 
+There are times when a technologist will do a good or bad job of scanning body parts and the Exam QA allows Radiologists to communicate their feedback as to their scan quality. 
 
 The `Exam QA` itself is a crud application that takes parameters being passed in from the `Picture Archiving Communication System (PACS)`. 
 
@@ -41,9 +41,28 @@ Move existing database driven php website to wordpress
 
 ## Hiring 
 `March 2018 - Current`
+We have been hiring since January and have yet to fill in two developer positions
 
 ## FAF Reports
 `Jan 2018 - Feb 2018`
 
 ## FAF Recategorization
-`April 2018 - July 2018`
+`Feb 2018 - April 2018`
+
+## FAF built in Direct Salary Support calculation
+`April 2018`
+
+## Tollbooth
+`May 2018 - Current`
+Rebuilding the Resident Worklist app using Philips development environment. 
+
+## SIIM Conference - Hackathon Project
+`June 2018`
+
+## Performance Review Redesign
+`July 2018 - `
+## Daily Work
+- new hires and terminations
+- emails and web requests
+- access to peer evaluations, performance review, and faf
+- 
