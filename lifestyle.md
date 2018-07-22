@@ -7,7 +7,7 @@ order: 1
                 
 
 
-Hi, this is where I talk about some of my unusual approaches of navigating life.
+Hi, this is where I talk about some of my unusual approaches to navigating life.
 
 
 {% if site.posts.size > 0 %}
