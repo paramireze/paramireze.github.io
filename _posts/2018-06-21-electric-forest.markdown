@@ -2,7 +2,7 @@
 layout: post
 title: "An Electrifying Experience"
 date: 2018-06-21 21:00:01 -0600
-categories: music
+categories: [Travel, music]
 ---
 
 ![Bassnectar]({{ '/assets/images/music/electric_forect/bassnectar.jpg' }})

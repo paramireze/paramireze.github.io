@@ -2,7 +2,7 @@
 layout: post
 title: "Electronic Dance Music 101"
 date: 2018-06-20 14:50:01 -0600
-categories: music
+categories: [Travel, music]
 ---
 
 When it comes to Electronic Dance Music (EDM), there are a few things you should know

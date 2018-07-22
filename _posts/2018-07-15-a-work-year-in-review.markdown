@@ -2,7 +2,7 @@
 layout: post
 title: "A Year in Review"
 date: 2018-07-15 09:00:00 -0500
-categories: work 
+categories: [Lifestyle, work]
 ---
 
 ![Ned]({{ '/assets/images/2018/july/evaluation-meme.jpg' }})
