@@ -10,11 +10,16 @@ To created this intended behavior, I will need to pass the meal object through t
 
 
 ## Create Segue for Showing Details
+I created a segue using control drag from the `MealTableViewCell` to `MealViewController`.
+I then updated the segue's identity attribute so I can identify it within code.
 ![create segue]({{ '/assets/ios/july/create_segue.png' }})
 
 
 ![create segue continued]({{ '/assets/ios/july/create_segue_options.png' }})
 
-## Pass the Meal data using the Segue's `prepare` and `viewDidLoad` methods
+## Pass the Meal Data
+Pass the meal object through the seque using the Segue's `prepare` method.
+Then use the MealViewController's `viewDidLoad` method to check and retrieve the meal object.
+
 ![diagram]({{ '/assets/ios/july/showDetailSegue.png' }})
 
