@@ -1,29 +1,32 @@
 ---
 layout: post
 title: "Exercising with a Cinder Block"
-date: 2018-07-16 17:50:00 -0500
+date: 2018-07-22 17:50:00 -0500
 categories: Lifestyle
 ---
 
 ![Fitness Path]({{ '/assets/images/2018/july/fitness_path.jpg' }})
-For today's excercise, I biked down University of Wisconsin's lakeshore path along what is called `Fitness Path`.
+
+I did not have access to my gym today so made up my workout. I usually like to do two workouts a day for 20 - 40 minutes each time.
+
+For my morning workout today, I biked down University of Wisconsin's lakeshore path.
 The route has various fitness equipment for pullups, situps, dip bars, and other equipment.
 
 ## Pull-ups & Dips
 ![Pullups]({{ '/assets/images/2018/july/pullups.png' }})
 
-I used this station to do four sets of pullups and dips. I also did crunches in between sets.
-
+I used this station to do four sets of pullups and dips. When doing pull-ups, I like to do slow movements and hold myself in position when reaching the top of the pullup. I also added crunches in between sets.
 
 ## Cinder Block Overhead Lunges
 ![Overhead Lunge]({{' /assets/images/2018/july/overhead_lunge.png' }})
 
-Across from the pullup/dip station is the UW Marching band field. It was there I would do weighted overhead lunges using a cindor block I found nearby. I would lunge for 20 yards for four sets.
+Across from the pullup/dip station, I found a 20-30lb cinder block located by the UW Marching band practice field. I did weighted overhead lunges with the cinder block. I did 20 yards for each set.
 
-## Hay bale toss exercise
-I just made up the name `hay bale toss exercise` and sure there is an official name out there somewhere. Basically, I like to pretend I am picking up a bale of hay from the ground and tossing it overhead (without releasing).
-Instead of a hay bale, I used the 20-30lb cinder block. I like this exercise because it combines a lot of movements into one. I try to drive with my legs and hips and brace the core as much as possible.
+## Overhead Lift
+![Overhead Lift]({{ '/assets/images/2018/july/overhead.jpeg' }})
+
+This image isn't quite right but it was the closest one I could find to the workout I did. I would set the cinder block on the ground and grip it like I am about to do a deadlift. I would then lift and thrust the weight overhead making sure to to drive with my legs and hips while bracing the core as much as possible.
 
 ## Burpees & Run
-I finished my workout with burpees and sprints. I did four sets of ten burpees and a lap around the marching band field between each set.
+I finished my workout with burpees and run. I did four sets of ten burpees and a lap around the marching band field between each set.
 
