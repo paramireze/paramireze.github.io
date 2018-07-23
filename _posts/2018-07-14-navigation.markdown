@@ -7,7 +7,7 @@ categories: iOS Development
 
 ![Segue]({{ '/assets/ios/july/segue.jpeg' }})
 
-When I first heard about `Segue's` in iOS, I immediately thought of `segways` and thought they decided to spell it differently.
+When I first heard about `Segue's` in iOS, I immediately thought of `segways`. My brother and I scratched our heads over this and eventually figured out that
 My brother also thought it was weird the spelling difference and I eventually google searched the word.
 `Segue` is "to transition" and `segway` is a name of the product.
 Thanks Bryan for making me aware of the unusualness of the spelling that lead up to my search.
