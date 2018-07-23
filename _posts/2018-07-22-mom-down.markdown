@@ -1,0 +1,33 @@
+---
+layout: post
+title: "A Mother in Despair"
+date: 2018-07-22 20:00:00 -0500
+published: false
+categories: Personal
+---
+
+My mom has `Cerebral Amyloid Angiopathy`.
+It is a condition in which a protein will clump together and form fibrils.
+The MRI showed `Amyloids` buildup in the back of her brain.
+As a result, she has swelling and severe migraines.
+
+![Amyloid]({{ '/assets/images/2018/july/amyloid.png' }})
+
+
+The attending [Michael Ward]({{ 'https://www.uwhealth.org/findadoctor/profile/michael-a-ward-md/10570' }}) updated me on her condition.
+
+## A Personal Reflection
+
+![Faith Living Center]({{ '/assets/images/2018/july/faith.jpg' }})
+
+when I first found out my mom was in the hospital, I was frustrated that I would be giving up my evening.
+I thought how I can not leave her for one minute without her getting ill.
+As i sit here now, the next morning after those thoughts make no since to me.
+I spent the night here and she would wake up crying from her intense migraines.
+
+
+
+## A Shout Out
+I woke up to my mom crying for help. She had a migraine and her pain medication was wearing off.
+`Roxy` the nurse assistant came in and comforted her. She hugged her and told her she will be okay.
+SHe got her medication and tucked her into bed. Thank you Roxy.
