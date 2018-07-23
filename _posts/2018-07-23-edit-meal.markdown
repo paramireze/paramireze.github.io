@@ -8,9 +8,13 @@ categories: iOS Development
 When a use taps on an existing meal item, a details page opens.
 To created this intended behavior, I will need to pass the meal object through the ShowDetails segue
 
+
+## Create Segue for Showing Details
 ![create segue]({{ '/assets/ios/july/create_segue.png' }})
+
 
 ![create segue continued]({{ '/assets/ios/july/create_segue_options.png' }})
 
+## Pass the Meal data using the Segue's `prepare` and `viewDidLoad` methods
 ![diagram]({{ '/assets/ios/july/showDetailSegue.png' }})
 
