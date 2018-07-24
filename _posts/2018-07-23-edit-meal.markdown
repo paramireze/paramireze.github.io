@@ -1,25 +1,26 @@
 ---
 layout: post
-title: "Passing Data using Segue"
+title: "Adding an Edit Page"
 date: 2018-07-22 10:00:00 -0500
 categories: iOS Development
 ---
 
-When a use taps on an existing meal item, a details page opens.
-To created this intended behavior, I will need to pass the meal object through the ShowDetails segue
+The next step to making a fully functional crud app is adding edit functionality to the.
+I will need to allow the user to open an edit/details page when a specific review is tapped.
 
+![segue]({{ '/assets/ios/july/create_segue.png' }})
 
-## Create Segue for Showing Details
-I created a segue using control drag from the `MealTableViewCell` to `MealViewController`.
-I then updated the segue's identity attribute so I can identify it within code.
-![create segue]({{ '/assets/ios/july/create_segue.png' }})
+# step 1: - add the `Show Detail` segue
+In XCode, this is done using control - drag from the `MealTableViewCell` -> `NewMeal` view controller scene
 
+# step 2: - pass meal thru segue
+in the `MealTableViewController`.`Prepare()` method, add conditional logic that checks which segue is clicked using
+ `segue.identifier` property. If a review was selected, then pass that data into the segue
 
-![create segue continued]({{ '/assets/ios/july/create_segue_options.png' }})
+# step 3: - populate edit form
+In `MealViewController`, you can check if a meal object was passed from the segue.
+If one was, assign the meal properties to the form fields on the edit page.
 
-## Pass the Meal Data
-Pass the meal object through the seque using the Segue's `prepare` method.
-Then use the MealViewController's `viewDidLoad` method to check and retrieve the meal object.
-
-![diagram]({{ '/assets/ios/july/showDetailSegue.png' }})
-
+# step 4: - redirect and update the review
+Once the user saves their edits, a meal object will be passed back to the `unwindToMealList` method in `MealTableViewController`.
+I then update the meal object and reload that row.

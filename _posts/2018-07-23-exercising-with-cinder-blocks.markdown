@@ -7,9 +7,9 @@ categories: Lifestyle
 
 ![Fitness Path]({{ '/assets/images/2018/july/fitness_path.jpg' }})
 
-I did not have access to my gym today so made up my workout. I usually like to do two workouts a day for 20 - 40 minutes each time.
-
-For my morning workout today, I biked down University of Wisconsin's lakeshore path.
+I did not have access to my gym today so I improvised.
+I was visiting someone at UW Hospital and wanted to get a quick workout in.
+I biked to lakeshore path.
 The route has various fitness equipment for pullups, situps, dip bars, and other equipment.
 
 ## Pull-ups & Dips
