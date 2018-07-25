@@ -20,5 +20,5 @@ john!.apartment = unit4A
 unit4A!.tenant = john
 {% endhighlight %}
 
-![strong and weak connection]({{ '/assets/images/strong_weak_references.png' }})
+![strong and weak connection]({{ 'assets/images/2018/jan/strong_weak_references.png' }})
 

@@ -4,7 +4,7 @@ title: "SIIM Keynote Speaker e-Patient Dave"
 date: 2018-05-31 07:30:50 -0500
 categories: SIIM 
 ---
-![E-Patient Dave]({{ "/assets/images/SIIM-OG-image.jpg" }})
+![E-Patient Dave]({{ "assets/images/2018/jan/SIIM-OG-image.jpg" }})
 
 e-Patient Dave is a cancer survivor from 2006. Hey had stage 4 Kidney cancer and was able to beat it using a dangerous drug that could have killed him. e-Patient Dave relied on a network of other cancer victims over the internet to research and discover the dangerous but effective treatment. 
 

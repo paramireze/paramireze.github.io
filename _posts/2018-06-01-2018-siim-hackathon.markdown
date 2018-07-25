@@ -12,7 +12,7 @@ In today's medical world, each medical organization has unique ways of tracking 
 
 ## dashboard created using data pulled from `FHIR` server
 
-![Dashboard]({{ "/assets/images/func.png" }}) 
+![Dashboard]({{ "/assets/images/2018/jan/func.png" }}) 
 
 ## Why `FHIR`
 In the IT Software world, FHIR is a way to standardize data so that there are a set of rules for how data is stored and labeled. If the healthcare organizations decide to follow the FHIR standard, then those systems would be able to communicate with one another. 

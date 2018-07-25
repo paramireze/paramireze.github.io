@@ -40,21 +40,21 @@ The bayshore boulevard is 4.5 miles long with reportedly great views
 ## South Howard
 
 ## Rick Scott
-![Rick Scott]({{ "/assets/images/Rick_Scott.jpg" }})
+![Rick Scott]({{ "/assets/images/2018/jan/Rick_Scott.jpg" }})
 Florida's version of Scott Walker
 
-![Brackish Waters]({{ "/assets/images/water_salinity_diagram.png" }})
+![Brackish Waters]({{ "assets/images/2018/jan/water_salinity_diagram.png" }})
 Salt water is measured in Parts Per Thousand
 
-![Skyway Bridge]({{ "/assets/images/skyway_bridge.jpg" }})
+![Skyway Bridge]({{ "assets/images/2018/jan/skyway_bridge.jpg" }})
 Known as `The Skyway` to locals. Interesting facts
 - renamed to Bob Graham (former governer) in 2005
 
 
-![Causeway Bridge]({{ "/assets/images/old_causeway.jpg" }})
+![Causeway Bridge]({{ "/assets/images/2018/jan/old_causeway.jpg" }})
 The causeway is the northern most bridge across the old tampa bay. It connects tampa with Clearwater.
 
-![Good ole Bob Graham]({{ "/assets/images/good_ole_bob_graham.jpg" }})
+![Good ole Bob Graham]({{ "/assets/images/2018/jan/good_ole_bob_graham.jpg" }})
 Bob Graham is the former governor of Florida from 1979 to 1987. He made considerable contributions to education and preserving natural wildlife. After being governor, his most notable contributions to florida was his role in the BP spill clean up effort as co-chair. He is an author of three books all nonfiction political related. 
 
 
