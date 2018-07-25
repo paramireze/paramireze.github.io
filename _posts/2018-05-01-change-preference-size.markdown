@@ -38,18 +38,18 @@ The documentation doesn't say much else and I am not able to see what the prefer
 In this exercise, we made an editable text box using `EditTextPreference`. It will display an edit box to the user and whatever value they enter will be stored in `SharedPreference`. 
 
 # Edit Text Preference Screenshot
-![Screenshot]({{ "/assets/edit_text_screenshot.png" }})
+![Screenshot]({{ "/assets/images/2018/jan-june/edit_text_screenshot.png" }})
 
 I found a nifty diagram which is close to ones I made in the past. It shows how an activity can inject a fragment into an activity to create a more <jargony word> modularized </jargony word> UI panes
 
 
 # Preference Fragment Workflow Diagram
 
-![Fragment Workflow Diagram]({{ "/assets/android-fragments-activity.png" }})
+![Fragment Workflow Diagram]({{ "/assets/images/2018/jan-june/android-fragments-activity.png" }})
 
 The `onSharedPreferenceChanged` is a listener that will detect changes being made by the user. It will receive and update the activity with those settings. 
  
 # Shared Preferences API
-![Shared Preference Diagram]({{ "/assets/shared_preference_diagram.png" }})
+![Shared Preference Diagram]({{ "/assets/images/2018/jan-june/shared_preference_diagram.png" }})
 
 There are a lot of moving parts. I do see the value of having the `Preferences` API, however, it can be a bit of a black box. There is not a lot of documentation explaining how the various parts work. Perhaps I am just inexperienced and will figure it out someday. 

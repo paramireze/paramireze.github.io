@@ -8,7 +8,7 @@ categories: Android development
 
 To understand this lesson we need to make sure we understand how load managers work. `LoaderManager` has three methods `onCreateLoader()`, `onLoadFinished`, `onLoadReset()`. 
 
-![Loader, LoadManager and Activity Diagram]({{ "/assets/loader_diagram.png" }})
+![Loader, LoadManager and Activity Diagram]({{ "/assets/images/2018/jan-june/loader_diagram.png" }})
 
 This exericise is working with the loadManager to cache data in the `onLoadFinish()` 
 

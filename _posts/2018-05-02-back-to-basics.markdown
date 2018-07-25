@@ -25,7 +25,7 @@ I learned I can organize how menu items display using the item property `OrderIn
 
 {% endhighlight %}
 
-![Settings Image]({{ "/assets/06_sunshine_settings.png" }})
+![Settings Image]({{ "/assets/images/2018/jan-june/06_sunshine_settings.png" }})
 
 
 I learned that `FrameLayouts` are used to block out an area on the screen to display a single item. `FrameLayout` uses a single item so it is able to scale well when using difference size screens

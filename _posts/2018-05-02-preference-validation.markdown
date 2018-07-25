@@ -12,4 +12,4 @@ This diagram shows how the SettingsFragment assigns the listener to `TextEditPre
 
 
 
-![visualizer screen]({{ "/assets/validation_diagram.png" }})
+![visualizer screen]({{ "/assets/images/2018/jan-june/validation_diagram.png" }})

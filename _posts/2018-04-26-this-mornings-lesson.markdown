@@ -11,6 +11,6 @@ Hello world,
 
 Today, I got started setting up a settings activity so users are able to customize their experience. In this lesson Igot to create a menu, add a menu items, and attach a click handler to that button that will bring the user to the settings page. Easy peasy!
 
-![workflow diagram]( {{ "/assets/exercise6.1.png" }} )
+![workflow diagram]( {{ "/assets/images/2018/jan-june/exercise6.1.png" }} )
 
 Once the user clicks the settings button the user is brought to the settings activity. As of now that page is blank, however, we have the link functioning and an activity ready to do more cool stuff.

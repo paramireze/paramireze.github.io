@@ -9,6 +9,6 @@ categories: Android development
 
 In this exercise, we added a checkbox that allows users to turn the bass visualizer off as a preference setting. As you can see from the diagram, there is a lot going on when navigating through the applications. we added the `SettingsActivity` and the `SettingsFragment` to handle the logic for preference settings.
 
-![diagram for this exercise]({{"/assets/visualize_diagram_checkbox.png"}})
+![diagram for this exercise]({{"/assets/images/2018/jan-june/visualize_diagram_checkbox.png"}})
 
-![settings page]({{ "/assets/visualize_checkbox.png"}})
+![settings page]({{ "/assets/images/2018/jan-june/visualize_checkbox.png"}})

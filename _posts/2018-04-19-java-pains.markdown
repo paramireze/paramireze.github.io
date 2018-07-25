@@ -32,7 +32,7 @@ Anonymous inner classes are useful in writing implementation classes for listene
 
 {% endhighlight %} 
 
-![Anonymous Inner Class Diagram]({{ "/assets/inner_classes.jpg" }})
+![Anonymous Inner Class Diagram]({{ "/assets/images/2018/jan-june/inner_classes.jpg" }})
 
 
 

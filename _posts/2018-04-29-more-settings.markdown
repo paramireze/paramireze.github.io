@@ -13,7 +13,7 @@ My goal is to allow a user to modify the application using preference settings. 
 For the second point, this exercise teaches us to use `SharedPreferences` api to pass user selection to the main activity so it can update the application state using the new preference settings. The `SharedPreferences` api creates a file to store key->value pairs so it is available to other activities as well.
 
 
-![Workflow Diagram]({{ "/assets/exercise-06-05-diagram-2.png" }})
+![Workflow Diagram]({{ "/assets/images/2018/jan-june/exercise-06-05-diagram-2.png" }})
 
 We use the `PreferenceFragment`. It has defaults that work with the `SharedPreferences` api such as saving and loading list. 
 It is good practice to use `Fragments` when creating UI Panes such as user preferences. `Fragments` are a sub-activity that has its own lifecycles. This is especially useful when creating a modular application since the activity has no outside dependencies to run its logic. 
