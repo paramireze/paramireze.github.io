@@ -7,7 +7,7 @@ categories: iOS Development
 
 `Table Views` can be a bit overwelming when first using them. There is a lot of inherited methods from `UITableViewController`, `UITableViewDelegate`, and `UITableViewDataSource`. I think the best way to think of table views is the same way as any other custom control. Basically, you are dynamically generating the table, rows, cells and defining a view(s) that go in each cell. So, all the crazy amount of methods made available are there to help with generating those fields which explains why there are so many. 
 
-![show food reviews]({{ '/assets/ios/july/show_food_reviews.png' }})
+![show food reviews]({{ '/assets/images/2018/july/ios/show_food_reviews.png' }})
 
 The screenshot shows data that I created by initializing three `meal` objects using static, hard-coded property values. 
 

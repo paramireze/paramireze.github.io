@@ -16,7 +16,7 @@ Johny Ive is the senior vice president of technology and design for Apple. He is
 Some other notable of Johny's is his Apple Store design in New York City which is made of plexiglass and Durable Cable. Johny was heavily influenced by german industrial designer Dieter Rams who is known for less but better design philosophy. 
 
 super useful diagram
-![Leadership Diagram]({{ "/assets/ios/johny_ive.png" }}) 
+![Leadership Diagram]({{ "/assets/images/2018/may/johny_ive.png" }}) 
 
 ### Interface Builder
 

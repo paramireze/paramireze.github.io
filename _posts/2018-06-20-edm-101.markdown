@@ -13,7 +13,7 @@ According to wikipedia, `Trap is typified by double or triple-time sub-divided h
 Trap music originated from southern hip hop style that mixed with some dubstep. 
 # Time Signature
 
-![Time Signature]({{ '/assets/images/music/time_signature.png' }})
+![Time Signature]({{ '/assets/images/2018/may/musictime_signature.png' }})
 
 Top note tells us how many beats there are. Bottom note says what type of beat that is. the `4` stays the same, we are talking about quarter notes. the `2` means there are two beats of the quarter note. So `2/4` is half the beat of a	`4/4`.
 

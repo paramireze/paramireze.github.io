@@ -39,5 +39,5 @@ tableView(_:commit:forRowAt:)
 {% endhighlight %}
 
 
-![delete]({{ '/assets/ios/july/delete.png' }})
+![delete]({{ '/assets/images/2018/july/ios/delete.png' }})
 

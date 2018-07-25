@@ -8,7 +8,7 @@ categories: iOS Development
 The next step to making a fully functional crud app is adding edit functionality to the.
 I will need to allow the user to open an edit/details page when a specific review is tapped.
 
-![segue]({{ '/assets/ios/july/create_segue.png' }})
+![segue]({{ '/assets/images/2018/july/ios/create_segue.png' }})
 
 # step 1: - add the `Show Detail` segue
 In XCode, this is done using control - drag from the `MealTableViewCell` -> `NewMeal` view controller scene

@@ -8,7 +8,7 @@ categories: Ruby Rails development
 Philips Analytic Bridge provides a data and development platform which allow Health Care institutions to collaborate data and software solutions. Bridge is able to take clinical systems and store their data into a normalized central database. Application developers then has the option to use their integrated ruby rails  technology stack for development. 
 
  
-![rails framework diagram]({{ "/assets/rails/rails_framework_diagram.png" }})
+![rails framework diagram]({{ "/assets/images/2018/jan/rails/rails_framework_diagram.png" }})
 
 To best understand Philips AI Bridge, I will take a look at each of the technologies being used and briefly summerize each. I am new to these technologies and figure a general understanding will prepare me for a more thorough understanding at a later time
 

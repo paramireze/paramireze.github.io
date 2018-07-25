@@ -15,10 +15,10 @@ Today, I changed the layout of the home page. I show an excerpt and category tit
 
 <hr />
 # Home Page Before
-![Before]({{ "/assets/jekyll/layout_before_category.png" }})
+![Before]({{ "/assets/images/2018/july/jekyll/layout_before_category.png" }})
 <hr />
 # Home Page After
-![After]({{ "/assets/jekyll/layout_add_category.png" }})
+![After]({{ "/assets/images/2018/july/jekyll/layout_add_category.png" }})
 
 <hr />
 I was able to do this by overriding the default layout page `home.html`. This file is located outside of my project in a theme folder. I had to create a copy of the theme's `home.html` file and paste it into a location inside my project following `jekylls` directory structure convention. In this case, I had to create a `_layout` folder at the root level and place `home.html` inside of it. 

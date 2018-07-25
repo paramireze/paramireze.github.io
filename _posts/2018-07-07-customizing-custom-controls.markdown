@@ -9,4 +9,4 @@ Hey, things are starting to look like a normal app. I added some cool stuff such
 
 Writing the code is an experience in itself because I could use a separate file to build all the view objects. Finally, I used `IBOutlet` to trigger the click event method when a user goes to rate their meal. All and all, it is looking fairly gangster at this point. 
 
-![app ui]({{ '/assets/ios/july/early_version.png' }})
+![app ui]({{ '/assets/images/2018/july/ios/early_version.png' }})

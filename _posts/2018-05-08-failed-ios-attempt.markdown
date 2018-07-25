@@ -12,4 +12,4 @@ No, i do not have ios experience. I have never created any mobile apps. I don't 
 For me to move forward, I will need to figure out how to get the project to build and display on the emulator. 
 
 
-![ide image]({{ '/assets/ios/ide.png' }})
+![ide image]({{ '/assets/images/2018/may//assets/images/2018/may/' }})

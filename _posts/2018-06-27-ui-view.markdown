@@ -9,7 +9,7 @@ I am adding a 5 star rating system to the meal tracker app. I will use a custom 
 
 So far, I have the ugly red button but I will eventually have clickable stars in its place with event handlers tied to the `view controller`. 
 
-![custom control]({{ '/assets/ios/june/custom_control.png' }})
+![custom control]({{ '/assets/images/2018/june/custom_control.png' }})
 
 ## Key concepts
 

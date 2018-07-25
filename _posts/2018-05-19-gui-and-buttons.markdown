@@ -10,7 +10,7 @@ In summary, I went back and redid the first three lessons for Udacity's ios tuto
 I find that after the initial learning curve, I find that the basic principles of setting up an interface to be quite intuitive using XCode. I was able to drag and drop buttons and use click actions to set up event handlers inside the controller for those buttons. 
 
 
-![Start Recording]({{ '/assets/ios/may/tab_button1.png' }})
-![Stop Recording]({{ '/assets/ios/may/tap_button2.png' }})
+![Start Recording]({{ '/assets/images/2018/may/tab_button1.png' }})
+![Stop Recording]({{ '/assets/images/2018/may/tap_button2.png' }})
 
 Finally, I learned how to override some of the `UIKit's` built in methods to perform actions before the screen was made viewable. That way I could have control over the button's default settings before the user was ever presented a screen. 

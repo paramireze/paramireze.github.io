@@ -12,4 +12,4 @@ I made one major rookie mistake. No version control. I figured, these were tutor
 
 I went through all the motions. Step through code, check stackoverflow. There are no error messages. I could persue this further, however, I find that this is a good opportunity to see how much of the project I can recreate from memory. That means I will need to set up two view controllers, Navigation controller, a segue communicating between the controllers, constraints, labels, buttons, IBoutput/IBinput. I got this!
 
-![Pitch not so Perfect]({{ "/assets/ios/may/pitch_not_so_perfect.png" }})
+![Pitch not so Perfect]({{ "/assets/images/2018/may/pitch_not_so_perfect.png" }})

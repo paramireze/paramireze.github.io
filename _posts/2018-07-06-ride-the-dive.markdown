@@ -5,34 +5,34 @@ date: 2018-07-07 21:00:01 -0600
 categories: Travel 
 ---
 
-![Stiffy]({{ '/assets/images/july/stiffy.jpg' }})
+![Stiffy]({{ '/assets/images/2018/july/rtd/stiffy.jpg' }})
 
 Meet Stiffy, he is the coordinator in chief of the second annual `Ride the Dive - Poker Ride` pub crawl. `Ride the Dive` means we ride to dive bars for our biking pub crawl. `Poker ride` means you get a card at each bar and who ever has the best poker hand at the 5th bar wins! 10$ buy in and winner take all.  
 
 ## working draft
-![working draft]({{ '/assets/images/july/workingDraft.jpg' }})
+![working draft]({{ '/assets/images/2018/july/rtd/workingDraft.jpg' }})
 
 The start took place at the home of the newest Madison brewery `Working Draft`. They specialize in IPA's and located at the heart of the east side of Madison, near `Central Park`. My good friend `OTC` had his beer on tap called `Basement Warfare`.  
 
-![basement warfare]({{ '/assets/images/july/tara.png' }})
+![basement warfare]({{ '/assets/images/2018/july/rtd/tara.png' }})
 
 ## busse's
-![busses]({{ '/assets/images/july/busses.jpg' }})
+![busses]({{ '/assets/images/2018/july/rtd/busses.jpg' }})
 
 We rode north east to `Busse's bar`. The bar looks as if it was built in someone's house and turned into a bar. We hung out in the backroom and played pool and darts. `Jeff Daniel` had a game winning dart throw by landing an 8, which was quite impressive given the skill level among our group. 
 
 ## sundown
-![sundown]({{ '/assets/images/july/sundown.png' }})
+![sundown]({{ '/assets/images/2018/july/rtd/sundown.png' }})
 
 Next stop was `Sundown Saloon`. This is a bar I had not been to before. The place was much bigger than `Busses` and I enjoyed having room to sit and talk comfortably. More darts were played and beer was drank. I think My poker cards were crap and didn't much pay attention to what was going on far as the poker aspect. 
 
 ## snicks
-![snicks]({{ '/assets/images/july/snicks.png' }})
+![snicks]({{ '/assets/images/2018/july/rtd/snicks.png' }})
 
 Is another bar I had not been to before and had the most fun here playing ping pong. The alcohol was noticeably kicking in at this point as our energy levels were going strong. 
  
 ## baldwin
-![baldwin]({{ '/assets/images/july/baldwin.png' }})
+![baldwin]({{ '/assets/images/2018/july/rtd/baldwin.png' }})
 
 Final stop was at baldwin. We met up with another group of pub crawlers. I got to meet the newly married Trapper and his wife Rachael. Twas a good night
 

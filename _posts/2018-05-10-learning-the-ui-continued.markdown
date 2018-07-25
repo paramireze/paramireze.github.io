@@ -6,7 +6,7 @@ categories: iOS Development
 ---
 Today we attached an event handler to the button click action. I was able to do this using XCodes control-click functionality and dragging an arrow to the `ViewController`. By doing that, we are able to create methods that are accessible to the `Interface Builder` which will handle the UI actions for us.
 
-![workflow diagram]({{ "/assets/ios/may/update_label.png" }})
+![workflow diagram]({{ "/assets/images/2018/may/update_label.png" }})
 
 ## Concepts groked since last post
 
