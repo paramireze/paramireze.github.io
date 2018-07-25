@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Ketchum Idaho"
+title: "Rebecca's Private Idaho Ride"
 date: 2018-07-09 09:00:00 -0500
 categories: Travel 
 ---
 
+Rebecca's Private Idaho Ride takes place in Ketchum, Sun Valley Idaho.
+It is the home of crazy person `Rebecca Rusch` who puts on the race each year.
 
-![snowy ketchum]({{ '/assets/images/2018/ketchum/snow.jpg' }})
+## camping
+One possibility for camping will be staying at campsite in `Sawtooth National Forest`. It is located in the `Sawtooth Mountains` 
 
-## Rebecca's Private Idaho Ride
-Each year, endurance junkie, the queen of pain, `Rebecca Rusch` will be hosting her 4 day bike event at her place in `Ketchum`. 
-
-## Ketchum
-`Ketchum` is a small town with big draw. It is a beautiful area reknowned for its skiing and other outdoor activites.  
+# Woodriver Camping
+![Woodriver]({{ '/assets/images/2018/ketchum/woodriver_map.png' }})
 
 
 ![ketchum]({{ '/assets/images/2018/ketchum/ketchum.jpg' }})
