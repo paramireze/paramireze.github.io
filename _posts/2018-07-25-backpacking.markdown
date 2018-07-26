@@ -7,10 +7,22 @@ categories: Lifestyle
 
 ![Backpack]({{ "/assets/images/2018/july/backpack-and-shoes.jpg" }})
 
-For the last 18 months I have run commuted every chance I got.
+For the last 18 months I have run commuted to anywhere I had to go within a 5 mile distance. I ran to work, friends, stores, coffee shops, and the gym.
+My backpack is falling apart and got a new one.
 
-It was sometime around two and a half years ago that I injured myself pretty badly from running too much training for ironman. 
-I tore the connective muscles from my knees where it attaches to the ligements.
-I spent six months being very inactive and I had a lot of time to think. 
-I decided that I needed to run shorter distances with more time inbetween to rest in order to prevent myself from getting injured.
+# gear
+![New Backpack]({{ "/assets/images/2018/july/new-backpack.jpg" }})
+
+I usually carry my laptop, clean shirt/shorts, deodorant, sunscreen, snacks, and water. 
+
+# inspiration
+I was inspired to run commute after injuring myself from training too much for Ironman.  
+I tore the connective muscles in my knees where it attaches to the tendon.
+I was doing 12 mile runs every other day.
+My theory was I could prevent myself from getting injured by breaking up my runs into shorter distances with rest between.
+
+# changes I have noticed
+My shoulders are extra tough. 
+I can hold two 30lb weights in my hands for over 30 minutes without too much problem.
+
 
