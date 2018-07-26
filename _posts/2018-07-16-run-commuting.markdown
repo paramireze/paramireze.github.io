@@ -23,6 +23,9 @@ It was entirely in the moment snap decision just like all major life decisions s
 For starters, I must acknowledge that I am a single adult male whose only responsibility is making sure I get to work on time. 
 Not saying I wouldn't have made the same decision if I had kids. 
 Just the decision wasn't all that hard for me to make.
-Getting rid of my truck felt like getting out of a bad relationship. 
-All the stress that comes with driving and paying to keep the aging vehicle alive was gone. 
+
+The best way I can describe the impact of this life changing decision is it felt like getting out of a bad relationship. 
+All the stress that comes with paying and maintaining the vehicle was gone. 
+I no longer worried about getting enough exercise, even on rest days. 
+ 
  
