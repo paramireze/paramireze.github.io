@@ -48,7 +48,7 @@ In this exericise, bundle is specifically used to pass load data for later. Whe 
 Some of the challenges that arise when dealing with multiple threads is them communicating with one another. For example, threads can continue to run despite the Main UI Thread stopping for whatever reason. As a result, loaders can help improve the user experience by managing the various threads.
 
 
-One [stack overflow post]({{https://stackoverflow.com/questions/22934823/what-is-the-difference-between-a-bundle-and-an-intent}}) says that the java framework could use java `map`, however, `map` is not guaranteed to store serialiable objects. `Bundles` restricts the type of objects to ensure `serializability`.
+One [stack overflow post]({{ 'https://stackoverflow.com/questions/22934823/what-is-the-difference-between-a-bundle-and-an-intent' }}) says that the java framework could use java `map`, however, `map` is not guaranteed to store serialiable objects. `Bundles` restricts the type of objects to ensure `serializability`.
 
 `AsyncTaskLoader` is a lot like `AsyncTask` except it is a bit better. It behaves within the lifecycles of fragments/activities.
 

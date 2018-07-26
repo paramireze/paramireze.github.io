@@ -2,7 +2,7 @@
 layout: page
 title: Lifestyle
 permalink: /lifestyle/
-order: 2
+order: 1
 ---
                 
 
