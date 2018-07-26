@@ -50,7 +50,8 @@ Also, shorter runs would allow me to focus on my form since I am not dealing wit
 
 ## changes I have noticed
 I have not had any knee or ankle issues. 
-My back and shoulders are extra tough and rarely experience in soreness, pain or fatigue in those areas. 
+My back and shoulders are extra tough and rarely experience in soreness, pain or fatigue in those areas.
+My resting heart rate is sometimes below 40bpm.  
 
 
 
