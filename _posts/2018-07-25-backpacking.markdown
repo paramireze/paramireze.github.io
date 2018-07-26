@@ -33,6 +33,7 @@ I think part of the design is to allow air to travel more easily.
 
 # vaporgloves
 ![vapor gloves]({{ "/assets/images/2018/july/vapor-gloves.jpg" }})
+
 I may have took "born to run" a bit too seriously. 
 I ran my first marathon barefoot with a time of 3h 30m at the Haunted Hustle in 2012.
 I have since dialed it back and usually wear vaporgloves. 
