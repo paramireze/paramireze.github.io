@@ -11,8 +11,13 @@ layout: default
 <div class="home">
 
   <h1 class="page-heading">{{ page.title }}</h1>
+  <div style=" text-align:center; padding: 5px; margin-bottom:20px;">
+  <h1>Hello World</h1>
+  I am a typical coffee drinking, electronic music listening, software developer. I enjoy learning new things and go here to help organize my thoughts.
+  <br /><br />
 
-
+  </div>
+  <br />
     {{ content }}
 
   {% if site.posts.size > 0 %}
@@ -23,12 +28,16 @@ layout: default
         {% unless post.categories contains 'Travel' %}
           <li>
             {% assign date_format = site.minima.date_format | default: "%b %d, %Y" %}
-            {{ post.categories | join: ' ' }}  <span class="post-meta"> - {{ post.date | date: date_format }}</span>
-            <h3>
-              <a class="post-link" href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-              </a>
-            </h3>
+            
+            <div style="display: block;">
+              <div style="font-weight: 400; float:left;">
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </div>
+              <div style="float:right;">{{ post.categories | join: ' ' }}  <span class="post-meta"> - {{ post.date | date: date_format }}</span></div>
+            </div>
+            <div style="clear:both"></div>
             {{ post.excerpt }}
             <hr />
           </li>
