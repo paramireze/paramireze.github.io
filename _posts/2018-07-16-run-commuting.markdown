@@ -35,5 +35,12 @@ Another ride is out to Mount Horeb to compete in a mountain bike race.
 There is a certain freedom to cycling that is hard to explain. 
 I feel I have much more control over my experience. 
 
+I think the thing that terrified me and probably most people about going vehicleless is the weather.
+Wisconsin has gnarly winters and who wants to deal with that?
+Biking in wisconsin winters has taught me a lot about being a human.
+We are tough.
+I am not sure what all is happening psysiologically.  
+I found that I could adapt and handle some extreme conditions.
+I know this is not a selling point unless you are someone like me who 
 
 
