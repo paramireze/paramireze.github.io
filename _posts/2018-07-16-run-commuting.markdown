@@ -21,7 +21,7 @@ I try to be careful of the message I send with my lifestyle choices.
 {% endhighlight %}
 
 
-Much of my life choices are modeled after others who have inspired me.
+Much of my life choices are modeled after those who have inspired me.
 There is a community of cyclist who enjoy going on weekend adventures such as bike camping.
 My favorite is the disco party in the elroy sparta bike tunnel.
 People would load up disco equipment on their cargo bikes and party away
@@ -32,12 +32,8 @@ I find that I am starting to move away from others bike adventure events and sta
 For example, I like to bike to the wisconsin river for a tubing event. 
 Another ride is out to Mount Horeb to compete in a mountain bike race.
   
-I would go on bike adventures rides.
-One ride is a disco that takes place twenty miles out of Madison in the Elroy to Sparta tunnel
-
-
-
-
+There is a certain freedom to cycling that is hard to explain. 
+I feel I have much more control over my experience. 
 
 
 
