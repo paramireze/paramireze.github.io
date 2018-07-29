@@ -13,10 +13,10 @@ layout: default
   <h1 class="page-heading">{{ page.title }}</h1>
   <div style=" text-align:center; padding: 5px; margin-bottom:20px;">
   <h1>Hello World</h1>
-  I am a typical coffee drinking, electronic music listening, software developer. I enjoy learning new things and go here to help organize my thoughts.
+  I am a typical coffee drinking, EDM listening, software developer. I enjoy learning new things and go here to help organize my thoughts.
   <br /><br />
-
   </div>
+
   <br />
     {{ content }}
 
@@ -28,7 +28,7 @@ layout: default
         {% unless post.categories contains 'Travel' %}
           <li>
             {% assign date_format = site.minima.date_format | default: "%b %d, %Y" %}
-            
+
             <div style="display: block;">
               <div style="font-weight: 400; float:left;">
                 <a class="post-link" href="{{ post.url | relative_url }}">

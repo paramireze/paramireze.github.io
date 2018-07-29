@@ -7,18 +7,20 @@ categories: Lifestyle
 
 
 
-For the last 18 months I have run commuted, usually wearing a 15 - 20lb backpack. 
+For the last 18 months I have run commuted almost every day.
 I run to work, visit friends, nearby stores, coffee shops, gym, anywhere within 5 miles.
-My backpack is falling apart and got a new one.
-I usually carry my laptop, clean shirt/shorts, deodorant, sunscreen, snacks, and whatever random things I want to bring with me.
+
 
 ## gear
 
-# my backpack
+# my first running backpack
+Had to pull an image from web since I don't have a pic of mine
+
 ![Backpack]({{ "/assets/images/2018/july/im-backpack.jpg" }})
 
-This is a backpack given to me when I registered for 2016 ironman. It is designed for running and has a chest and waist strap. 
-After 18 months of use, the waist strap tore at the seem and the other straps are close to doing the same
+This is a backpack given to me when I registered for 2016 ironman. It is designed for running and has a chest and waist strap.
+I usually carry my laptop, clean shirt/shorts, deodorant, sunscreen, snacks, and whatever random things I want to bring with me.
+After 18 months of use, the waist strap tore off and the other straps are close to doing the same
 
 # camel hiking/running backpack 
 ![New Backpack]({{ "/assets/images/2018/july/new-backpack.jpg" }})
