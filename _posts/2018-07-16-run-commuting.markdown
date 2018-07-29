@@ -34,13 +34,17 @@ Another ride is out to Mount Horeb to compete in a mountain bike race.
   
 There is a certain freedom to cycling that is hard to explain. 
 I feel I have much more control over my experience. 
+It is not hard for me to perform basic maintenance that ensures some reliability.
+I can't control the weather but I can avoid bad drivers.
+Madison has many bike paths that I enjoy. 
 
-I think the thing that terrified me and probably most people about going vehicleless is the weather.
+One of my primary goals when going vehicleless was to be more active.
+Having a vehicle made it easy to come up with excuses whenever it rained or snowed.
 Wisconsin has gnarly winters and who wants to deal with that?
-Biking in wisconsin winters has taught me a lot about being a human.
-We are tough.
-I am not sure what all is happening psysiologically.  
-I found that I could adapt and handle some extreme conditions.
-I know this is not a selling point unless you are someone like me who 
+However, I hated being inactive more than I did the Wisconsin weather.
 
+I will buy or lease a car when it makes sense for me. 
+I believe I have good habits when it comes to avoiding procrastion and wouldn't sacrifice my activeness, if I did have a vehicle. 
+
+ 
 
