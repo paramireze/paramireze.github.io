@@ -7,25 +7,37 @@ categories: Lifestyle
 
 ![paul avatar]({{ "/assets/images/profile/lifestyle.JPG" }})
 
-# Me today
-I bike about 20 - 40 miles almost everyday. 
-It doesn't matter if its smoldering hot or a brutal icy Wisconsin day. 
-I am officially a crazy cyclist person with a bike for every occasion. 
+Most of my commuting is done thru running or cycling. 
+I have been without a vehicle for the last 5 years.
+Winters have proven to be a challenge.
+Telling people that I don't have a vehicle is challenging too.
+I am not completely impervious to the opinions of others.
+I try to be careful of the message I send with my lifestyle choices.
 
-# How things went down
-I wasn't always this way. 
-It all started about 5 years ago when I sold my truck. Well, it broke down and I had it scrapped. 
-I tell people I sold it because I don't want to beg the question "why not sell?". 
-When I decided to scrap my vehicle, there was no rational thought behind it. 
-It was like a quick shot of adrenalin mixed with a bit of fuck it. 
-It was entirely in the moment snap decision just like all major life decisions should be. 
+{% highlight ruby %}
+- "No I don't need a ride".
+- "No I don't need money". 
+- "yes, I choose to live this way" :)
+{% endhighlight %}
 
-For starters, I must acknowledge that I am a single adult male whose only responsibility is making sure I get to work on time. 
-Not saying I wouldn't have made the same decision if I had kids. 
-Just the decision wasn't all that hard for me to make.
 
-The best way I can describe the impact of this life changing decision is it felt like getting out of a bad relationship. 
-All the stress that comes with paying and maintaining the vehicle was gone. 
-I no longer worried about getting enough exercise, even on rest days. 
+Much of my life choices are modeled after others who have inspired me.
+There is a community of cyclist who enjoy going on weekend adventures such as bike camping.
+My favorite is the disco party in the elroy sparta bike tunnel.
+People would load up disco equipment on their cargo bikes and party away
+
+![Elroy Sparta Tunnel]({{ '/assets/images/2018/july/elroy-sparta.jpg' }})
  
- 
+I find that I am starting to move away from others bike adventure events and starting my own.
+For example, I like to bike to the wisconsin river for a tubing event. 
+Another ride is out to Mount Horeb to compete in a mountain bike race.
+  
+I would go on bike adventures rides.
+One ride is a disco that takes place twenty miles out of Madison in the Elroy to Sparta tunnel
+
+
+
+
+
+
+
