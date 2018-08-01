@@ -1,49 +1,38 @@
 ---
 layout: post
-title: "A Thug Life"
+title: "Bike Life"
 date: 2018-07-16 17:50:00 -0500
 categories: Lifestyle
 ---
 
 ![paul avatar]({{ "/assets/images/profile/lifestyle.JPG" }})
 
-Most of my commuting is done thru running or cycling. 
-I have been without a vehicle for the last 5 years.
-Winters have proven to be a challenge.
-Telling people that I don't have a vehicle is challenging too.
-I am not completely impervious to the opinions of others.
-I try to be careful of the message I send with my lifestyle choices.
+Madison is a great place to live if you are into biking.
+There is a network of bike paths that allow you to reach most area's.
+The city has recently won platinum level status for investing so heavily in their bike infrastructure.
 
-{% highlight ruby %}
-- "No I don't need a ride".
-- "yes, I choose to live this way"
-- "No I don't need money, but I will take it ;)". 
-{% endhighlight %}
+When I first went vehicleless about 5 years ago, the decision was mostly financial since I was in school and accruing debt.
+Getting rid of my vehicle meant I had and extra 3 - 4k a year which translated to more time out at the bars with my buddies.
+
+I have since done well for myself far as employment and have no desire to buy a vehicle. 
 
 
-Much of my life choices are modeled after those who have inspired me.
-There is a community of cyclist who enjoy going on weekend adventures such as bike camping.
-My favorite is the disco party in the elroy sparta bike tunnel.
-A few riders will bring disco equipment on cargo bikes and we will party into the night.
+
+
+
+[Article]({{ 'https://madison.com/wsj/lifestyles/recreation/madison-one-of-platinum-level-bicycle-friendly-communities/article_bdc92f63-e113-5b98-8391-3450d62e778a.html' }})
+
+
+I am a bike commuter through and through.
+Many think I am crazy for biking year around, including through the Wisconsin winters.
+Well, I think everyone else is crazy for not biking all the time :)
+
+
+Madison is the fifth city to achieve platinum status for having quality bike infrastructure. 
+
 
 ![Elroy Sparta Tunnel]({{ '/assets/images/2018/july/elroy-sparta.jpg' }})
  
-I am starting some of my own bike adventures.
-For example, I like to bike to the wisconsin river for a tubing event. 
-Another ride is out to Mount Horeb to compete in a mountain bike race.
-I eventually would like to do some bike touring when I am able to work remotely.
-  
-There is a certain freedom from cycling. 
-I feel I have much more control over my experience. 
-The winters are a bit gnarly and can be challenging.
-However, it is the same type of challenge when skiing or snowmobiling. 
-I can't control the weather but I can avoid bad drivers.
-Madison has many bike paths that I enjoy. 
-
-Being vehicleless has taught me some valuable skills. 
-I am great at bike repair and maintenance. 
-I have some top of the line cold weather gear.
-I am a much stronger person both mentally and physically. 
 
  
  
