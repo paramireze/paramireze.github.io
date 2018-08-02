@@ -38,12 +38,7 @@ My theory was I could prevent myself from getting injured by breaking up my runs
 At one point, I was running 12 mile around Lake Monona everyday. 
 
 Things have been good. No injuries since transitioning to run commuting. 
-The thought being I could still put in a lot of miles with more rest. 
-Also, shorter runs would allow me to focus on my form since I am not dealing with the extreme exhaustion that comes from running long distances. 
+I think the shorter runs allow me to focus more on my form since I am take breaks and not dealing with extreme exhaustion. 
 
-## changes I have noticed
-Think the biggest change I have noticed is my mood.
-I am always focusing on my form and it helps with leaving work behind. 
-
-
-
+## who should run commute
+Anyone who has showers at work ;)
