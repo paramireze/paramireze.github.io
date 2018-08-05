@@ -14,3 +14,4 @@ categories: Lifestyle
 - sept 4: get rid of internet at home
 - step 6: cook good foods and read great literature
 - step 7: be silly and hang out with friends, preferably with beer
+

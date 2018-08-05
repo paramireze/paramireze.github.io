@@ -1,34 +1,67 @@
 ---
 layout: post
-title: "Food Chain Magnete"
+title: "A Visit to Door Co"
 date: 2018-07-31 10:00:00 -0500
-categories: Games
+categories: Travel
 ---
 
-Food Chain Magnete
-who ever earns the most money wins
+Experiencing Door County as a visitor is a strange feeling.
+It feels liberating that it has always been here and I am free to come and go as I please.
+I am lucky I had Door County as a home since it is thriving and always great to visit.
 
-rules!
-- Everyone starts out as CEO
-- $50 dollars person in a five person game
-- Reserve Card of $100, $200, $300 - our CEO is added one slot if 300 and loses one slot if 100
+## Friday
+
+# Fish Fry
+I went to a Fish Fry in Sister Bay just next to Al Johnson's.
+There was a keyboardist that was playing billy joel, steely dan and other hits.
+I ordered two `Fanny Pack` IPAs.
 
 
-## Restructuring
-# At work pile
-- never have management under other management
-- always three levels deep max
-- organize cards under ceo
-- turn order is determined by who has the most empty slots
 
-# working - recruit an employee
-ceo - hire one person - hire anyone in the left hand row
-- waitress: hire a waitress - three $ cash - faster service - win ties
-- manager training: gives you more open slots - two people under neath him
-- pricing manager: drops all your prices to all your goods by one dollar
--- win ties if customer is the same distances
--- pricing war
-- recruiting girl - hire another person
-- trainer - let you train everyone 1 level - have better abilities. 
--- only train someone if they are at the beach
--- 
+## Food Chain Magnete
+
+The day ended with me hanging out with my brother and playing `Food Chain Magnete`
+
+
+![food chain]({{ "/assets/images/2018/aug/food-chain.jpg" }})
+
+It is a game where you try to earn more money than others. 
+How you earn that money is up to you and what makes the game great. 
+
+
+
+
+## Saturday
+
+# Penninsula State Park
+
+Hey that's where I am at now!
+
+![Penn Park]({{ '/assets/images/2018/aug/eagle-tower2.jpg' }})
+
+
+
+I am in middle of my morning bike ride through the area and stopped to write. 
+It is kinda early and not a lot of people out yet. 
+I am on my way to explore the area and find a coffee shop to do some reading.
+
+![Bike Route]({{ '/assets/images/2018/aug/bike-route.png' }})
+
+## Julie's Cafe
+
+I posted on the door county sub reddit asking for an early morning breakfast place.
+I was told `Julie's Cafe` opened the earliest.
+
+
+## Sister  Bay
+
+![cave point]({{ "/assets/images/2018/aug/chillin.jpg" }})
+
+Got a chance to do some swimming in `Sister Bay`. 
+It was fun watching my nieces pieces play with the other kids and have fun.
+I took a well needed nap on the beach. 
+
+
+![cave point]({{ "/assets/images/2018/aug/wilsons.jpg" }})
+
+We then went to wilsons for a scoop of ice cream. 

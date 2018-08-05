@@ -5,34 +5,88 @@ date: 2018-07-24 10:00:00 -0500
 categories: Adventuring
 ---
 
-Every year, the Madison `Hash House Harriers` hosts a tubing event on the Wisconsin river. 
-This year they were hosting two nights of camping, grilling, and a float trip.
+Every year, the Madison `Hash House Harriers` goes tubing in Spring Green. 
+This years event took place at Traders, just off the  wisconsin river east of Madison.
+The hash house harriers reserved a campsite from Friday to Sunday.
 
-I took a half day at work on Friday and anticipated about 5 hours of riding to the event at `Traders Camp Ground` in Arena, WI.
+# Dah plan
+- Bike out to spring green
+- camp both Friday and Saturday night
+- go tubing
+- have fun
 
+# gear
+![Felt Bike]({{ '/assets/images/2018/aug/felt.jpg' }})
+
+- cx bike
+- two person tent
+- camp chair and table
+
+![table]({{ '/assets/images/2018/aug/table.jpg' }})
+![chair]({{ '/assets/images/2018/aug/chair.jpg' }})
+
+- cathedral the board game
+- frisbee
+- and the various stuff people bring such as clothes and hygiene kit
+
+
+The camping tent, chair and table all fit easily on my back rack using a bungee cord. 
+I went on amazon and bought the equipment that got high rating for being low weight and still quality product.
+I was not dissapointed. 
+The camping table was surprisingly nice to have.
+I used it a lot more than I thought I would.
+ 
+## Friday
+
+I worked a half day so I could get an early start biking out to Traders campground.
+It was shitty out and had to travel down roads to avoid the muddy rails to trails path known as military ridge.
+
+# not the exact route but close enough 
 ![Bike Route]({{ '/assets/images/2018/aug/tube-route.png' }})
 
-A couple of adventurers and myself ventured biked to and from the event.
-The GPS said we hit just over 40miles to the campsite since we took a few more backroads and stopped at bars along the way. 
+Two hasher by the name of OTC and Paging rode the 40 miles there with me.
+We stopped about every  10 miles to enjoy a beer and snacks.
+The conditions were shitty but our spirits were high.
 
-
+# at the start 
 ![Clint and I]({{ '/assets/images/2018/aug/tube-bike.jpeg' }})
 
-The campground was spacious and easily held the 20 so campers that came on Friday. 
+We rolled in sometime around 6:30pm. The campground was spacious and easily held the 20 so campers that came on Friday. 
 There was a lot of games going on such as frisbee, ladder ball, and cards.
 
-# Floating on the Wisconsin
-The morning started with some trail running. 
-Shortly after buses showed up to escort us to the Tubing start. 
-About a dozen or so more people showed up.
-We strapped two pony kegs to one of the tubes and we were off for the next 5 hours.
-We met another group of people who were like us being silly and drunk.
+There were three different pony kegs and the night was spent playing games and sitting around the camp fire.
+
+## Saturday
+# morning
+I am a dirty morning person.
+Despite drinking lots of booze, I was up about 5:30am.
+I biked about 7 miles to a breakfast place called `Break of Dawn` in Spring Green.
+I enjoyed their pancakes and coffee while working on iOS development.
+When I got back two hours later, people were just getting up and moving. 
+
+# floating on the Wisconsin
+
+image is from 2015 but you get the gist
+![tubing 2015]({{ '/assets/images/2018/aug/tubing-2015.jpg' }})
+
+The Hash House Harriers did a short trail run and then it was off to the Wisconsin river for tubing.
+After loading up two pony kegs, about 30 of us ventured out into the wisconsin river.
+
+We would stop at sandbars and hangout for about half an hour at a time.  periods of time. 
 
 # The After float
-After the float, it was back to the campsite. 
-It was definitely an endurance trail drinking during the tubing and still having lots of time in the day.
-Some people took naps, others party'd on.
-I did what Garth would say I should do.
+After the float, I helped Stiffy get his kayak.
+It would not fit on the trailer that carried all the tubes so he got his suburu and I went with him to help.
+Otc stayed behidn with the kayak to amke sure no one tampered with it.
+Very much a
+
+## Sunday
+
+I did my morning ride to the `break of dawn` restaurant.
+I caffeinated and did a bit of reading before getting ready to leave for the day. 
+The ride home was much like the ride there except OTC went to Mazo to have bloody's with other hashers.
+
+![table]({{ '/assets/images/2018/aug/rjs.jpg' }})
 
 # Conclussion
 I am in love with this event. I was able to run, bike, swim and be silly. 
