@@ -5,37 +5,8 @@ date: 2018-07-09 08:00:00 -0500
 categories: Travel 
 ---
 
-![slc]({{ '/assets/images/2018/slc/city.jpg' }})
+I will be in salt lake city for at least one day before heading out to idaho. 
+As always, i like to play things by ear, however, i think the plan will be to hit up `Caynon Creek Drive Trailhead`.
 
-## Usana Amphitheatre 
-![usana]({{ '/assets/images/2018/slc/usana.jpg' }})
+![Canyon Creed Trail]({{ '/assets/images/2018/aug/canyon-creek.png' }})
 
-20k seated theater in west valley city. The theater is located in `West Valley City` where crime is a bit higher and housing costs are somewhat lower.
-
-# Silver Lake
-![silver lake]({{ '/assets/images/2018/slc/silver.jpg' }})
-
-# Mirror Lake 
-![Mirror Lake]({{ '/assets/images/2018/slc/mirror-lake-panorama.jpg' }})
-Mirror Lake evergreens are dying from a `Bark/Pine Beetle` Infestation. Several posts mentioned that the increased numbers of `Bark beetles` has to do with changes in the climate.
-
-# Peoples Piano Project
-![piano]({{ '/assets/images/2018/slc/piano.jpg' }})
-
-
-a project for letting people to play piano.
-
-# The Road Home 
-![Road Home]({{ '/assets/images/2018/slc/road-home.jpg' }})
-Homeless project started in SLC. It provides assistance to homeless with housing, food, computers. 
-
-# Wasatch Front 
-![Wasatch image]({{ '/assets/images/2018/slc/wasatch.jpg' }})
-
-Chain of cities along the wasatch range. Pretty much means any urbanized area in SLC. 
-
-# Random Photos From the Reddits
-
-![slc]({{ '/assets/images/2018/slc/clouds.jpg' }})
-
-![slc]({{ '/assets/images/2018/slc/sunset.jpg' }})
