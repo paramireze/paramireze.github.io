@@ -5,14 +5,10 @@ date: 2018-07-31 10:00:00 -0500
 categories: Travel
 ---
 
-Experiencing Door County as a visitor is a strange feeling.
-It feels liberating that it has always been here and I am free to come and go as I please.
-I am lucky I had Door County as a home since it is thriving and always great to visit.
+I spent the last weekend visiting door county. 
+I grew there and find that visiting as an adult is much more awesome than growing up there as a kid.
 
-## Friday
-
-Friday was time spent with the family. 
-I enjoyed a fish fry and drank lots of booze while learning `Food Chain Magnate`.
+Over the weekend, I was able to explore the area on bike and running. I also got to cook some good foods and hang out with family.
 
 ## Saturday
 
@@ -24,9 +20,12 @@ Hey that's where I am at now!
 
 I am in middle of my morning bike ride through the area and stopped to write. 
 It is kinda early and not a lot of people out yet. 
-Thanks to the recommendations of the people of Door County, I found a restaurant that opened before 7am called `Julie's Cafe`.
+Thanks to the recommendations of the peoples of Door County's sub-reddit, I found a restaurant that opened extra early called `Julie's Cafe`.
 
 ![Bike Route]({{ '/assets/images/2018/aug/bike-route.png' }})
+
+The bike ride wasn't all that far and wanted to get a bit more exercise in.
+I ran 3-4 miles and did some burpees, pushups, and resistant band exercises.
 
 ## Sunday
 

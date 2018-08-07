@@ -1,45 +1,56 @@
 ---
 layout: post
-title: "An Electrifying Experience"
+title: "How to Survive a Four Day Rave"
 date: 2018-06-21 21:00:01 -0600
 categories: [Travel, music]
 ---
 
-![Bassnectar]({{ '/assets/images/2018/june/music/electric_forect/bassnectar.jpg' }})
+This year, I attended `Electric Forest`. The tickets were not cheap, however, the artists made it well worth it.
+To survive the four days, i came up with a strategy.
 
-My `Electric Forest` experience kicked off on Wednesday evening. Nick and I were done with work for the week and were excited to be on the road. 
+- get sleep
+- exercise
+- cook good healthy food
+- take time out to recharge
+- party hard
 
-We didn’t reach the festival grounds until 4am. There was some weird snafu once we got there making it so we couldn’t set up tent until 6am. Luckily for us, the sun was coming up so we could see well ;)
+I did just that. 
+Each morning I went for morning runs around the parameter of the festival grounds.
 
-![Entering Festival]({{ '/assets/images/2018/june/music/electric_forect/entering.jpg' }})
+![fest grounds]({{ '/assets/images/2018/aug/fest-grounds.jpg' }})
 
-Everyday, we would venture into the festival and bounce around the various stages listening to different artists perform. We did make sure to watch `Rofus De Sol`, `Bassnectar`, `Clozee`, `Washed Out`. Otherwise, we would let our ears lead the way. 
- 
-![Artist]({{ '/assets/images/2018/june/music/electric_forect/artist.jpg' }})
+# Exercise
+it ws fun seeing all the after party's that never ended.
+It was also fun running on some of the roads outside the place and getting away a bit.
 
-Exploring the festival grounds is an experience all in its own. There are large statues that light up at night. There are paths that have thousands of lit up ornaments along it. There are talented dancers at each stage dressed in custom and sometimes twirling LED lights. 
+I would also do push-ups and resistance band workouts.
+My camp neighbors must have thought it odd seeing me doing pushups at 7am while most everyone was knocked out.
 
-![Dragon]({{ '/assets/images/2018/june/music/electric_forect/dragon.jpg' }})
 
-There was never a moment in any given day that people weren’t partying with music blasting. It was not uncommon for me to wake up the next morning and find hundreds of party goers that never went to sleep from the night before. I would sometimes wonder to those parties and would notice how everyone attending seemed to be completely oblivious to the world except for the music.  
+# Cooking
+I used my roommates camping stove and tried making omelets. 
+It was a fail since I did not have the right type of stick free pan for it so ended up eating it scrambled.
+I would also take the time to make coffee and read my book.
 
-![Peace]({{ '/assets/images/2018/june/music/electric_forect/peace.jpg' }})
-
-![Chromeo]({{ '/assets/images/2018/june/music/electric_forect/chromeo.jpg' }})
-
-## Daytime Activities 
-# Lake Michigan
-One of the little things that makes Electric Forest special is being able to exit and reenter the fetival grounds. It is unusual and Nick and I took full advantage. We would visit a nearby beach off Lake Michigan each morning and rid ourselves of the previous days filth. Laying down listening to the waves was a good repreive from the many thousands that resided in the festival grounds. It was also nice being able to stop by a store  for fresh fruits, ice, and other goods at reasonable prices. 
+# Recharge 
 
 ![Beach]({{ '/assets/images/2018/june/music/electric_forect/beach.jpg' }})
 
-# Cathedral
-Nick and I played `Cathedral` for hours each day. Our neighbors would often stop and watch us play. We chilled out, enjoy beer, and played to our hearts content. We are pretty evenly matched and would find ourselves constantly improving to outwit one another. 
+One of the little things that makes Electric Forest special is being able to exit and reenter the fetival grounds. 
+My roommate and I would would visit a nearby beach off Lake Michigan each morning jump into lake michigan.
+ 
+Once back at the festival grounds, we would play board games until it was time to enter the camp grounds 
 
 ![Cathedral]({{ '/assets/images/2018/june/music/electric_forect/cathedral.jpg' }})
 
-# Pics from Reddit
-![sherwood]({{ '/assets/images/2018/june/music/electric_forect/forestPic.jpg'}})
+# party hardy
 
-![ranch]({{ '/assets/images/2018/june/music/electric_forect/ranch.jpg' }})
+This is where I failed. 
+I would party but not hard enough I felt like.
+I was usually in bed by midnight and woke up not hung over from anything.
+I guess I was too concerned about the previous steps and forgot to just go with things.
+
+# conclusion
+This event was a challenge for me and came out feeling good about how things went.
+I learned a lot about what gear to get for future camping trips and how to cook using a camp stove.
 
