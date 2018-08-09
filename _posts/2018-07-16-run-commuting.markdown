@@ -16,17 +16,15 @@ Getting rid of my vehicle meant I was able to spend more time with my friends si
 
 [Madison one of 5 platinum-level Bicycle Friendly Communities]({{ 'https://madison.com/wsj/lifestyles/recreation/madison-one-of-platinum-level-bicycle-friendly-communities/article_bdc92f63-e113-5b98-8391-3450d62e778a.html' }})
 
-At first it was a financial decision to go vehicleless.
-Despite having a good job with my loans paid off, I could never imagine owning a vehicle unless it absolutely made sense for me such as a long commute to work.
-To me, a vehicle is a lot of responsbility.
-Not that I don't want or can't handle responsibility. 
-More like, I rather not have responsibility unless it is something I feel meaningful to me.
-Getting rid of my vehicle felt much like getting out of a bad relationship.
-
-![Elroy Sparta Tunnel]({{ '/assets/images/2018/july/elroy-sparta.jpg' }})
+When I had my truck, I never could motivate myself to do long adventure rides.
+It was the "well I could drive" thought that usually won out when decision time came.  
+Getting rid of my truck simplified things a great deal.
+The question no longer was how do I get there?
+It turned into "how far do and how long do I want to go?" "how much beer can this bag fit?" or "can I fit a boombox on the handlebars or do I need to duct tape it to the rack?" ;)
  
-If you follow some of my blog articles under `Adventuring` you might get a sense of the extreme changes to my lifestyle.
 
- 
+
+![Elroy Sparta Tunnel]({{ '/assets/images/2018/aug/trail-ride.JPG' }})
+
 
 

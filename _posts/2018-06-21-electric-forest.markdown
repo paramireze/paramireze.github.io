@@ -23,8 +23,8 @@ Each morning I went for morning runs around the parameter of the festival ground
 it ws fun seeing all the after party's that never ended.
 It was also fun running on some of the roads outside the place and getting away a bit.
 
-I would also do push-ups and resistance band workouts.
-My camp neighbors must have thought it odd seeing me doing pushups at 7am while most everyone was knocked out.
+I would also do push-ups and resistance band workouts
+My camp neighbors must have thought it odd seeing me doing pushups at 7am while most everyone was knocked out or still partying.
 
 
 # Cooking
