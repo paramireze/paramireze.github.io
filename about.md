@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 order: 4
 ---
 
 ![paul avatar]({{ "/assets/images/profile/bfd.JPG" }})
 
-You are welcome to join in on my journey to learning new things. I jump around a lot so sorry in advanced for the subject whiplash. 
-
-{% highlight ruby %}
-## todo list:
-1. add categories to sort posts
-2. tag each post with keywords that can be further sorted
-{% endhighlight %}
-
-
+I work as a software developer for UW Hospital. 
+I believe am making the world a better place one line of code at a time.
+This blog is built using Jekyll framework. 
+If you are interesting in building a blogging website, I can not recommend this framework enough.

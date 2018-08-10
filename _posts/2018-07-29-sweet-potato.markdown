@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "How to Eat Like a Hippie. Part 1 - Cheesy Sweet Potatos"
+title: "Cheesy Sweet Potatoes"
 date: 2018-07-29 10:00:00 -0500
 categories: Lifestyle
 ---
 
 ![sweet potato]({{ '/assets/images/2018/july/potato.jpg' }})
 
-- step 1: nuke potato
-- step 2: add cheese
-- step 3: nuke potato for 20 seconds
-- sept 4: add salt pepper
-- step 5: nom nom nom
+- nuke potato
+- add cheese
+- nuke potato for 20 seconds
+- add salt pepper
+- nom nom nom
+
+Next article will be about my pancakes which I make out of quinoa, egg, cauliflower, banana and blueberries covered in freshly blended strawberries.
