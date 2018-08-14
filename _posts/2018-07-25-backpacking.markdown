@@ -31,6 +31,10 @@ Yes, I did own a pair of vibram five fingers.
 Vapor gloves are just as good imo.
 They are thin enough that i can roll them up and fit them in my pocket and strong enough to endure many many miles of running.  
 
+# winter tires
+![winter tires]({{ "/assets/images/2018/aug/winter-tires.jpg" }})
+
+
 ## inspiration
 I was inspired to run commute after injuring myself from training too much for Ironman.
 I tore the connective muscles in my knees where it attaches to the tendon.
