@@ -15,4 +15,4 @@ categories: Lifestyle
 - give your mom lots of hugs and make her great food
 - be silly and hang out with friends, preferably with beer
 
-sell your car and get a bike
+
