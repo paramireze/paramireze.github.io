@@ -16,9 +16,11 @@ The hash house harriers reserved a campsite from Friday to Sunday.
 - have fun
 
 # gear
+- cx bike
+
+This is my all around commuter. It is highly versatile and can easily be used for cyclocross or gravel crushers
 ![Felt Bike]({{ '/assets/images/2018/aug/felt.jpg' }})
 
-- cx bike
 - two person tent
 - camp chair and table
 

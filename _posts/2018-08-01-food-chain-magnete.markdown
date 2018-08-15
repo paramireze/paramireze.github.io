@@ -16,7 +16,7 @@ Over the weekend, I was able to explore the area on bike and running. I also got
 
 Hey that's where I am at now!
 
-![Penn Park]({{ '/assets/images/2018/aug/eagle-tower2.jpg' }})
+![Penn Park]({{ '/assets/images/2018/aug/eagle-tower.jpg' }})
 
 I am in middle of my morning bike ride through the area and stopped to write. 
 It is kinda early and not a lot of people out yet. 
@@ -48,25 +48,24 @@ I like to bring my resistance band to work rotator cuffs and do side straddles t
 # Burpees
 ![burpees]({{ '/assets/images/2018/aug/burps.png' }})
 
-Big fan of burpees and do them often.
-I feel it really engages all the muscles into working together.
+Burpees is a great way to do full body cardio without swimming :P
+I will sometime do these with dumbbells.
 
 # Scissor Lunges
 ![scissor lunges]({{ '/assets/images/2018/aug/scissor-lunges.png' }})
 
-Scissor lunges always smoke me and great to get some intensity into a body weight workout.
+I have a love hate relationship with scissor lunges. They produce a type of soreness that can make the next morning difficult.
 
 # Rotator
 ![Rotator]({{ '/assets/images/2018/aug/rotator.jpg' }})
 
-Resistance bands are perfect for wrapping around a tree and work the shoulders.
-I like to keep up these exercises to make sure I am hitting up the smaller muscle groups.
+Resistance bands are perfect for working the rotator cuffs.
 
 # Side Steps
 ![Side Steps]({{ '/assets/images/2018/aug/side-steps.png' }})
 
-I am a runner and need to make sure that my `Medial Glutes` are nice a strong.
-They help with stability and preventing injury.
+These make sure my `Medial Glutes` are nice and strong.
+They help with stability and preventive injury.
 
 ## After Workout Meal
 
