@@ -5,20 +5,21 @@ date: 2018-08-07 08:00:00 -0500
 categories: Race
 ---
 
-I spent three days traveling to northern Wisconsin to compete in a marathon and a sprint triathlon.
+For the last 20 or so years, The Hash House Harriers has a tradition of going to hurley wisconsin, getting drunk, and then running the paavo marathon the next morning.
+This year was no exception.
+After a 5 hour drive, we hit silver st and hit up some of the many bars in this once prosperous mining town.
+The night is finished at the strip clubs, a hallmark of a successful pubcrawl since they are located on the far end of the street. 
 
-## Friday
-Drove 5 hours to Hurley Wisconsin from Madison. 
-Biked around for a bit 
-
-## Saturday
-For the last few years I have been running the `Paavo Nurmi Marathon` with the hash house harriers.
-I do not worry about time and find other people to run with. 
-We will frequent a bar on hwy 51 as a reprieve from the hot sun.
-
-After the Marathon we travel to three lakes where one of the Hashers has a cabin on the lake.
-I enjoyed swimming in the calm clean waters of the north.
-
+## Race Day
 ![before]({{ '/assets/images/2018/aug/paav-before.jpg' }})
-![during]({{ '/assets/images/2018/aug/paav-during.jpg' }})
+This years marathon was spent with `OTC`, `Jeff Daniels`, and `Paging`.
+We ran together at a leisurely pace and drank beer along the way.
+
+# North Pole Bar at Mile 23
 ![beer]({{ '/assets/images/2018/aug/paav-beer.png' }})
+The route is beautiful for the most part except the final stretch on highy 51. 
+Lucky for us, there is a bar on the stretch and stopped to have a refreshment. 
+
+![during]({{ '/assets/images/2018/aug/paav-during.jpg' }})
+
+
