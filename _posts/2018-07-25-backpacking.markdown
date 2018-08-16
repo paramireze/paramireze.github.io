@@ -16,33 +16,23 @@ Who wants to mess with the guy who runs everywhere he goes? ;)
 ![New Backpack]({{ "/assets/images/2018/july/new-backpack.jpg" }})
 
 I got this a week ago to replace my other backpack. 
-It is an upgrade for me far as comfort, straps, pockets, and how it sits on my back.
-I like that I can fit a lot of stuff in this bag and the straps cinch everything down nicely. 
-
+I didn't realize how much nicer a hiking/running backpack is for run commuting.
 I usually carry my laptop, clean clothes, deodorant, sunscreen, snacks, and whatever random thing that I happen to want to bring with me.
 
 # vaporgloves
 ![vapor gloves]({{ "/assets/images/2018/july/vapor-gloves.jpg" }})
 
-I may have took "born to run" a bit too seriously. 
-I ran my first marathon barefoot with a time of 3h 30m at the Haunted Hustle in 2012.
-I have since dialed it back and usually wear vapor gloves. 
-Yes, I did own a pair of vibram five fingers. 
-Vapor gloves are just as good imo.
-They are thin enough that i can roll them up and fit them in my pocket and strong enough to endure many many miles of running.  
+I have been running in minimalist shoes for about a decade now. 
+It always made sense to me that less support equals more foot strength.
 
 # winter tires
 ![winter tires]({{ "/assets/images/2018/aug/winter-tires.jpg" }})
 
+I lug these guys around when things get nasty out and need traction.
+
 
 ## inspiration
-I was inspired to run commute after injuring myself from training too much for Ironman.
-I tore the connective muscles in my knees where it attaches to the tendon.
-My theory was I could prevent myself from getting injured by breaking up my runs into shorter distances.  
-At one point, I was running 12 mile around Lake Monona everyday. 
-
-Things have been good. No injuries since transitioning to run commuting. 
-I think the shorter runs allow me to focus more on my form since I am take breaks and not dealing with extreme exhaustion. 
-
-## who should run commute
-Anyone who has showers at work ;)
+Why would anyone seek to take more time to get where they are going only to be stinky and sore?
+That is a great question.
+Since my run commute to work is  3.5 miles, I am losing very little time running to work. 
+ s 

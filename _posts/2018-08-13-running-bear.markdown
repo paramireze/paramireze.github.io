@@ -6,28 +6,37 @@ categories: Race
 ---
 
 # Running Bear Triathlon
-This is the second year this event has taken place. 
-I won last year and found myself up against more competetors this year than last.
+This is the second year of the `Running Bear` triathlon.
+  
+I won last year and look to take a second victory.
+
 
 # course map
 ![finish]({{ '/assets/images/2018/aug/pav-rb.png' }})
 
-An unusual bike->run->swim triathlon, as opposed to swim->bike->run
-
+The course is similar to a sprint triathlon.
+The order of events is bike -> run -> swim.
+I was told the bike route is 9 miles, 5k run, and 200 meter swim. 
+About 7 of the 9 mile bike route was laid with fresh blacktop.
+It felt like I was riding on butter.
 
 # Weapon of Choice
 ![finish]({{ '/assets/images/2018/aug/trek-ion-pro.jpg' }})
 
-I once again choose to use my Trek ion pro 2011 road bike for this course. 
-I thought it did well given that 95% of the route is smooth blacktop.
-Bit of gravel which felt more like cyclocross racing than anything but the time gained from riding on blacktop made up for it.
+I once again choose Trek ion pro road bike. 
+I thought it did well given that most of the route is pavement and smooth blacktop.
+Bit of gravel at the end, however, the time gained from riding on blacktop made up for it.
+
+# Run & Swim
+
+I had a strong lead going into the run and spent the last mile slowing down my breathing for the swim.
+The technique worked well and I was able to swim easily to my second victory. 
 
 # Thwarted Selfie 
 ![finish]({{ '/assets/images/2018/aug/pav-finish.jpg' }})
 
-Won the first place prize for the second time.
-For my efforts, I was awarded a giant teddy bear and a cowboy hat.
-Most of the competitors today were fairly inexperienced and looking to have fun.
+For being a gangster, I was awarded a giant teddy bear and a cowboy hat.
+
 
 # Three Lakes
 ![selfie]({{ '/assets/images/2018/aug/pav-self.jpg' }})

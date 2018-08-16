@@ -5,9 +5,8 @@ date: 2018-07-24 10:00:00 -0500
 categories: Adventuring
 ---
 
-Every year, the Madison `Hash House Harriers` goes tubing in Spring Green. 
-This years event took place at Traders, just off the  wisconsin river east of Madison.
-The hash house harriers reserved a campsite from Friday to Sunday.
+Every year, the Madison `Hash House Harriers` goes tubing on the Wisconsin River in Spring Green. 
+This year, they reserved camp grounds for the weekend and provide food and beverages
 
 # Dah plan
 - Bike out to spring green
@@ -33,22 +32,20 @@ This is my all around commuter. It is highly versatile and can easily be used fo
 
 
 The camping tent, chair and table all fit easily on my back rack using a bungee cord. 
-I went on amazon and bought the equipment that got high rating for being low weight and still quality product.
-I was not dissapointed. 
-The camping table was surprisingly nice to have.
-I used it a lot more than I thought I would.
+
  
 ## Friday
 
-I worked a half day so I could get an early start biking out to Traders campground.
-It was shitty out and had to travel down roads to avoid the muddy rails to trails path known as military ridge.
+I worked a half day so I could get an early start biking.
+I rode with my friends `OTC` and `Paging`.
+The conditions were shitty out however that did little to quell our excitement.
+
 
 # not the exact route but close enough 
 ![Bike Route]({{ '/assets/images/2018/aug/tube-route.png' }})
 
-Two hasher by the name of OTC and Paging rode the 40 miles there with me.
 We stopped about every  10 miles to enjoy a beer and snacks.
-The conditions were shitty but our spirits were high.
+
 
 # at the start 
 ![Clint and I]({{ '/assets/images/2018/aug/tube-bike.jpeg' }})
