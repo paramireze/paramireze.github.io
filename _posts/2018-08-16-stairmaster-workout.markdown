@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weighted Stair Master using Dumbbells"
+title: "Weighted Stair Masters"
 date: 2018-08-16 08:00:00 -0500
 categories: Lifestyle
 ---
