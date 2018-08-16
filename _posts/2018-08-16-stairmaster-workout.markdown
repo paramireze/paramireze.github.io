@@ -13,7 +13,7 @@ I came up with a exercise that I feel will get my strong fast.
 
 # equipment 
 - stairmaster
-- two dumbbells (I use 22.5lb) 
+- two dumbbells (I use 22.5lb)  
 
 # workout
 While on the stairmaster, I will rotate through a few dumbbell exercises, usually 1 minute per set.
