@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-order: 4
+order: 5
 ---
 
 ![paul avatar]({{ "/assets/images/profile/bfd.JPG" }})
