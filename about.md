@@ -7,7 +7,7 @@ order: 5
 
 ![paul avatar]({{ "/assets/images/profile/bfd.JPG" }})
 
-8 steps to be an `Original Gangster` like me :) 
+How I became an `Original Gangster`  
 
 - sell your car & run/bike every chance you get
 - skip your smart phone in a nearby lake and buy a flip. An iPhone skips about 8 times last time i checked ;)
