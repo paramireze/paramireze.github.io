@@ -5,8 +5,6 @@ permalink: /race/
 order: 4
 ---
 
-![bike race]({{ "/assets/images/2018/aug/bike.JPG" }})
-
 {% if site.posts.size > 0 %}
     
 {% for post in site.categories.Race %}

@@ -2,15 +2,17 @@
 layout: page
 title: About Me
 permalink: /about/
-order: 4
+order: 5
 ---
 
 ![paul avatar]({{ "/assets/images/profile/bfd.JPG" }})
 
-I work as a software developer for UW Hospital. 
-I write and support clinical, administrative, and educational applications used by the radiology department.
-I am making the world a better place one line of code at a time.
+How I became an `Original Gangster`  
 
-
-I created this blog using the Jekyll framework.
-It is a super fun framework that uses ruby language and compiler.
+- I sold my car and ran/bike commuted
+- skipped my smart phone in a nearby lake and bought a flip. An iPhone skips about 8 times last time i checked ;)
+- deleted my facebook, twitter, and instagram accounts
+- stop paying charter for internet and bought a few books instead
+- I give my mom a hug almost everyday and make her yummy food
+- I am in the gym at 5am every morning 
+- Hang out with friends and be silly, preferably with beer
