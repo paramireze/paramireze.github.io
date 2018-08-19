@@ -31,3 +31,12 @@ No doubt it has to be one of the best core workouts out there.
 
 Not so much core as it is legs and lower back. Perhaps lowerback counts as core.
 These are fun exercises that help me stay motivated when feeling like my workouts are stagnating.
+
+# Fooding
+
+Nothing like spending your endorphin high cooking some dope meal.
+I like to experiment with my foods and try to find what I feel I need at that time.
+
+![Food]({{ '/assets/images/2018/aug/food.jpg' }})
+
+Sweet Potato, banana, blueberry Pancakes w/ fried veggies
