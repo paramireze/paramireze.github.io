@@ -12,9 +12,8 @@ She was able to crush me in yahzee warfare today.
 
 Notice her four 3's and high chance - "Just like that!".
 
-Here's me hacking instructions for using caller ID through using screenshots.
+Here's me hacking instructions to navigate to Call Log. My plan is to print out an image of her phone with Big arrows pointing at which buttons to hit.
 
-My mom < 1980's
 
 ![mom]({{ '/assets/images/2018/aug/mom.jpg' }})
 
