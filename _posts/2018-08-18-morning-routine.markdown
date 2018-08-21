@@ -1,31 +1,25 @@
 ---
 layout: post
-title: "Weighted Stair Masters"
+title: "How to Start Your Day the Right Way"
 date: 2018-08-16 08:00:00 -0500
 categories: Lifestyle
 ---
 
-If you want to smoke your upper and lower body, then this is the workout for you.
-I came up with a exercise that I feel will get me strong fast and home in time for breakfast. 
+My current favorite workout is using the stairmaster while carrying dumbbells.
+I will rotate through a few exercises to get a full body workout.
 
-## Weighted Stair Master using Dumbbells
+## the workout
 ![Stairmaster]({{ '/assets/images/2018/aug/stairmaster.jpg' }})
 
-# equipment 
-- stairmaster
-- two dumbbells
-- a willingness to suffer :)  
+For 20 - 30 mins, I will do each exercise in 1 minute intervals using 20lb dumbbells.
 
-# workout
-While on the stairmaster, I will rotate through a few dumbbell exercises, usually 1 minute per set.
+- [1min] hold dumbbells at side like a wheelbarrel
+- [1min] place dumbbells center on your chest and hold 
+- [1min] overhead presses
+- [1min] hold dumbbells just above each knee and do leg lifts
 
-- hold dumbbells at side like a wheelbarrel
-- hold dumbbells center on your chest similar to carrying a kayak or canoe shoulder height
-- do a double handed over head press as if you are lifting the kayak up high. 
-
-I happen to really like kayaks ;).
-
-Once I am done with all three sets, I will rest my upper body for one minute by placing a dumbbell on each leg and do leg lifts for one minute.
+It does not take long to get an insane workout in doing this. 
+That works well for me because it gives me time to be home and making breakfast.
 
 # Sweet Potato Pancake
 ![sweet potato pancakes]({{ '/assets/images/2018/aug/sweet-potato.jpg' }})

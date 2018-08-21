@@ -12,8 +12,8 @@ She was able to crush me in yahzee warfare today.
 
 Notice her four 3's and high chance - "Just like that!".
 
-Here's me hacking instructions to navigate to Call Log. My plan is to print out an image of her phone with Big arrows pointing at which buttons to hit.
-
+My mom and I both have the same model flip phone. 
+I am taking a photo so I can print out images with instructions on how to use caller ID so she doesn't have to call me asking if I called.
 
 ![mom]({{ '/assets/images/2018/aug/mom.jpg' }})
 

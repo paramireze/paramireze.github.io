@@ -6,9 +6,9 @@ categories: Travel
 ---
 
 I spent the last weekend visiting door county. 
-I grew there and find that visiting as an adult is much more awesome than growing up there as a kid.
+I grew up there and find that visiting as an adult is much more awesome :)
 
-Over the weekend, I was able to explore the area on bike and running. I also got to cook some good foods and hang out with family.
+Over the weekend, I got to cook some good foods and hang out with family.
 
 ## Saturday
 
@@ -19,16 +19,14 @@ Hey that's where I am at now!
 ![Penn Park]({{ '/assets/images/2018/aug/eagle-tower.jpg' }})
 
 I am in middle of my morning bike ride through the area and stopped to write. 
-It is kinda early and not a lot of people out yet. 
-Thanks to the recommendations of the peoples of Door County's sub-reddit, I found a restaurant that opened extra early called `Julie's Cafe`.
+There are deer all over the place. 
+It is nice being away from the noise.
 
 ![Bike Route]({{ '/assets/images/2018/aug/bike-route.png' }})
 
-The bike ride wasn't all that far and wanted to get a bit more exercise in.
-I ran 3-4 miles and did some burpees, pushups, and resistant band exercises.
-
+Thanks to the recommendations of the peoples of Door County's sub-reddit, I found a restaurant that opened extra early called `Julie's Cafe`.
+ 
 ## Sunday
-
 # Morning Run and Coffee
 
 ![Run and Coffee]({{ "/assets/images/2018/aug/sun-run.png" }})
