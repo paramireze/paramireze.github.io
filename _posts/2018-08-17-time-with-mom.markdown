@@ -17,3 +17,5 @@ I am taking a photo so I can print out images with instructions on how to use ca
 
 ![mom]({{ '/assets/images/2018/aug/mom.jpg' }})
 
+Nothing makes me feel more gangster than seeing my mom's smile after cooking her a meal. 
+Love you mom.

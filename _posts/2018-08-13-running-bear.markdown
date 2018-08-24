@@ -41,4 +41,6 @@ For being a gangster, I was awarded a giant teddy bear and a cowboy hat.
 # Three Lakes
 ![selfie]({{ '/assets/images/2018/aug/pav-self.jpg' }})
 
-I spent a bit of time exploring the `three lakes` area on bike. Beautiful area with a lot of wildlife.
+I spent a bit of time exploring the `three lakes` area on bike in the early morning. 
+Deer are everywhere.
+Beautiful area with a lot of wildlife.
