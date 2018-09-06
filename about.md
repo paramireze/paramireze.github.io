@@ -16,4 +16,4 @@ How I became an `Original Gangster`
 - I give my mom a hug every chance I get make her yummy food
 - I am in the gym at 5am every morning
 - Hang out with friends and be silly, preferably with beer
-- Fell deeply in love with writing and learning software languages and frameworks
+- Fell deeply in love with learning software languages and frameworks, most recently iOS developing using Swift/XCode

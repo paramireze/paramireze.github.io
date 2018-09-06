@@ -33,4 +33,10 @@ It also helps develop my lower calves since I am having to extend more since I d
 When things get nasty, I have these bad boys to keep me up right. They are great when trugging through
 
 ## inspiration
-In reality 
+I like to be effecient in my workouts. 
+Just made sense to me to combine commuting and running.
+
+
+I have noticed that i feel a huge reward whenever I am to figure out the thing that is bothering me.
+IT is usually something that I am not immediately aware about. 
+These type of things are 

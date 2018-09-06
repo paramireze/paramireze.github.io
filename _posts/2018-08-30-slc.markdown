@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Utah"
+date: 2018-08-30 08:00:00 -0500
+published: false
+categories: Travel
+---
+
+Morning Route
+![Bike box]({{ '/assets/images/2018/aug/bike-in-route.jpg' }})
+
+Salt lake city is located in a flat, 
+
+flew my bike out
+![Bike box]({{ '/assets/images/2018/aug/bike-in-route.jpg' }})
+
+got to salt lake city and made food
+![Breakfast]({{ '/assets/images/2018/aug/slc-breakfast.jpg' }})
+
+rode trails
+![bonneville]({{ '/assets/images/2018/aug/slcbonneville.jpg' }})
+
+drank beer
+![bonneville]({{ '/assets/images/2018/aug/slc-squatters.jpg' }})
+
