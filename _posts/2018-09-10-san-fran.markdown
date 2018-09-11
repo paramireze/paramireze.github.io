@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Frisco"
+date: 2018-09-10 08:00:00 -0500\
+categories: Travel
+---
+
+Traveling is a new experience for me.
+There is something special about removing yourself from your enviroment and going back to it. 
+You are able to see more clearly how that environment is impacting you.
+
+With that said, San Francisco is freaking cool. People are chill, relaxed and friendly. 
+The city is beautiful and the streets are alive. 
+The beer tastes good and they have great foods.
+
+I also got to hang out with someone I only seen once in the last 7 years. Yay me!
+
+![Someone I Still Know]({{'/assets/images/2018/sept/sf/a-friend.jpg'}})
