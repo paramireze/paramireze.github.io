@@ -2,13 +2,21 @@
 layout: post
 title: "Utah"
 date: 2018-08-30 08:00:00 -0500
-published: false
 categories: Travel
 ---
 
-Morning Route
-![Bike box]({{ '/assets/images/2018/aug/bike-in-route.jpg' }})
+I spent 5 days hanging out with my friend from Utah. 
+I put my electronics away and spent the entire time exploring the area and hanging out with my friends.
+It was interesting exploring some of the mountainy trails.
+The culture there is strongly tied to the mormon religion.
+My friend recommended that I buy `Under the banner of Heaven` book, and I did.
 
+It was weird leaving SLC and going back to Madison.
+For some reason it was tough for me to adjust. 
+Suppose I wasn't clear what I should do when I get back.
+
+Stephen Wasmund
+![Stephen Wasmund]({{ '/assets/images/2018/sept/slc/wasmund.jpg' }})
 Salt lake city is located in a flat, 
 
 flew my bike out

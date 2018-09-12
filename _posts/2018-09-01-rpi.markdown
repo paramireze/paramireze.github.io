@@ -1,53 +1,37 @@
 ---
 layout: post
-title: "Utah"
+title: "Rebecca's Private Ride"
 date: 2018-08-30 08:00:00 -0500
-published: false
 categories: Race
 ---
 
-I climbed my first mountain today.
-It all started when i heard queen's `bohemian rapsody`. 
-Queen was saying `is this the real life, or is this just fantasy, caught in a landslide, no escape from reality`.
-it is the tragedy of never being certain.
-So I climbed the mountain.
-I told everyone I planned on doing it.
-And I fucking did it.
+![Race Route]({{'/assets/images/2018/sept/slc/route.png'}})
 
-funny part is, as I was going up, paranoia set in.
-I thought how I was going to get caught.
-Then  I thought about how much shit everyone was saying.
-"What is the crazy guy doing?"
-"He is going to break his legs"
-Then I thought about how if I slipped I would only prove everyone right and i should had stayed back.
 
-Eventually I did get to the top and I fantisized about how awesome everyone must think I am.
-That they were watching my every movement with their high powered len's on their camera.
-I would occasionally do a stoic pose as I set my gaze up the sawtooth mountains.
-Eventually I set myself on the highest point and tried to write.
-I Couldn't write anyhing without constantly revising. 
 
-so i gave up.
-I realized that climbing a mountain did not make me a different person. 
-Like queen said, i was stuck in reality.
- 
+Rebecca's Private Idaho is a 100 mile gravel race that took place in the mountains of Idaho.
+This will be my first bike race this year and it will show.
+I used my cx bike to ride the mostly gravel route.
 
-[put picture here]({{'' }}) 
-What
-`Rebecca's Private Idaho`
+The race starts with a huge climb going up a mountain. 
+Most people will go very slow for this part except perhaps the leaders and front packs. 
+I stayed back and took my time up but did push myself somewhat harder than I probably should given my lack of experience climbing.
 
-Who
-Stephen Wasmund, Anna, Sarah, Jon, Christine, Eli, Amy, Mark?
+Eventually, I reached the top and got the wheel of a pelaton group.
+I stuck with them for quite a while and slowly started to drop off people.
+I knew that probably wasn't a good thing but wasn't sure why.
 
-Where
-Ketchum Idaho/ Sun Valley
+It wasn't until around mile 50 that I realized that mistakes were made. 
+When running, I can push a pretty hard pace for long periods of time.
+Biking is not running and I eventually tired out to the point where I could no longer keep up with those around me.
+This was around mile 50.
 
-When
-Today
+I could have joined the next group of riders and kept a decent pace. 
+Instead, I choose to not join anymore pelatons and instead enjoyed the ride.
+It was nice breathing in evenly and smoothly as I rolled over the beautiful Sun Valley trails deep in the mountains. 
+There were massive giant rock formations all around. 
+The weather was perfect. 
+The aid stations had idaho potatoes that were marinated in olive oil and something else.
+I may not have won the race but I bet I had one of the biggest smiles.
 
-Why
-Rebecca's Private Idaho Race 
-
-How
-On my cross bike silly.
-
+![Finish]({{ '/assets/images/2018/sept/slc/finish.jpg' }})

@@ -21,7 +21,11 @@ A way of analysing something using complex mathmatical and statistical modeling.
 Is when you try to find a geralized rule for one value input and when applied to the other data inputs, it is true
 This is also has to do with approximation
 
-- classification
+- classification & regulation
+When you are looking at data and trying to categorize it, you should look at the output.
+If the output is a single, whole number or something that is discrete or a discrete set of data, then that would be considered classification
+ 
+If your data is continious where the output can fit into a range of values and change based on how such as Yes/No
 
 - regression
  
