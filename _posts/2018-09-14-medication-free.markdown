@@ -11,11 +11,17 @@ WHen I did eventually get back home and was ready to start up on my medications,
 So I decided that I would carry my medications with me but not take any unless my symptoms came back.
 
 I do have trouble with my allergies if I am swimming. I will sneeze and get watery eyes.
-Otherwise, to the best of my knowledge I am mostly cured of both Asthma and Dust-mite allergies.
-My activity level is higher than it has ever been and my lungs feel great.
+My asthma was giving me a bit of trouble.
+Whenever I felt the symptoms, I would breathed slowly and steady.
+It wasn't long until my asthma symptoms was completely gone. 
+Maybe after a couple of weeks off the meds.
 
+To the best of my knowledge I am mostly cured of both Asthma and allergies.
 It is unknown to me why I needed those medications.
-The doctors never tested or bothered to check.
+I was told that I did and I never questioned it.
+I am now able to live comfortable within my own body without medication.
+Damn it feels good to be a gangster :)
+
 
 
 
