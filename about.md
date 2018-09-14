@@ -9,11 +9,11 @@ order: 5
 
 How I became an `Original Gangster`  
 
-- I sold my car and now ran & bike commute everyday.
-- skipped my smart phone in a nearby lake and bought a flip. An iPhone skips about 8 times last time i checked ;)
-- deleted my facebook, twitter, and instagram accounts
-- stop paying charter for internet and schedule time in my day to use internet at the library.
-- I give my mom a hug every chance I get make her yummy food
-- I am in the gym at 5am every morning
+- I sold my car
+- Ditched my smart phone
+- Deleted all social media accounts
+- Get rid of internet all together at home
+- Hug my mom every chance I get and make her yummy food
+- Be in the gym 5am every morning
 - Hang out with friends and be silly, preferably with beer
-- Fell deeply in love with learning software languages and frameworks, most recently iOS developing using Swift/XCode
+- Schedule 1-2 hours everyday to develop dope software 
