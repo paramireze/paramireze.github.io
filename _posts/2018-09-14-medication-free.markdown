@@ -16,11 +16,14 @@ Whenever I felt the symptoms, I would breathed slowly and steady.
 It wasn't long until my asthma symptoms was completely gone. 
 Maybe after a couple of weeks off the meds.
 
-To the best of my knowledge I am mostly cured of both Asthma and allergies.
-It is unknown to me why I needed those medications.
-I was told that I did and I never questioned it.
-I am now able to live comfortable within my own body without medication.
-Damn it feels good to be a gangster :)
+It is a strange thing being cured of what were supposed to be irreversible conditions.
+You wonder how and why this happened. 
+Years of taking medication every day and they may not had been necessary?
+Like i said, it is a strange thing.
+
+It is also a strange thing to be free medication.
+I thought I wouldn't be able to run or bike without it.
+Now I can live comfortably within my own body without any help.
 
 
 
