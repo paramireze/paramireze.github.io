@@ -2,6 +2,7 @@
 layout: post
 title: "Giving up Prescription Medications"
 date: 2018-09-14 12:00:00 -0500
+published: false
 categories: Lifestyle
 ---
 

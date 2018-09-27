@@ -10,9 +10,11 @@ is a way to build decision trees from a dataset.
 It will then iterate over every attribute and select a decision tree with the lowest entropy.
 
 # Restriction Bias
-I believe this is when you limit your attributes or function to a specific type of function such as a quadriatic equation. 
+Bawsed on the order of the hypothesis searched.
 
 # Preference Bias
+because `ID3` takes a top down approach, it will prefer good splits at the top. 
+This also means that it will prefer shorter trees over longer ones.
 
 
 ## Refresher Concepts
