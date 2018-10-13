@@ -25,4 +25,4 @@ I am biking and running just as much, if not more.
 Leaving ironman was not an end for me. 
 It is just a beginning.
 I leave wednesday for a 100 mile gravel ride with my friend Stephen Wasmund.
-
+I am no longer confined to a specific activity.
