@@ -7,7 +7,7 @@ order: 5
 
 ![paul avatar]({{ "/assets/images/profile/bfd.JPG" }})
 
-How I became an `Original Gangster`  
+Blue prints to becoming me
 
 - I sold my car
 - Ditched my smart phone
