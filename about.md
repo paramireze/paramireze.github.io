@@ -12,8 +12,9 @@ How I became an `Original Gangster`
 - I sold my car
 - Ditched my smart phone
 - Deleted all social media accounts
-- Get rid of internet all together at home
-- Hug my mom every chance I get and make her yummy food
+- Got rid of internet at home
+- Hug my mom every chance I get 
+- make my mom yummy foods
 - Be in the gym 5am every morning
 - Hang out with friends and be silly, preferably with beer
-- Schedule 1-2 hours everyday to develop dope software 
+- Schedule 1-2 hours everyday to develop dope software for funsies
