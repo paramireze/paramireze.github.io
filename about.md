@@ -14,7 +14,7 @@ Blue prints to becoming me
 - Deleted all social media accounts
 - Got rid of internet at home
 - Hug my mom every chance I get 
-- make my mom yummy foods
-- Be in the gym 5am every morning
-- Hang out with friends and be silly, preferably with beer
-- Schedule 1-2 hours everyday to develop dope software for funsies
+- make yummy foods and drink good beer
+- Be in the gym 5 am every morning
+- Hang out with friends and play video/board games
+- Write dope software for funsies

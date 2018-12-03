@@ -22,10 +22,12 @@ I like how I could connect each page element to the view controller so I had ful
   
 ![Calculator]({{ '/assets/images/2018/dec/gadCalc3.png' }})
 
-## Stackviews
-Building the layout was greatly simplified using stackviews. 
-One tutorial said to use them often, since they can provide consistent layout across all devices.
-
+## XCode
+XCode is my favorite part of developing the Gad Calc application.
+It took me a while to get use to it, however, I thought it to be extremely intuitive once I worked with it for a while.
+The IDE has an IntelliJ feel to it.
+I especially enjoyed the storyboards for visually representing the application itself. 
+ 
 ![Storyboards]({{ '/assets/images/2018/dec/gadCalc2.png' }})
 
 ## Strong Type Programming Language

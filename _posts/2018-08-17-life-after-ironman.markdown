@@ -26,3 +26,5 @@ Leaving ironman was not an end for me.
 It is just a beginning.
 I leave wednesday for a 100 mile gravel ride with my friend Stephen Wasmund.
 I am no longer confined to a specific activity.
+
+![Ironman]({{ '/assets/images/2018/dec/ironman.JPG' }})
