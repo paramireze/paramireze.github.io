@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "Frisco"
-date: 2018-09-10 08:00:00 -0500\
+date: 2018-09-10 08:00:00 -0500
+published: false
 categories: Travel
 ---
 
 Traveling is a new experience for me.
-There is something special about removing yourself from your enviroment and going back to it. 
+I never really had the income to justify doing it for any length of time.
+There is something special about removing yourself from your life. 
+It can be a bit hard coming
 You are able to see more clearly how that environment is impacting you.
 
 With that said, San Francisco is freaking cool. People are chill, relaxed and friendly. 
