@@ -20,7 +20,7 @@ I announced it to those around me when I read that.
 Being an "Ironman" was my identity.
 People would call me ironman, and still do.
 For that reason, I think it is why it took me so long to move on.
-Once I removed the pressure of feeling like I had to train, I was able to start enjoy running and biking again.
+Once I removed the pressure of feeling like I had to bike and run all day everyday, I was able to start enjoy running and biking again.
 I am biking and running just as much, if not more.
 Leaving ironman was not an end for me. 
 It is just a beginning.

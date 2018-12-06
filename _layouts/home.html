@@ -25,7 +25,9 @@ layout: default
 
       {% for post in site.posts %}
         {% unless post.categories contains 'Lifestyle' %}
+        {% unless post.categories contains 'Adventuring' %}
         {% unless post.categories contains 'Travel' %}
+        {% unless post.categories contains 'Race' %}
           <li>
             {% assign date_format = site.minima.date_format | default: "%b %d, %Y" %}
 
@@ -41,6 +43,8 @@ layout: default
             {{ post.excerpt }}
             <hr />
           </li>
+        {% endunless %}
+        {% endunless %}
         {% endunless %}
         {% endunless %}
       {% endfor %}
