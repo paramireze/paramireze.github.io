@@ -22,9 +22,11 @@ People would call me ironman, and still do.
 For that reason, I think it is why it took me so long to move on.
 Once I removed the pressure of feeling like I had to bike and run all day everyday, I was able to start enjoy running and biking again.
 I am biking and running just as much, if not more.
-Leaving ironman was not an end for me. 
-It is just a beginning.
-I leave wednesday for a 100 mile gravel ride with my friend Stephen Wasmund.
-I am no longer confined to a specific activity.
+Competing in ironman is all about effeciency.
+You look for every opportunity to shave seconds from your time whether it is getting out of your wetsuit or just smaller things like being nimble enough to quickly grab your water bottle and drink from an aero position.
+I do not see me retiring from ironman competition as an end.  
+To me, the years of training is the scaffolding that got me my effecient life.
+My goal is to become extremely effecient in daily transitions such as getting to work in the morning so I can find time to do the things I care about.
+
 
 ![Ironman]({{ '/assets/images/2018/dec/ironman.JPG' }})
