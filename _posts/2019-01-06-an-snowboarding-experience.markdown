@@ -5,40 +5,54 @@ date: 2019-01-06 08:00:00 -0500
 categories: Travel
 ---
 
-for the weekend after new years, I will spend a 4 day weekend running, snowboarding, drinking beer and video games in Hurley Wisconsin.
+To kick off 2019, I descended upon Hurley Wisconsin with a dozen other hashers.
+
+## The Goal
+
+Snowboard, drink beer, be active, and drink more beer
 
 ## The Destination
 
-For the weekend, I will be hanging out in a rented home in Hurley Wisconsin with a dozen others.
+For the weekend, I hung out in Hurley Wisconsin with a dozen others from my drinking club. 
 
 ![map]({{ '/assets/images/2019/jan/the-journey.png' }})
 
+## Summarizing the weekend
+
+I hurt myself pretty bad learning how to snowboard and spent a lot of time doing my own thing. 
+I spent a lot of time on my own venturing about while others were bombing down the hills. 
+The nights typically involved hitting up the infamous silver st.
+
+## Killing time
+
+There was a lot of downtime with plenty of activities, including a sauna which we discovered can fit 9 hashers at once.
+
+![the bad news pair]({{ '/assets/images/2019/jan/switch.jpeg' }})
+![the bad news pair]({{ '/assets/images/2019/jan/7wonders.jpeg' }})
+![the bad news pair]({{ '/assets/images/2019/jan/malazan.jpg' }})
+
 ## Running
 
-Each morning I would wake up and go for a run on snow covered side-walks and trails
+I would run a couple times a day. Here are some routes. I found some snowcovered snowshoeing/ski trails that was especially pleasant.
+I used playground equipment at various parks for upper body workouts.
+
+![Running options]({{ '/assets/images/2019/jan/day1.png' }})
+![Running options]({{ '/assets/images/2019/jan/day2.png' }})
+![Running options]({{ '/assets/images/2019/jan/day3.png' }})
 
 ### Tactical Gear
 
-I particularly enjoy using the Salomon Speedcross 3 shoes for anything with snow
+I particularly enjoy using my Salomon Speedcross 3 shoes for anything snow related.
 
-![Running options]({{ '/assets/images/2019/jan/shoes.jpg' }})
+![Running options]({{ '/assets/images/2019/jan/shoes.jpg' }}) 
 
-### Day 1
-Friday morning, OTC and I explored the area
-![Running options]({{ '/assets/images/2019/jan/day1.png' }})
+For commuting in the snowy/icy conditions, I used my `Stache` Mtn Bike.
 
-### Day 2
-With most everyone hungover, including myself, I decided to run some cross country ski and snowshoeing trails that were nearby
-![Running options]({{ '/assets/images/2019/jan/day2.png' }})
+![Trek Stache]({{ '/assets/images/2019/jan/stache.png' }}) 
 
-### Day 3
-I stopped in a cafe in town to work on an iphone app
-![Running options]({{ '/assets/images/2019/jan/day3.png' }})
 
-## Concussion ;)
+## the bad news pair
 
-During each run, I would find playground equipment to do pullups and dips. I tried to eat salads at restaurants while with friends and limit my calorie intake.
-
+Shout out to OTC for trail running with me one morning.
 
 ![the bad news pair]({{ '/assets/images/2019/jan/otc-and-i.jpg' }})
-
