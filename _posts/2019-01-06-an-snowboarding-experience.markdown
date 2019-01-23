@@ -19,7 +19,7 @@ I descended upon Hurley Wisconsin with a dozen other hashers.
 
 ## Summarizing the weekend
 
-II bruised myself pretty bad learning how to snowboard and had to call it quits early. While others were bombing down the slopes of Indian head, I mostly did my own thing.
+I bruised myself pretty bad learning how to snowboard and had to call it quits early. While others were bombing down the slopes of Indian   head, I mostly did my own thing.
 
 ## Killing time
 
