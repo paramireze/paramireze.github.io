@@ -24,10 +24,10 @@ That is what made quitting so difficult.
 ## life after ironman
 
 I restructured my workouts to be more well-rounded and more preventitive towards injuries.
-Instead of competing in triathlons, I am doing races that my friends are doing. For example, I did a marathon in northern wisconsin with a group of friends. I also traveled to Idaho to do a gravel ride race up in the mountains.
+Instead of competing in triathlons, I am looking to have more fun and spend time with friends. 
 
 ## conclusion
-Quitting ironman was just the start. I retained my habit for exercise and eating well. I learned to enjoy exercising again and look forward to it everyday.
+Quitting ironman was just the start. I retained my habit for exercise and eating well. I have learned to use exercise as a tool to becoming more social instead of an end goal. 
 
 
 ![Ironman]({{ '/assets/images/2018/dec/ironman.JPG' }})
