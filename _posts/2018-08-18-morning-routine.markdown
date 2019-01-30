@@ -19,7 +19,6 @@ For 20 - 30 mins, I will do each exercise in 1 minute intervals using 20lb dumbb
 - [1min] hold dumbbells just above each knee and do leg lifts
 
 It does not take long to get an insane workout in doing this. 
-That works well for me because it gives me time to be home and making breakfast.
 
 # Sweet Potato Pancake
 ![sweet potato pancakes]({{ '/assets/images/2018/aug/sweet-potato.jpg' }})

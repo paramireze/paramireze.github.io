@@ -5,30 +5,58 @@ date: 2019-01-06 08:00:00 -0500
 categories: Travel
 ---
 
-I have been looking for opportunities to travel and spend time with family.
-I travelled to Tampa to hang out with my cousin Tumoyia.
-It was an extended weekend, the plan being to attend Gaspirilla Pirate Festival.
+For the second time in my adult life, I descend upon Tampa to hang out with family.
+
+## Gasparilla
+Got to participate in the third largest festival in north america.
+
+![to the gym]({{ '/assets/images/2019/jan/gasparilla-ship.jpg' }})
+
+## Staying Strong
+I visited a military gym near McDill Airforce base.
+The soldiers there inspired me to work extra hard
+
+In one day I did
+- 40 mins row machine
+- 40 mins bike station 
+- 40 minutes stair master with 45 lb weighted vest
+- dozen sets of burpees with 15lb dumbbells
+- dozen sets of pullups, dips and single armed pushups. 
+
+At the end of day, I went to an all you can eat restaurant and devoured as much as I possibly could
+
+![Crunch Fitness]({{ '/assets/images/2019/jan/crunk_fitness.jpeg' }})
+
+## Restaurants
+
+Got to try out some of the local restaurants
+
+#### first watch
+![First Watch]({{ '/assets/images/2019/jan/first_watch.png' }})
+
+#### rocco's taco
+![First Watch]({{ '/assets/images/2019/jan/roccos.jpeg' }})
 
 
-## staying strong
-Staying strong is always a priority and visit the local gym regularly.
-It is located a mile a little over a mile away and enjoy the short jog over since it is just that much more time in the florida sun.
+## Activities
 
-I was originally planning on taking it easy, however, the opposite could not be more true.
-My workouts increased in intensity and in volume. Something about visiting a different gym motivated me to push it extra hard.
+I particularly fell in love with the nintendo switch version of zelda.
 
-## fooding
+![zelda]({{ '/assets/images/2019/jan/zelda.jpg' }})
 
-Sushi is a thing in my cuzun household. I use to stay away from the stuff until my shellfish allergy went away.
+The other activities were good fun 
 
-I also like to fry up veggies using olive oil and pouch eggs on top.
+![pandemic]({{ '/assets/images/2019/jan/pandemic.jpg' }})
 
-## activities
+![pandemic]({{ '/assets/images/2019/jan/deadpool.jpeg' }})
 
-Nintendo switch and pandemic
+## Bars 
 
+After Gasparilla, a few of us went here and hung out with the local party going crowd
 
-## other routes
+![to the gym]({{ '/assets/images/2019/jan/Irish31logo.png' }})
+
+## Running!
 
 I spent a lot of time soaking up the sun and enjoying the fact that is negative zero back in wisconsin.
 
@@ -42,7 +70,11 @@ I spent a lot of time soaking up the sun and enjoying the fact that is negative 
 
 ![to the gym]({{ '/assets/images/2019/jan/tampa_route_5.png' }})
 
-![to the gym]({{ '/assets/images/2019/jan/first_watch.png' }})
+## Conclusion
 
-![zelda]({{ '/assets/images/2019/jan/zelda.jpg' }})
+I found my visit to Tampa to be an amazing experience of spending time and discovering new things.
+There is a large military presence here which brings me a bit back to my early 20's.
+Also, I was able to meet my cousin for the first time in 30 years. 
+
+![Selfie]({{ '/assets/images/2019/jan/tampa_selfie.jpg' }})
 
