@@ -8,38 +8,31 @@ categories: Lifestyle
 For years, I've trained everyday for the Ironman competition here in Madison, WI.
 I have finished in the top 1% for all of my races.
 My strongest event is the bike.
-My time on the bike is comparable to many pro athletes.
+My time for that specific event is comparable to some pro athletes.
 
 ## what went wrong
-I realized I wasn't having fun. When I first started, it was the audacity of the entire thing that appealed to me. 
+I realized I wasn't having fun. When I first started, it was the audacity of the entire thing that appealed to me.
+I was already biking and running everyday for funsies and Ironman wasn't that much of a leap for me. 
 Making the sport my lifestyle was not exactly what I had in mind.
-Perhaps it was the feedback I was getting from friends and family that caused me to go that direction.
-For the next few years, I invested heavily in the sport.
-I bought the expensive bike and gear. 
-I swam every morning before work and do run/bike rides after. 
-I would do long bike rides on the weekends.
-All those things were enjoyable to me at first.
-Overtime, it stopped being fun.
-Don't get me wrong, I enjoyed the health benefits and the prestige of being a competitive athlete.
-
+To this day I scratch my head quite vigorously trying to figure out how I fell into it.
+My best guess was the massive amounts of positive feedback I was getting from family and friends, and how I inspire them. 
 
 ## quitting
-Quitting ironman was one of the toughest decisions I made.
-For some reason, I thought it was who I was as a person, that it was my identity.
-Strange right? It sounds silly even writing it in retro spec.
-However, people would call me "Ironman" or introduce me as "Paul here has done several Ironman's".
-It would often get me talking to people at work that would otherwise not have anything in common with. 
+Not going to lie (or am i?!), quitting ironman was rediculasly tough for me.
+I thought I was somehow letting people down that looked up to me.
+Furthermore, I kind of took the event and training for it as part of my identity. 
 
 ## life after ironman
-Once I decided that I was done with Ironman, I instantly enjoyed running and biking again.
-It no longer felt like a job. 
-In fact, I am running and biking more than I ever was.
-I am grateful for the years training. I believe that rigid lifestyle was the fuel for my new love of fitness freedom now. 
+Once I decided that I was done with Ironman, I rediscovered my love for adventuring.
+I now strap a backpack on and run everywhere I go, including when I travel to other cities. 
+If the distance is too great, I will find a bike to use.
+Furthermore, I forgot how much of a gym rat I am... 
+Ironman training schedule did not have the flexibility for really solid strength training regiments. 
 
 ## conclusion
-The ultimate lesson I learned from quitting ironman is I should never commit myself to something because I feel I should.
-Also, my identity is something I define and no one else. 
-Taking ownership of my time was the first step to a happier life. 
-
+The ultimate lesson I learned is people are not stupid. 
+I was not fooling anyone by thinking I was doing others favors by doing something I was not absolutely certain about.
+Furthermore, I learned that I need to listen to the feedback people are giving me.
+There were many warning signs before I reached full burnout. 
 
 ![Ironman]({{ '/assets/images/2018/dec/ironman.JPG' }})
