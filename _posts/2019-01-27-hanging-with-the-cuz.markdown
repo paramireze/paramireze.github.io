@@ -73,8 +73,9 @@ I spent a lot of time soaking up the sun and enjoying the fact that is negative 
 ## Conclusion
 
 I found my visit to Tampa to be an amazing experience of spending time and discovering new things.
-There is a large military presence here which brings me a bit back to my early 20's.
-Also, I was able to meet my cousin for the first time in 30 years. 
+There is a large military presence here which was my career in my early to mid 20's.
+I got to reunite with my other cousin who I hadn't seen in 30 years.
+
 
 ![Selfie]({{ '/assets/images/2019/jan/tampa_selfie.jpg' }})
 

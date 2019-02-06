@@ -1,33 +1,23 @@
 ---
 layout: post
-title: "Building My First Big Boy App"
+title: "Building my First Clinical Application"
 date: 2019-01-06 08:00:00 -0500
 categories: Ruby Rails development
 ---
 
-For work, I built what I consider to be my first big boy application called `Tollbooth`. According to the about page, 
-
-{% highlight ruby %}
-
-Tollbooth is a centralized place for residents, fellows, and faculty to track exams & reports.
-
-- view discrepancies for exams
-- track interesting/notable exams using flags
-- filter exams
-
-{% endhighlight %}
+For work, I built an application to assist Dr's with viewing and analyzing their reports.
 
 ## dashboard
 
-When a user logs in, they are brought to a main dashboard. The dashboard is populated based on the user roles and which exams they have worked on.
+The application primary focus is on the users dashboard. 
+It is populated with all their exams so they can quickly look up exam data and report discrepancies.
 
 ![Table View]({{ '/assets/images/2019/jan/dashboard.png' }})
 
-Users can optionally open an exam and see a side by side report comparison.
 
 ![Exam Data]({{ '/assets/images/2019/jan/exam.png' }})
 
-## challenges
+## Challenges
 
 #### lot of data 
 The app has a lot of data gonig through it and it has been tough keeping the speeds up. To solve some of the issues, I lazy load some of the exam/report data and use javascript to quickly open the exam Modal
