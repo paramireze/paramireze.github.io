@@ -7,14 +7,10 @@ order: 5
 
 ![paul avatar]({{ "/assets/images/profile/bfd.JPG" }})
 
-Blue prints to becoming me
+Thank you for visiting my blog, it is a place where I go to discuss nerdy stuff.
+I am an ordinary guy who lives the good life. 
+My time is mostly spent pursuing athletics and writing code.
+Otherwise, I like to cook my mom meals and hang out with friends.
+Most recently, I have taken up reading the `Malazan series` by Stephen Erikson.
 
-- Went vehicless
-- Went with a dumb phone
-- Deleted facebook account
-- Turned into a cable cutter
-- Hug my mom every day
-- Make yummy foods and drink good beer
-- Be in the gym 5 am every morning
-- Hang out with friends and play games
-- Write dope software 
+   
