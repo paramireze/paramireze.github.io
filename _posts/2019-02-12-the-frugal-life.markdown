@@ -27,15 +27,12 @@ There are some free online courses that I am participating in to stay on top of 
 
 # food
 
-Something I sometimes tell my friends is I believe there is a war on cheap food. 
-What better way to get Americans to pay lots of money for food?
-Now that I got that out of the way, most my calories will come from rice, beans, potatoes, eggs, and nuts.
-I do like to buy fresh salad fixings and sometimes popcorn.
+For the last few weeks, I have been getting most my calories from rice, beans, potatoes, eggs, greens, and nuts.
 
 # weekends
 
-I am pretty good about avoiding bars and restaurants. 
-I will be extra vigilent to keep up that habit.
+Weekends can be tough staying in and not hitting up the bars with friends.
+I have been successful lately finding healthy activities to pre-occupy my time and will continue to explore alternative means of recreation. 
 
 # entertainment
 
