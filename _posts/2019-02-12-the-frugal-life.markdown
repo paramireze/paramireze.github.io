@@ -37,8 +37,8 @@ I have been successful lately finding healthy activities to pre-occupy my time a
 # entertainment
 
 My roommate and I enjoy playing board games and classic nintendo. 
-I also read quite a bit as well as write letters and blog.
-All of these items combined is my strategy 
+I also have a renewed love for reading.
+Also, I find that running and biking to be a great source of pleasure for me.  
 
 ## conclusion
 
