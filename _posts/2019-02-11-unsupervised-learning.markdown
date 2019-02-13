@@ -6,7 +6,12 @@ categories: Machine Learning
 ---
 
 
-Unsupervised learning is a process of an algorithm looking at a set of data and grouping/clustering them based on charactersitics.
+Unsupervised Learning is a way of gaining insight from data when we normally wouldn't be able to. 
 
-I think the real power of unsupervised learning is that an algorithm can arrive at solutions programmatically that would otherwise be extroadinarily difficult done using rules.
+This is typically done by algorithms looking at relationships among various datasets.
 
+In this last session, `clustering` and `non-clustering` were explained to be two ways that an algorithm can derive information from unsupervised learning.
+
+clustering is the process of grouping data
+
+non-clustering is a bit trickier for me to explain. The video gave the example of filtering out sounds from a loud room.

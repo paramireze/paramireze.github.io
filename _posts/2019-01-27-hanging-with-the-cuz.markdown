@@ -16,14 +16,14 @@ Got to participate in the third largest festival in north america.
 I visited a military gym near McDill Airforce base.
 The soldiers there inspired me to work extra hard
 
-In one day I did
+Each day I did something like:
 - 40 mins row machine
 - 40 mins bike station 
 - 40 minutes stair master with 45 lb weighted vest
 - dozen sets of burpees with 15lb dumbbells
 - dozen sets of pullups, dips and single armed pushups. 
 
-At the end of day, I went to an all you can eat restaurant and devoured as much as I possibly could
+I would than descend upon an all you can eat restaurant and put them to the test.
 
 ![Crunch Fitness]({{ '/assets/images/2019/jan/crunk_fitness.jpeg' }})
 
