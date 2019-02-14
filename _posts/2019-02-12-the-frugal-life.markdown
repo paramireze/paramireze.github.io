@@ -1,40 +1,38 @@
 ---
 layout: post
-title: "The Frugal Challenge"
+title: "Giving Myself a Pay Raise"
 date: 2019-02-12 12:00:00 -0500
 categories: Lifestyle
 ---
 
-Starting with this post, I plan on making a monthly post discussing my expenses.
-My goal is to gather as much discipline as possible and see how much I can reduce my spending.
+Starting this month, I am going to find ways to reduce spending.
+The reason being is to see if I can.
+
 
 ## January
 
-January was particularly expensive because I traveled to Florida and paid for hotels and restaurants.
-
+January was particularly expensive month since I went on  vacation in Florida.
 
 ![Expenses]({{ '/assets/images/2019/feb/2019-01-frugile-challenge.png' }})
 
 ## strategies
 
-I have a few ideas on how to reduce my spending quite a bit. 
-I believe the categories listed below should get me 80% of the way to where I want to be.
+I have a few ideas on how to reduce my spending.
 
-# learning
+# activities
 
-I find learning new things is the best way to find purpose and stay focused.
-There are some free online courses that I am participating in to stay on top of new software technologies.
+Much of my time is taking up by coursera courses, reading books, and doing workouts at the gym
 
 # food
 
-For the last few weeks, I have been getting most my calories from rice, beans, potatoes, eggs, greens, and nuts.
+Beans, Rice, Potatoes, and eggs are going to be my staples.
 
 # weekends
 
-Weekends can be tough staying in and not hitting up the bars with friends.
-I have been successful lately finding healthy activities to pre-occupy my time and will continue to explore alternative means of recreation. 
+If I have done my job well, my activities should carry me through the weekends and away from excessive boozing.
+Don't get me wrong, boozing will happen, just in a moderate amount.
 
-# entertainment
+# additional entertainment
 
 My roommate and I enjoy playing board games and classic nintendo. 
 I also have a renewed love for reading.
@@ -42,7 +40,5 @@ Also, I find that running and biking to be a great source of pleasure for me.
 
 ## conclusion
 
-If I have planned well, then my next post should show some impressive results. 
-The key to success is to have activities that are engaging to occupy my time. 
-Otherwise, I can easily imagine myself hanging out at the bars as I would routinely do in the past.
+My next post should show some impressive results, assuming I stick to the plan. 
  
