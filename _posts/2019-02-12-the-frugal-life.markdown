@@ -21,7 +21,7 @@ I have a few ideas on how to reduce my spending.
 
 # activities
 
-Much of my time is taking up by coursera courses, reading books, and doing workouts at the gym
+Much of my time is taking up by coursera courses, reading books, and gym workouts
 
 # food
 
@@ -30,13 +30,7 @@ Beans, Rice, Potatoes, and eggs are going to be my staples.
 # weekends
 
 If I have done my job well, my activities should carry me through the weekends and away from excessive boozing.
-Don't get me wrong, boozing will happen, just in a moderate amount.
-
-# additional entertainment
-
-My roommate and I enjoy playing board games and classic nintendo. 
-I also have a renewed love for reading.
-Also, I find that running and biking to be a great source of pleasure for me.  
+Don't get me wrong, boozing will happen, just in a moderate amounts.
 
 ## conclusion
 
