@@ -29,8 +29,8 @@ Beans, Rice, Potatoes, and eggs are going to be my staples.
 
 # weekends
 
-If I have done my job well, my activities should carry me through the weekends and away from excessive boozing.
-Don't get me wrong, boozing will happen, just in a moderate amounts.
+If I have done my job well, my activities should keep me from getting too bored and spending money out at movies or restaurants. 
+Not that i have a problem with those things, I rather not do them out of boredom, rather as an event. 
 
 ## conclusion
 
