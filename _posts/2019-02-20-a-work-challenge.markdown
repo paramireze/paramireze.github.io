@@ -20,9 +20,9 @@ Each year, faculty at the University have to enter in data for their `published 
 
 ## todo 
 
- 1) detect `IF published-Peer-Reviewed-Manuscripts`
- 2) preserve the excel formatting 
- 3) store/retrieve the data from the database
+ - detect `IF published-Peer-Reviewed-Manuscripts`
+ - preserve the excel formatting 
+ - store/retrieve the data from the database
 
 # 1) detecting `IF peer-reviewed manuscripts`
  Since everything is data driven, I will need to check which question is being asked. 
