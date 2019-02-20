@@ -17,15 +17,15 @@ January was particularly expensive month since I went on  vacation in Florida.
 
 ## strategies
 
-I have a few ideas on how to reduce my spending.
+To start with, my plan is to figure out `activities`, `food`, and `weekends` since those are all area's that impact my spending decisions.  
 
 # activities
 
-Much of my time is taking up by coursera courses, reading books, and gym workouts
+Much of my time is taking up by coursera online classes, reading books, and cardio exercises.
 
 # food
 
-Beans, Rice, Potatoes, and eggs are going to be my staples.
+Lots and lots of inexpensive plant based foods, except cashews and avocado's.
 
 # weekends
 
