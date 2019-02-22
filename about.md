@@ -7,8 +7,8 @@ order: 5
 
 ![paul avatar]({{ "/assets/images/profile/bfd.JPG" }})
 
-Hello World. Welcome to my blog. This is where I like to share my life experiences and strategies I have come up with.
+Hello World. This is where I like to share my life experiences and strategies for learning new things. I am an avid endurance junkie and will often nerd out about fitness. If you don't mind all those things, welcome to my blog.
  
-If you want to contact me, I can be reached at paramireze @ gmail . com (spaces are intentional to avoid scriptings using reg-ex to collect emails. Bad robots bad)
+If you want to contact me, I can be reached at paramireze @ gmail . com 
 
    
