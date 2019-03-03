@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giving Myself a Pay Raise"
+title: "Giving Myself a Pay Bump"
 date: 2019-02-12 12:00:00 -0500
 categories: Lifestyle
 ---
