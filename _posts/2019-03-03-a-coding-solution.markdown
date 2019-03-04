@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I Solved a Load Speed Problem for a Work Project"
+title: "A Curious Case of Solving Load Speeds"
 date: 2019-03-02 08:00:00 -0500
 categories: Ruby Rails development
 ---
@@ -8,15 +8,15 @@ categories: Ruby Rails development
 For work, I have recently built an educational tool for doctors. The application provides doctors with a dashboard that lists all their exams. They can cycle through each exam and gain valuable feedback such as 
 comparison diffs between prelim/final, comments, and flagging.
 
-When a doctor clicks on an exam, a pop-up window would show the exam. Everything worked fine in my local development environment, however, there is a 2 - 3 second delay on staging and production which is a big deal, especially for busy doctors. 
+When a doctor clicks on an exam, a pop-up window would show the exam. Everything works fine in my local development environment, however, there is a 2 - 3 second when running the application on either the staging and production server. This is a big deal far as a usability stand-point, especially for busy doctors. 
 
 The logic behind the exam pop-up window uses a single AJAX call that queries the exam data and then passes that data from the controller and into a view. From everything I've learned, this is as straight forward, simple as it gets far as AJAX calls go.  
 
-The reason for the delay was unknown. I think it had to do with our vendor's rabbitMQ's messaging bus, however, I am not certain. While the groups scratch their heads to figure this out, I set out to implement a work-around.
+The reason for the delay is unknown. I think it had to do with our vendor's rabbitMQ's messaging bus, however, I am not certain. While the groups scratch their heads trying to figure the speed disreprency, I set out to implement a work-around.
 
-Since a lot of the exam data is already in the dashboard, I figured I could use JQuery to grab those values and populate the Exam pop-up window with that. This would solve the problem of AJAX taking too long. Below is the code I used to implement just that.
+Since a lot of the exam data is already being used in the dashboard, I figured I could lazy load the rest of the exam data into hidden fields. With all the data there, I then use the code below to dynamically create the exam pop-up windows without ever doing any AJAX calls, thus fixing the speed issue.
 
-{% highlight ruby %}
+{% highlight javascript %}
 
 /* User selects an exam */
 function openExam(examId) {
@@ -78,7 +78,6 @@ function displayReportAndDiff(examId, reportOneId, reportTwoId) {
     var reportBody2 = getReportBody(reportTwoId);
 
     if (isThereTwoReports(reportOneId, reportTwoId)) {
-
 
         displayReport(examId, reportOneId, reportImpression1.html(), reportBody1.html(), 'Div1');
         displayReport(examId, reportTwoId, reportImpression2.html(), reportBody2.html(), 'Div2');
@@ -324,3 +323,6 @@ function copyToClipboardClickHandler(inputId) {
 }
 
 {% endhighlight %}
+
+## Conclusion
+This is not an ideal solution. I much rather off-load the exam business logic into a separate controller action and view. To me, that would make the code far more readible and easier to maintain. However, sometimes a developer doesn't have the luxury of ideal solutions.

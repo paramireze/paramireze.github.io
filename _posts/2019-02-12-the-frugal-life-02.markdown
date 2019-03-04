@@ -5,20 +5,24 @@ date: 2019-03-01 12:00:00 -0500
 categories: Lifestyle
 ---
 
+Starting the month of Febuary, I will be tracking all my financial transactions and looking for ways to mininimize my expenses. My plan is to avoid unplanned, impulsive spending.
+
+# strategies for saving
+My lifestyle has not changed much since being a poor college student. I sold my only vehicle in 2013. I decided Madison was easy enough to get around by bus and bike. I estimated I was saving 4 - 6k a year, despite the truck being paid off. 
+
+# results are in
+
+UW Credit union has some slick reporting features for their online banking.
 
 ![Monthly Expenses]({{ '/assets/images/2019/march/expenses.png' }})
 
-At the end of January, I decided to see how much I could reduce my spending. Considering, my expenses are already low, it was a matter of refraining from going out to restaurants and avoid needless shopping. 
-
-# results
-
-After calculating my expenses and reimbursements for splitting rent/gas/electric and my mom's cigarettes, my total spending were **1478.99**. I was able to reduce my spending by $1500 from last month.
+After calculating my expenses including reimbursements for half the rent and other stuff, my total spending were **1478.99**. I was able to reduce my spending by $1500 from last month.
 
 # what I did right
-I communicated with friends and family that I will be focusing on my self and my career. That allowed me to more easily decline invitations to go out. 
+I communicated with my friends and family my new schedule filled with online-classes and home projects. That estabished easy communication when it came to declining invitations for going out to restaurants or bars.
 
-# what I could have done to improve
-The thing that cost me the most is stress. When I am stress, my eating and drinking habits change a lot and I will often be more impulsive about my purchases. In the future, I will need to identify stresses sooner so to avoid those needless spendings.
+# what I can do to improve
+The thing that cost me the most is stress. When I am stress, my eating, sleeping, and drinking habits change a lot and I will often be more impulsive about decisions, including purchases. In the future, I will need to identify stresses sooner so to avoid needless suffering.
 
 ## Frugal doesn't mean you can't find quality stuff 
 
@@ -37,7 +41,9 @@ Found some decent clothes
 
 ## Reward!!
 
-for being awesome I bought myself a bike seat growler holder and stainless steel growler
+# `$100` - Bicycle-Mounted Growler Holder and Stainless Steel Growler  
+
+It is going to be a good summer
 
 ![clothes]({{ '/assets/images/2019/feb/growler.png' }})
 ![clothes]({{ '/assets/images/2019/march/bike-seat-growler.jpg
