@@ -20,4 +20,4 @@ In the IT Software world, FHIR is a way to standardize data so that there are a 
 As a software developer, having this type of data has huge potential. Developers can quickly create dashboards that allow the various healthcare providers to communicate more directly using interfaces, comment fields, patient history, schedules, and so on.
 
 ## Conclusion
-The entire hackathon experience was a huge educational experience to me. I am impressed with the work of Teri Sippel Schmidt and her students. She is the mastermind behind the hackathon project. She is a huge contributer to establishing communication standards for the IHE (Integrated Health Enterprises). The fact that she is teaching young engineers and developers these standards is a tremendous contribution to the industry.
+The entire hackathon experience taught me just how much potential there is by enforcing a few standards.  I appreciate Teri Sippel Schmidt taking the initiative in teaching young engineers a solution to a problem that few know how to fix. 

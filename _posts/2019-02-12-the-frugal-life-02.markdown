@@ -16,13 +16,13 @@ UW Credit union has some slick reporting features for their online banking.
 
 ![Monthly Expenses]({{ '/assets/images/2019/march/expenses.png' }})
 
-After calculating my expenses including reimbursements for half the rent and other stuff, my total spending were **1478.99**. I was able to reduce my spending by $1500 from last month.
+After calculating my expenses including reimbursements for half the rent and other stuff, my total spending was **1478.99** which is a $1500 decrease from January. Late Christmas gifts and a trip to Florida is mostly responsible for the extreme difference.
 
 # what I did right
-I communicated with my friends and family my new schedule filled with online-classes and home projects. That estabished easy communication when it came to declining invitations for going out to restaurants or bars.
+I communicated my intentions with family and friends. That estabished easy communication when it came to declining invitations without feeling the pangs of guilt one feels when taking a break for themselves.
 
 # what I can do to improve
-The thing that cost me the most is stress. When I am stress, my eating, sleeping, and drinking habits change a lot and I will often be more impulsive about decisions, including purchases. In the future, I will need to identify stresses sooner so to avoid needless suffering.
+The thing I had noticed is the relationship between stress and impulsive behavior. The key to staying true to long term planning and goals is to minimize stress.
 
 ## Frugal doesn't mean you can't find quality stuff 
 
