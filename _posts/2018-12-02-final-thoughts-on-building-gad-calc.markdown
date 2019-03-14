@@ -13,7 +13,7 @@ I thought it fitting that I would build the second version.
 ![Table View]({{ '/assets/images/2018/dec/gadCalc1.png' }})
 
 It was thought that building the app from scratch using swift would be easier than using the original code that was done in c#.
-The reason being is swift provides build in sorting/deleting functionality for table views.
+The reason being is swift provides built in sorting/deleting functionality for table views.
 
 ## A different mindset
 Mobile development forced me to be more of a designer than a back end developer.

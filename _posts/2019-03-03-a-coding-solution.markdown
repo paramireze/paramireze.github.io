@@ -11,7 +11,7 @@ The problem that I ran into is that the application had a 2-3 second delay on th
 
 The reason for the delay is unknown. I think it had to do with the vendor's rabbitMQ's messaging bus, however, I am not certain. While the groups scratch their heads trying to figure the speed disreprency, I set out to implement a work-around.
 
-Since a lot of the exam data is already being used in the dashboard, I figured I could lazy load the rest of the exam data into hidden fields. With all the data there, I then use the code below to dynamically create the exam pop-up windows without ever doing any AJAX calls, thus fixing the speed issue.
+Since a lot of the exam data is already being used in the dashboard, I figured I could eager load the rest of the exam data into hidden fields. With all the data there, I then use the code below to dynamically create the exam pop-up windows without ever doing any AJAX calls, thus fixing the speed issue.
 
 {% highlight javascript %}
 

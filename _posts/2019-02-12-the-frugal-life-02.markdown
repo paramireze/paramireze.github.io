@@ -37,7 +37,7 @@ Lots and lots of veggies with every meal.
 
 Found some decent clothes 
 
-![clothes]({{ '/assets/images/2019/feb/clothes-1.JPG' }}) ![clothes]({{ '/assets/images/2019/feb/clothes-2.JPG' }}) ![Clothes]({{ '/assets/images/2019/feb/clothes-3.JPG' }})
+![clothes]({{ '/assets/images/2019/feb/clothes-1.jpg' }}) ![clothes]({{ '/assets/images/2019/feb/clothes-2.jpg' }}) ![Clothes]({{ '/assets/images/2019/feb/clothes-3.jpg' }})
 
 ## Reward!!
 
