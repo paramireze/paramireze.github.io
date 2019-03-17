@@ -2,7 +2,7 @@
 layout: post
 title: "Another Trip to the North Woods"
 date: 2019-01-06 08:00:00 -0500
-categories: Travel
+categories: Adventuring
 ---
 
 To kick off 2019, I descended upon Hurley Wisconsin with a dozen other hashers.

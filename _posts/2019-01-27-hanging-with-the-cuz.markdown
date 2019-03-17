@@ -2,7 +2,7 @@
 layout: post
 title: "Tampa Bay Fun"
 date: 2019-01-06 08:00:00 -0500
-categories: Travel
+categories: Adventuring
 ---
 
 For the second time in my adult life, I descend upon Tampa to hang out with family.

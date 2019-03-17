@@ -1,9 +1,8 @@
 ---
 layout: post
 title: "Life in Tampa"
-date: 2018-06-15 09:02:50 -0500
-published: false
-categories: Travel
+date: 2018-06-15 09:02:50 -0500s
+categories: Adventuring
 ---
 
 ![cloud]({{ '/assets/images/tampa/cloud.jpg' }})

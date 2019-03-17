@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Utah"
+title: "Visiting an old Friend"
 date: 2018-08-30 08:00:00 -0500
-published: false
-categories: Travel
+categories: Adventuring
 ---
 
 I spent 5 days hanging out with my friend from Utah. 
