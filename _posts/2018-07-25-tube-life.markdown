@@ -2,7 +2,7 @@
 layout: post
 title: "Tubing on the Wisconsin"
 date: 2018-07-24 10:00:00 -0500
-categories: Adventuring
+categories: Travel
 ---
 
 Every year, the Madison `Hash House Harriers` goes tubing on the Wisconsin River in Spring Green. 

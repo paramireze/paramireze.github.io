@@ -25,6 +25,7 @@ layout: default
 
       {% for post in site.posts %}
         {% unless post.categories contains 'Lifestyle' %}
+        {% unless post.categories contains 'Reviews' %}
         {% unless post.categories contains 'Adventuring' %}
         {% unless post.categories contains 'Travel' %}
         {% unless post.categories contains 'Race' %}
@@ -45,6 +46,7 @@ layout: default
             <hr />
           </li>
 
+        {% endunless %}
         {% endunless %}
         {% endunless %}
         {% endunless %}
