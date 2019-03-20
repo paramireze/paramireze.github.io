@@ -6,7 +6,7 @@ published: false
 categories: Lifestyle
 ---
 
-Last December, I woke up to a missing cargo bike. It was locked to my patio and would remain missing for several months. It is a special bike of a unique brand/type. Its a long tailed, fat cargo bike and it was not cheap.
+Last December, I woke up to a missing cargo bike. It was locked to my patio and would remain missing for several months. It is a long tailed, fat cargo bike (say that 10x fast).
 
 Several months later, I received a call from a guy named Nate. He had found my bike abandoned between some buildings close to where I live. That tells me I likely had forgotton to lock it and someone took for a joy ride. 
 

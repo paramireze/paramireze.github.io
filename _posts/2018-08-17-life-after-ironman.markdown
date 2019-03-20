@@ -22,9 +22,8 @@ To this day I scratch my head quite vigorously trying to figure out how that hap
 ## quitting
 Quitting Ironman was tough for me.
 I thought I was somehow letting people down, that I was an inspiration to my family and friends and they were depending on me.
-I truly thought that I was somehow letting other people down if I chose to quit competing.
-That perception was self induced.
-It is interesting to think about since it explains the tendency I have to play certain roles in all areas of my life.   
+That perception was self induced and not sure how I arrived at those conclusions.
+It is interesting to think about since it could explain other behaviors that aren't necessarily in my own self-interest.
 
 ## life after ironman
 After throwing in the towel, I rediscovered my love for adventuring.
@@ -32,9 +31,6 @@ Every morning, I strap on a backpack and run commute to work or wherever I happe
 I enjoy traveling and doing endurance events with friends and couldn't care less about time/speed.  
 
 ## conclusion
-The ultimate lesson I learned is people are not stupid. 
-I was not fooling anyone by thinking I was doing others favors by doing something I was not absolutely certain about.
-Furthermore, I learned that I need to listen to the feedback people are giving me.
-There were many warning signs before I reached full burnout. 
+I have realized that people are able to see what I am completely blind to. If open-minded, I can avoid a lot of pain and hardship by listen to the feedback people are giving me. 
 
 ![Ironman]({{ '/assets/images/2018/dec/ironman.JPG' }})
