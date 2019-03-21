@@ -18,6 +18,4 @@ I do not believe using discipline to save money or lose weight is the right way 
 
 For the last few months, I have similarly been forming habits that involve saving money. This means not going out nearly as much as I once did. This has proven to be the toughest change in habits that I have ever faced. I spent the last 20 years going out almost every friday and saturday with friends over drinks. Sometimes I will shut my phone off on Fridays, knowing that I may cave into peer pressure. Not easy indeed. 
 
-As a reward system to replace my alcohol fueled tendencies, I having been devoting much time towards Machine Learning courses. Coursera and a few other sites offer free on-line classes. Also, I have been exercising more frequently. I feel in the best shape of my life. 
-
-I have found that blogging about my progress has been a positive motivator. When I am struggling, looking at the work I've done will help motivate me to stick with the plan. 
+As a reward system to replace my alcohol fueled tendencies, I have been taking online-courses, exercising more frequently, and bragging about it through this blog site. When I am struggling, I find that looking at my progress over the months has been a huge motivator. 
