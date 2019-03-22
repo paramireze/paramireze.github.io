@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Living the Frugal Life"
+title: "Febuary Spendings: A Fresh Start"
 date: 2019-03-01 12:00:00 -0500
 categories: Lifestyle
 ---
