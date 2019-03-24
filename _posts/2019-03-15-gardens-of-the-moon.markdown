@@ -5,10 +5,9 @@ date: 2019-03-13 12:00:00 -0500
 categories: Review
 ---
 
+Gardens of the Moon is about a war taking place between the Malazan empire and the occupants of the continent of Genebackis. The story is told through the eyes of an assortment of characters ranging from mages, theives, soldiers, and politicians. 
 
 <img src='/assets/images/2019/march/gardens-of-the-moon.png' alt="drawing" width="300"/>
-
-Gardens of the Moon is about a war taking place between an  empire and the continent of Genebackis. The story is told through the eyes of an assortment of characters ranging from mages, theives, soldiers, and politicians. 
 
 The main character is a Sorceress named Tattersail. She is a tragic character who has the poor misfortune of surviving many battles only to lose everyone she loves. She clings tight to whatever humanity she has and looks for ways to preserve it, despite being an instrument of destruction. She is a compentant at conducting battles and will often destroy her opponents through sheer determination and mastery of her arts. 
 
