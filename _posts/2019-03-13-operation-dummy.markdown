@@ -23,22 +23,20 @@ Well, this dummy was reunited with his other dummy. It had been sitting out in t
 
 # go on gnarly ride
 
-<img src='/assets/images/2019/march/ride.png' alt="drawing" /> 
- 
-# destroy your quads 
+The plan was to destroy my quads by biking the militery ridge bike path to Mt. Horeb. 
 
-The plan was to take the militery ridge, rails to trail, bike path to Mt. Horeb and have a beverage at Grumpy Troll. 
+<img src='/assets/images/2019/march/ride.png' alt="drawing" /> 
 
 <table>
 	<tr>
-		<td>It's early spring and the 20-25 miles of hardpacked trail was a bit soupy</td>
+		<td>It's early spring and the 25'ish miles of dirt trail was a bit soupy</td>
 		<td>
 			<img src='/assets/images/2019/march/ride2.jpg' alt="drawing" width="600px"/>
 		</td>
 	</tr>
 </table>
  
-# Mt Horeb
+# mt horeb
 
 Hung out at Grumpy troll for a drink and a growler fill at the turn-around.
 
@@ -51,17 +49,18 @@ Hung out at Grumpy troll for a drink and a growler fill at the turn-around.
 	</tr>
 </table>
  
-# embrace the slope
+# embrace the slop
 
-The ride home was much more difficult than the ride there, despite the decrease in elevation. Fortunately, I was insightful enough to fill up a couple of growlers for the ride home.
+The ride home was much more difficult than the ride there, despite the descent in elevation. Fortunately, I was insightful enough to fill up a couple of growlers for the ride home.
 
 <img src='/assets/images/2019/march/ride6.jpg' alt="drawing" />
 
 <img src='/assets/images/2019/march/ride3.jpg' alt="drawing" /> 
+
 <img src='/assets/images/2019/march/ride4.jpg' alt="drawing" /> 	
 
 
-# Mission Complete
+# mission complete
 
 After 7 hours of riding, I was thoroughly reacquainted with my beloved dummy. 
 
