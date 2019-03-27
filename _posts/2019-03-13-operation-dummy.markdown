@@ -21,13 +21,13 @@ Well, this dummy was reunited with his other dummy. It had been sitting out in t
 
 <img src='/assets/images/2019/march/food.jpg' alt="drawing" /> 
 
-# go on gnarly ride
+# destroy quads
 
-The plan was to destroy my quads by biking the militery ridge bike path to Mt. Horeb. 
+The plan was to ride the militery ridge bike path to Mt. Horeb and back. The trail conditions were not ideal, however, the BFD did not seem to mind much.   
 
 <img src='/assets/images/2019/march/ride.png' alt="drawing" /> 
 
-<table>
+<table border="0" style="border: 0">
 	<tr>
 		<td>It's early spring and the 25'ish miles of dirt trail was a bit soupy</td>
 		<td>
@@ -40,7 +40,7 @@ The plan was to destroy my quads by biking the militery ridge bike path to Mt. H
 
 Hung out at Grumpy troll for a drink and a growler fill at the turn-around.
 
-<table>
+<table border="0">
 	<tr>
 		<td>
 			<img src='/assets/images/2019/march/ride1.jpg' alt="drawing" />
