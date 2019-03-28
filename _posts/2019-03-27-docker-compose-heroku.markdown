@@ -12,6 +12,8 @@ Docker makes certain that the behaviors and appearance of your application that 
 If you ever build software, you know this is a huge help.
 Before I used docker, it was not uncommon to see bugs and styling differences while demo'ing an application to clients.
 
+```
+
 Heroku production url:
 https://secret-hamlet-93763.herokuapp.com/
 
@@ -21,6 +23,7 @@ https://github.com/paramireze/FAF
 setting up the docker and heroku environment tutorial:
 https://medium.com/firehydrant-io/developing-a-ruby-on-rails-app-with-docker-compose-d75b20334634
 
+```
 # heroku
 
 Heroku provides an slick command line tool that allows me to deploy the application to a live production server.
