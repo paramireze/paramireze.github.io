@@ -8,8 +8,8 @@ categories: Lifestyle
 
 This exercise of blogging about my spendings has some surprising results. 
 For one, I no longer think saving more money is always better, or realistic.
-Instead, my perception has shifted to asking the question "what am I hoping to achieve?".
-That shift has allowed me to have a better, healthier internal dialog regarding my habits.
+In fact, I am starting to notice that there are healthy spending habits that are not always immediately clear.
+
 
  
 ## results are in 

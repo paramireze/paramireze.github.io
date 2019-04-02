@@ -6,11 +6,13 @@ categories: Ruby Rails development
 ---
 
 I am building a ruby rails app to replace an existing php application.
-It is a Question/Answer application that allows faculty to document productivity.
+The app answers the question "why do you deserve to be paid?
+It is a place for faculty to document their contributions to research and education to the University. 
 Reviewers will then go over their entries and either approve or deny their entries.
 
-The first thing I do with any new application is diagram.
-Visualizing the data models will allow me to have a source of truth when many hours in coding.
+For me, diagramming is absolutely essential for understanding how to design an application.
+It is the blueprints to how I will build the application.
+For now, I am only making a entity relational diagram since I am building out the models and database first. 
 
 ![erd diagram]({{ '/assets/images/2019/march/faf-models.png' }})
 
