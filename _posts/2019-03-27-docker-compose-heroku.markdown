@@ -13,7 +13,7 @@ Reviewers will then go over their entries and either approve or deny their entri
 For me, diagramming is absolutely essential for understanding how to design an application.
 It is the blueprints to how I will build the application.
 For now, I am only making a entity relational diagram since I am building out the models and database first. 
-
+   
 ![erd diagram]({{ '/assets/images/2019/march/faf-models.png' }})
 
 For this particular application, I am denormalizing the tables a bit to simplify the relations.

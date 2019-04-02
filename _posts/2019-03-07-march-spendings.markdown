@@ -2,13 +2,13 @@
 layout: post
 title: "March Spendings: Its a long road"
 date: 2019-03-29 12:00:00 -0500
-
 categories: Lifestyle
 ---
 
-This exercise of blogging about my spendings has some surprising results. 
-For one, I no longer think saving more money is always better, or realistic.
-In fact, I am starting to notice that there are healthy spending habits that are not always immediately clear.
+Something I did not realize before, studying your spendings is like having an extra set of eyes.
+It gives you an external view into how you are.
+For example, I can get some insight on my emotional well-being based on the dips and spikes in my spending.
+Also, this process gives me a feedback mechanism that promotes additional thought before any purchase is made.
 
 
  
