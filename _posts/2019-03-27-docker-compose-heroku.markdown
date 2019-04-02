@@ -6,7 +6,7 @@ categories: Ruby Rails development
 ---
 
 I am building a ruby rails app to replace an existing php application.
-The app answers the question "why do you deserve to be paid?
+The app answers the question "why do you deserve to be paid?"
 It is a place for faculty to document their contributions to research and education to the University. 
 Reviewers will then go over their entries and either approve or deny their entries.
 
