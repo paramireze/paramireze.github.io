@@ -8,22 +8,20 @@ categories: Ruby Rails development
 I am building a ruby rails app to replace an existing php application.
 The app answers the question "why do you deserve to be paid?"
 It is a place for faculty to document their contributions to research and education to the University. 
-Reviewers will then go over their entries and either approve or deny their entries.
+Reviewers will then go over their entries and assign RVU (relative value units) to each entry.
 
-For me, diagramming is absolutely essential for understanding how to design an application.
-It is the blueprints to how I will build the application.
-For now, I am only making a entity relational diagram since I am building out the models and database first. 
+Diagramming is to software development as blueprints are to construction/architecture 
    
 ![erd diagram]({{ '/assets/images/2019/march/faf-models.png' }})
 
-For this particular application, I am denormalizing the tables a bit to simplify the relations.
-I could create a category_questions table.
-The problem with the existing FAF is it is over designed. It has a crazy database that is normalized to the 6nf.
+For this particular application, I am de-normalizing the tables a bit to simplify the relations.
+I could create a category_questions table, however, creating questions is inexpensive.
+The problem with the existing FAF is it is over designed and can be over-welming for anyone not accustomed to the application.
 
-For building this app, I am teaching myself how to do a test driven development approach.
-Basically, I will write the tests before I write the code.
-I have been told this is a more effecient way of developing in the long run by far.
+For this app, I am taking a test driven development approach.
+My goal will be to make a fully tested application from start to finish
 
+# TDD Concepts
 
 Acceptance Test
 - high level
