@@ -3,9 +3,7 @@ layout: page
 title: Reviews
 permalink: /reviews/
 order: 3
----
-                
-this is where I go talk about things I've read or equipment I've used. I like to think my approach is very informal when it comes to structuring thoughts and opinions on any given subject.
+---              
 
 {% if site.posts.size > 0 %}
     
