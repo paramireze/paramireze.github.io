@@ -37,11 +37,9 @@ So it wasn't hard for Rhulad to militerize all the tribes for a seemingly righto
 The story of the Tiste Edur is a sad one. After the Warlock King is usurped, their traditions and values started to be comprimised. 
 The identity of the Tiste Edur was being dismantled by Rhulad and his billigerance towards traditions that were held sacred. 
 Furthermore, during battles, the warlock king would unleash choatic magic instead of Kurald Emurlahn (magic belonging to their god father shadow). 
-In one battle, the Warlock King unleashed vortexes upon the Letherii defensives and those columns would strip the flesh from each soldier and fill the sky with bone and armor. 
+In one battle, the Warlock King unleashed vortexes upon the Letherii defenses and those columns would strip the flesh from each soldier and fill the sky with bone and armor. 
 The battle field was described as raining bone and armor and not a drop of blood could be found. 
 By all standards of the Tiste Edur tradition, this was as far from an honorable battle and left them all deeply scarred.
 
-There are a lot of other stories that a less central of the book that align with an over arching theme among the 10 novel series. 
-Most of which having to do with the elder gods and their jocking for power. 
-It just shows that the Cripple God can wreck havoc if left unchecked, forcing the other gods to react and get drawn into conflict. 
-All of which leads to endless mortal deaths in war and otherwise.
+There are a lot of other stories that a less central to what I have just described.
+The Gods that are playing behind the scenes in this war align to an over arching story that span across the 10 novel series. 
