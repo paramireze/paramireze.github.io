@@ -41,7 +41,7 @@ In one battle, the Warlock King unleashed vortexes upon the Letherii defensives 
 The battle field was described as raining bone and armor and not a drop of blood could be found. 
 By all standards of the Tiste Edur tradition, this was as far from an honorable battle and left them all deeply scarred.
 
-There is are a lot of other stories that a less central of the book that align with an over arching theme among the 10 novel series. 
+There are a lot of other stories that a less central of the book that align with an over arching theme among the 10 novel series. 
 Most of which having to do with the elder gods and their jocking for power. 
 It just shows that the Cripple God can wreck havoc if left unchecked, forcing the other gods to react and get drawn into conflict. 
 All of which leads to endless mortal deaths in war and otherwise.
